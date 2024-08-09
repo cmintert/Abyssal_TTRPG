@@ -1,4 +1,4 @@
-## General Component Template Prompt
+# General Component Template Prompt
 
 ### Start of Prompt ###
 ```markdown
@@ -78,10 +78,7 @@ Create proper indentation for the Python dictionary.
 ```
 ### End of Prompt ###
 
-
-
-
-## General Ship Template Prompt
+# General Ship Template Prompt
 
 ### Start of Prompt ###
 ```markdown
@@ -191,7 +188,7 @@ Create proper indentation for the Python dictionary.
 ```
 ### End of Prompt ###
 
-## General Weapon Template Prompt
+# General Weapon Template Prompt
 
 ### Start of Prompt ###
 ```markdown
@@ -226,10 +223,14 @@ Format the output as a Python dictionary with the following fields:
 - **Options**: `"Single"`, `"Burst"`, `"Sustained"`, `"Rapid Fire"`
 
 #### Component Size [type: integer]:
-- **Small Components (1 Slot)**: Light Weapon Systems
-- **Medium Components (2 Slots)**: Medium Weapon Systems
-- **Large Components (3 Slots)**: Heavy Weapon Systems
-- **Extra-Large Components (4+ Slots)**: Capital-Class Weapon Systems
+- **Small Components (1 Slot)**:
+  -Light Weapon Systems
+- **Medium Components (2 Slots)**: 
+  -Medium Weapon Systems
+- **Large Components (3 Slots)**: 
+  -Heavy Weapon Systems
+- **Extra-Large Components (4+ Slots)**: 
+  -Capital-Class Weapon Systems
 
 ### Description [type: string]:
 
