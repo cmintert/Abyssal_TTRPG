@@ -200,6 +200,15 @@ Format the output as a Python dictionary with the following fields:
 
 ### Use the following value ranges:
 
+#### Type [type: string]
+- Short Range Missile
+- Long Range Missile
+- Torpedo
+- Point Defence Gauss Weapon
+- Large Calibre Gauss Cannon
+- High Intensity Laser
+- Conventional Projectile Weapon
+
 #### Damage [type: string]:
 - **Low**: (`"1d6"` to `"2d6"`)
 - **Moderate**: (`"2d8"` to `"3d8"`)
