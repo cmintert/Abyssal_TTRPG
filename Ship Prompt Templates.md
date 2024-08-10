@@ -49,13 +49,12 @@ Format the output as a Python dictionary with the following fields:
 
 ### Description [type: string]:
 Should be a string of text.
-Values are either enclosed in quotes or not. Values cannot have open quotes in them.
+Values cannot have open quotes in them.
 
 ### Python Dictionary Format:
 
 The dictionary should be enclosed in `{}`, with no variable name in front of it. After the last bracket there should 
 be a comma `,`.
-  
 Create proper indentation for the Python dictionary. 
 
 ### Example Structure in Python:
