@@ -1,7 +1,5 @@
-# General Component Template Prompt
+# Start of General Component Template Prompt ###
 
-### Start of Prompt ###
-```markdown
 Please design a new component for `[Component Type]` in a space vessel in the Abyssal TTRPG game. The component should `[describe the 
 function and special features]`.Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
 
@@ -52,10 +50,11 @@ Format the output as a Python dictionary with the following fields:
 - **High**: (+2)
 - **Very High**: (+3)
 
-#### Rating [type: integer]:
+#### Rating [type: string]:
 - Rate the component from 1 to 30.
 - Consider gameplay balance and the component's role in the game.
 - Consider the component's size and special features.
+- Write your reasoning in 2 to 3 sentences.
 
 ### Description [type: string]:
 - Should be a string of text.
@@ -82,13 +81,11 @@ Create proper indentation for the Python dictionary.
     },
     "type": "component"
 },
-```
-### End of Prompt ###
 
-# General Ship Template Prompt
+### End of General Component Template Prompt ###
 
-### Start of Prompt ###
-```markdown
+# Start of General Ship Template Prompt #
+
 Please design a new ship for the in the Abyssal TTRPG game. The ship should be `[describe the ship's role, size, and 
 special features]`. Include attributes such as acceleration, endurance, and armament.
 
@@ -164,10 +161,11 @@ Format the output as a Python dictionary with the following fields:
 - Value is a list of strings.
 - The added Component sizes can not be greater than the ship's Component Slots.
 
-#### Rating [type: integer]:
+#### Rating [type: string]:
 - Rate the ship from 1 to 30.
 - Consider gameplay balance and the ship's role in the game.
 - Consider the ship's size and special features.
+- Write your reasoning in 2 to 3 sentences.
 
 ### Description [type: string]:
 - Should be a string of text.
@@ -201,13 +199,11 @@ Format the output as a Python dictionary with the following fields:
     },
     "type": "ship"
 },
-```
-### End of Prompt ###
 
-# General Weapon Template Prompt
+### End of General Ship Template Prompt ###
 
-### Start of Prompt ###
-```markdown
+# Start General Weapon Template Prompt #
+
 Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon should `[describe the type, range, and 
 special abilities]`.
 Missile and torpedo weapons include the launchers as part of the weapon system. 
@@ -232,7 +228,7 @@ Format the output as a Python dictionary with the following fields:
 - Point Defence Gauss Weapon
 - Large Calibre Gauss Cannon
 - High Intensity Laser
-- Conventional Projectile Weapon
+- Conventional Projectile Weapon (CPW). CPW use a propellant to fire a solid projectile. 
 
 #### Damage [type: string]:
 - **Low**: (`"1d6"` to `"2d6"`)
@@ -265,11 +261,12 @@ Format the output as a Python dictionary with the following fields:
 - **Extra-Large Components (4+ Slots)**: 
   -Capital-Class Weapon Systems
   
-#### Rating [type: integer]:
+#### Rating [type: string]:
 - Rate the weapon from 1 to 30.
 - Consider gameplay balance and the weapon's role in the game.
 - Consider the weapon's size and special features.
-
+- Write your reasoning in 2 to 3 sentences.
+- 
 #### Description [type: string]:
 - Should be a string of text.
 
@@ -279,7 +276,7 @@ Format the output as a Python dictionary with the following fields:
 - Create proper indentation for the Python dictionary.
 
 ### Example Structure in Python:
-
+```python
 {
     "data": {
         "Weapon Name": "Example Weapon",
@@ -291,10 +288,10 @@ Format the output as a Python dictionary with the following fields:
         "Rate of Fire": "Sustained",
         "Special Properties": "Armor-piercing, EMP-capable",
         "Component Size": 3,
-        "Rating": 20,
+        "Rating": "It is rated 15 because it is a heavy weapon system with high penetration and EMP capabilities.",
         "Description": "A powerful heavy weapon system designed for long-range engagements, featuring high penetration and EMP capabilities."
     },
     "type": "weapon"
 },
 ```
-### End of Prompt ###
+### End General Weapon Template Prompt ###
