@@ -6,10 +6,15 @@ Please design a new component for `[Component Type]` in a space vessel. The comp
 
 Format the output as a Python dictionary with the following fields:
 
-- **Data**: Contains the fields for Component Name, Type, Component Size, Attribute 1, Attribute 2, Attribute 3, Attribute 4, Special Properties, EWDR, and Description.
+- **Data**: Contains the fields for Component Name, Type, Component Size, Attributes, Special Properties, EWDR, and 
+  Description.
 - **Type**: Contains the string value `"component"`.
 
 ### Use the following value ranges if applicable:
+
+#### Attributes [type: string]
+Attribute names have to describe the value.
+Components can have multiple attributes.
 
 #### Component Size [type: integer]:
 - **Small Components (1 Slot):**
@@ -64,10 +69,7 @@ Create proper indentation for the Python dictionary.
       "Component Name": "Example Component",
       "Type": "Component Type",
       "Component Size": "Small",
-      "Attribute 1": "Value 1",
-      "Attribute 2": "Value 2",
-      "Attribute 3": "Value 3",
-      "Attribute 4": "Value 4",
+      "Attribute description": "Attributes",
       "Special Properties": "Special Features",
       "EWDR": "Moderate",
       "Description": "This is a detailed description of the component."
@@ -191,7 +193,9 @@ Create proper indentation for the Python dictionary.
 
 ### Start of Prompt ###
 ```markdown
-Please design a new weapon for a space vessel. The weapon should `[describe the type, range, and special abilities]`. Include details like damage, penetration, and rate of fire.
+Please design a new weapon for a space vessel. The weapon should `[describe the type, range, and special abilities]`.
+Missile and torpedo weapons include the launchers as part of the weapon system. 
+Missile and torpedo magazines are separate Components and not weapons.
 
 Format the output as a Python dictionary with the following fields:
 
