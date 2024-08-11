@@ -1,7 +1,6 @@
 # Start of General Component Template Prompt ###
 
-Please design a new component for `[Component Type]` in a space vessel in the Abyssal TTRPG game. The component should `[describe the 
-function and special features]`.Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
+Please design a new component for `[Component Type]` in a space vessel in the Abyssal TTRPG game. The component should `[describe the function and special features]`.Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
 
 Format the output as a Python dictionary with the following fields:
 
@@ -9,6 +8,10 @@ Format the output as a Python dictionary with the following fields:
 - **Type**: Contains the string value `"component"`.
 
 ### Use the following value ranges if applicable:
+
+#### Name [type: string]:
+- The components name.
+- The name includes a technical abbreviation.
 
 #### Attributes [type: Dict of strings]
 - Attribute names have to describe the value.
@@ -106,7 +109,7 @@ Format the output as a Python dictionary with the following fields:
 
 #### Name [type: string]:
 - Stands for a class of ships.
-- Create an abbreviation for the class.
+- The name includes a technical abbreviation for the class.
 
 #### Size (GST) [type: integer]:
 - **Small**: (200-800 GST)
@@ -219,7 +222,9 @@ Format the output as a Python dictionary with the following fields:
 ### Use the following value ranges:
 
 #### Name [type: string]:
-- Include an abbreviation based on weapon name and type.
+- The weapon's name.
+- The name includes a technical abbreviation based on weapon type.
+- The name has to sound martial.
 
 #### Type [type: string]
 - Short Range Missile
