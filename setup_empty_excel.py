@@ -13,8 +13,8 @@ weapon_data = {
     "EWAR": [],
     "Rate of Fire": [],
     "Special Properties": [],
-    "Ammo Capacity": [],
-    "Weight": [],
+    "Component Size": [],
+    "Rating": [],
     "Description": []
 }
 
@@ -22,7 +22,8 @@ weapon_data = {
 ship_data = {
     "Ship Name": [],
     "Size (GST)": [],
-    "Acceleration (Cruise/March/Max in Gs)": [],
+    "Component Slots": [],
+    "Acceleration (MaxG)": [],
     "Structural Endurance (StE)": [],
     "Electronic Endurance (ElE)": [],
     "Signal Rating (SiR)": [],
@@ -31,8 +32,9 @@ ship_data = {
     "Sensor Modifier": [],
     "EWDR": [],
     "Weapon Systems": [],
-    "Special Systems": [],
+    "Components": [],
     "Crew Complement": [],
+    "Rating": [],
     "Description": []
 }
 
@@ -40,13 +42,10 @@ ship_data = {
 component_data = {
     "Component Name": [],
     "Type": [],
-    "Attribute 1": [],
-    "Attribute 2": [],
-    "Attribute 3": [],
-    "Attribute 4": [],
-    "Weight": [],
-    "Power Requirement": [],
+    "Component Size": [],
     "Special Properties": [],
+    "EWDR": [],
+    "Rating": [],
     "Description": []
 }
 
