@@ -12,7 +12,7 @@ Format the output as a Python dictionary with the following fields:
 
 ### Use the following value ranges if applicable:
 
-#### Attributes [type: string]
+#### Attributes [type: Dict of strings]
 Attribute names have to describe the value.
 Components can have multiple attributes.
 
@@ -69,7 +69,7 @@ Create proper indentation for the Python dictionary.
       "Component Name": "Example Component",
       "Type": "Component Type",
       "Component Size": "Small",
-      "Attribute description": "Attributes",
+      "Attributes": "Dict",
       "Special Properties": "Special Features",
       "EWDR": "Moderate",
       "Description": "This is a detailed description of the component."
