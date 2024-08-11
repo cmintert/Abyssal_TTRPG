@@ -2,19 +2,19 @@
 
 ### Start of Prompt ###
 ```markdown
-Please design a new component for `[Component Type]` in a space vessel. The component should `[describe the function and special features]`.Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
+Please design a new component for `[Component Type]` in a space vessel in the Abyssal TTRPG game. The component should `[describe the 
+function and special features]`.Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
 
 Format the output as a Python dictionary with the following fields:
 
-- **Data**: Contains the fields for Component Name, Type, Component Size, Attributes, Special Properties, EWDR, and 
-  Description.
+- **Data**: Contains the fields for Component Name, Type, Component Size, Attributes, Special Properties, EWDR, Rating, and Description.
 - **Type**: Contains the string value `"component"`.
 
 ### Use the following value ranges if applicable:
 
 #### Attributes [type: Dict of strings]
-Attribute names have to describe the value.
-Components can have multiple attributes.
+- Attribute names have to describe the value.
+- Components can have multiple attributes.
 
 #### Component Size [type: integer]:
 - **Small Components (1 Slot):**
@@ -52,9 +52,14 @@ Components can have multiple attributes.
 - **High**: (+2)
 - **Very High**: (+3)
 
+#### Rating [type: integer]:
+- Rate the component from 1 to 30.
+- Consider gameplay balance and the component's role in the game.
+- Consider the component's size and special features.
+
 ### Description [type: string]:
-Should be a string of text.
-Values cannot have open quotes in them.
+- Should be a string of text.
+- Values cannot have open quotes in them.
 
 ### Python Dictionary Format:
 
@@ -65,16 +70,17 @@ Create proper indentation for the Python dictionary.
 ### Example Structure in Python:
 
 {
-  "data": {
-      "Component Name": "Example Component",
-      "Type": "Component Type",
-      "Component Size": "Small",
-      "Attributes": "Dict",
-      "Special Properties": "Special Features",
-      "EWDR": "Moderate",
-      "Description": "This is a detailed description of the component."
-  },
-  "type": "component"
+    "data": {
+        "Component Name": "Example Component",
+        "Type": "Component Type",
+        "Component Size": "Small",
+        "Attributes": "Dict",
+        "Special Properties": "Special Features",
+        "EWDR": "Moderate",
+        "Rating": 20,
+        "Description": "This is a detailed description of the component."
+    },
+    "type": "component"
 },
 ```
 ### End of Prompt ###
@@ -83,11 +89,14 @@ Create proper indentation for the Python dictionary.
 
 ### Start of Prompt ###
 ```markdown
-Please design a new ship for the game. The ship should be `[describe the ship's role, size, and special features]`. Include attributes such as acceleration, endurance, and armament.
+Please design a new ship for the in the Abyssal TTRPG game. The ship should be `[describe the ship's role, size, and 
+special features]`. Include attributes such as acceleration, endurance, and armament.
 
 Format the output as a Python dictionary with the following fields:
 
-- **Data**: Contains the fields for Ship Name, Size (GST), Component Slots, Acceleration (MaxG), Structural Endurance (StE), Electronic Endurance (ElE), Signal Rating (SiR), Armor, Cargo Capacity (GST), Sensor Modifier, EWDR, Weapon Systems, Components, Crew Complement, and Description.
+- **Data**: Contains the fields for Ship Name, Size (GST), Component Slots, Acceleration (MaxG), Structural 
+  Endurance (StE), Electronic Endurance (ElE), Signal Rating (SiR), Armor, Cargo Capacity (GST), Sensor Modifier, 
+  EWDR, Weapon Systems, Components, Crew Complement, Rating, and Description.
 - **Type**: Contains the string value `"ship"`.
 
 ### Additional Details:
@@ -99,7 +108,8 @@ Format the output as a Python dictionary with the following fields:
 ### Use the following value ranges:
 
 #### Name [type: string]:
-Stands for a class of ships.
+- Stands for a class of ships.
+- Create an abbreviation for the class.
 
 #### Size (GST) [type: integer]:
 - **Small**: (200-800 GST)
@@ -148,21 +158,25 @@ Stands for a class of ships.
 **Very High**: (7-9)
 
 #### Weapon Systems [type: list of strings]:
-Value is a list of strings.
+- Value is a list of strings.
 
 #### Components [type: list of strings]:
-Value is a list of strings.
-The added Component sizes can not be greater than the ship's Component Slots.
+- Value is a list of strings.
+- The added Component sizes can not be greater than the ship's Component Slots.
+
+#### Rating [type: integer]:
+- Rate the ship from 1 to 30.
+- Consider gameplay balance and the ship's role in the game.
+- Consider the ship's size and special features.
 
 ### Description [type: string]:
-Should be a string of text.
-Include a rough size estimate in meters in 3 dimensions, based on the fact that a GST is roughly 3m³.
+- Should be a string of text.
+- Include a rough size estimate in meters in 3 dimensions, based on the fact that a GST is roughly 3m³.
 
 ### Python Dictionary Format:
-
-The dictionary should be enclosed in `{}`, with no variable name in front of it. After the last bracket, there should be a colon `,`.
-
-Create proper indentation for the Python dictionary.
+-The dictionary should be enclosed in `{}`, with no variable name in front of it. 
+-After the last bracket, there should be a colon `,`.
+-Create proper indentation for the Python dictionary.
 
 ### Example Structure in Python:
 
@@ -182,6 +196,7 @@ Create proper indentation for the Python dictionary.
         "Weapon Systems": ["Laser Cannons", "Missile Launchers"],
         "Components": ["Kramer PAD Drive", "IRHEC", "Stellar Projector"],
         "Crew Complement": 150,
+        "Rating": 25,
         "Description": "A medium-sized vessel, approximately 50m x 30m x 20m, designed for long-range exploration and combat."
     },
     "type": "ship"
@@ -193,16 +208,22 @@ Create proper indentation for the Python dictionary.
 
 ### Start of Prompt ###
 ```markdown
-Please design a new weapon for a space vessel. The weapon should `[describe the type, range, and special abilities]`.
+Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon should `[describe the type, range, and 
+special abilities]`.
 Missile and torpedo weapons include the launchers as part of the weapon system. 
 Missile and torpedo magazines are separate Components and not weapons.
+Missile and torpedo launchers have a number of simultaneous loaded missiles or torpedoes.
 
 Format the output as a Python dictionary with the following fields:
 
-- **Data**: Contains the fields for Weapon Name, Type, Range Category, Damage, Penetration, EWAR, Rate of Fire, Special Properties, Component Size, and Description.
+- **Data**: Contains the fields for Weapon Name, Type, Range Category, Damage, Penetration, EWAR, Rate of Fire, 
+  Special Properties, Component Size, Rating,and Description.
 - **Type**: Contains the string value `"weapon"`.
 
 ### Use the following value ranges:
+
+#### Name [type: string]:
+- Include an abbreviation based on weapon name and type.
 
 #### Type [type: string]
 - Short Range Missile
@@ -243,16 +264,19 @@ Format the output as a Python dictionary with the following fields:
   -Heavy Weapon Systems
 - **Extra-Large Components (4+ Slots)**: 
   -Capital-Class Weapon Systems
+  
+#### Rating [type: integer]:
+- Rate the weapon from 1 to 30.
+- Consider gameplay balance and the weapon's role in the game.
+- Consider the weapon's size and special features.
 
-### Description [type: string]:
-
-Should be a string of text.
+#### Description [type: string]:
+- Should be a string of text.
 
 ### Python Dictionary Format:
-
-The dictionary should be enclosed in `{}`, with no variable name in front of it. After the last bracket, there should be a colon `,`.
-
-Create proper indentation for the Python dictionary.
+- The dictionary should be enclosed in `{}`, with no variable name in front of it.
+- After the last bracket, there should be a colon `,`.
+- Create proper indentation for the Python dictionary.
 
 ### Example Structure in Python:
 
@@ -267,6 +291,7 @@ Create proper indentation for the Python dictionary.
         "Rate of Fire": "Sustained",
         "Special Properties": "Armor-piercing, EMP-capable",
         "Component Size": 3,
+        "Rating": 20,
         "Description": "A powerful heavy weapon system designed for long-range engagements, featuring high penetration and EMP capabilities."
     },
     "type": "weapon"
