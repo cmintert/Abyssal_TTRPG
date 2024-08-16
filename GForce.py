@@ -39,48 +39,62 @@ def calculate_travel_time(acceleration, initial_velocity, acceleration_time, ran
 
     return total_time
 
-def get_user_input():
+def get_float_input(prompt: str) -> float:
     while True:
         try:
-            acceleration = float(input("Enter acceleration (G): "))
-            initial_velocity = float(input("Enter initial velocity (m/s): "))
-            acceleration_time = float(input("Enter acceleration time (s): "))
-            continuous_acceleration = input("Continuous acceleration (yes/no): ").strip().lower() == 'yes'
-            return acceleration, initial_velocity, acceleration_time, continuous_acceleration
+            return float(input(prompt))
         except ValueError:
-            print("Invalid input. Please enter numeric values.")
+            print("Invalid input. Please enter a numeric value.")
+
+
+def get_user_input():
+    ACCELERATION_PROMPT = "Enter acceleration (G): "
+    INITIAL_VELOCITY_PROMPT = "Enter initial velocity (m/s): "
+    ACCELERATION_TIME_PROMPT = "Enter acceleration time (s): "
+    CONTINUOUS_ACCELERATION_PROMPT = "Continuous acceleration (yes/no): "
+
+    acceleration = get_float_input(ACCELERATION_PROMPT)
+    initial_velocity = get_float_input(INITIAL_VELOCITY_PROMPT)
+    acceleration_time = get_float_input(ACCELERATION_TIME_PROMPT)
+
+    while True:
+        continuous_acceleration_input = input(CONTINUOUS_ACCELERATION_PROMPT).strip().lower()
+        if continuous_acceleration_input in ['yes', 'no']:
+            continuous_acceleration = (continuous_acceleration_input == 'yes')
+            break
+        else:
+            print("Invalid input. Please enter 'yes' or 'no'.")
+
+    return acceleration, initial_velocity, acceleration_time, continuous_acceleration
+
+
+def convert_and_format_flight_time(flight_time):
+    time_units = [("s", 60), ("min", 60), ("hr", 24), ("days", None)]
+    for unit, divisor in time_units:
+        if divisor is None or flight_time <= divisor:
+            return round(flight_time, 2), unit
+        flight_time /= divisor
 
 def display_table(acceleration, initial_velocity, acceleration_time, continuous_acceleration):
+
     print("\nTravel Time Calculation")
     print("-" * 50)
     print(f"{'Parameter':<25}{'Value':<25}")
     print("-" * 50)
-    print(f"{'Acceleration (m/s^2)':<25}{convert_g_to_meters_per_second_squared(acceleration):<25}")
-    print(f"{'Initial Velocity (m/s)':<25}{initial_velocity:<25}")
-    print(f"{'Acceleration Time (s)':<25}{acceleration_time:<25}")
-    print(f"{'Continuous Acceleration':<25}{continuous_acceleration:<25}")
+    print(f"{'Acceleration (G)':<25}{acceleration:<10}")
+    print(f"{'Initial Velocity (m/s)':<25}{initial_velocity:<10}")
+    print(f"{'Acceleration Time (s)':<25}{acceleration_time:<10}")
+    print(f"{'Continuous Acceleration':<25}{continuous_acceleration:<10}")
     print("-" * 50)
 
     range_categories = ["Close Quarter", "Near", "Middle Range", "Long Range", "Extreme Range"]
     for category in range_categories:
-        time_unit = "s"
-
-        flight_time = calculate_travel_time(acceleration, initial_velocity, acceleration_time, category, continuous_acceleration)
-
-        if flight_time > 60:
-            flight_time /= 60
-            time_unit = "min"
-            if flight_time > 60:
-                flight_time /= 60
-                time_unit = "hr"
-                if flight_time > 24:
-                    flight_time /= 24
-                    time_unit = "days"
-
-        flight_time = round(flight_time, 2)
-
-        print(f"{category:<25}{flight_time:<25} {time_unit}")
+        flight_time = calculate_travel_time(acceleration, initial_velocity, acceleration_time, category,
+                                            continuous_acceleration)
+        flight_time, time_unit = convert_and_format_flight_time(flight_time)
+        print(f"{category:<25}{flight_time:<10} {time_unit}")
     print("-" * 50)
+
 
 def main():
     while True:
