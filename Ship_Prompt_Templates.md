@@ -6,6 +6,13 @@ Please respect`[additional details]`
 
 ## Additional Details:
 
+- Missile and Torpedo Magazines:
+  - Short Range Missile Magazine: Designed specifically for short-range missiles. Specify the number of short-range 
+    missiles it can hold.
+  - Long Range Missile Magazine: Designed specifically for long-range missiles. Specify the number of long-range 
+    missiles it can hold.
+  - Torpedo Magazine: Designed specifically for torpedoes. Specify the number of torpedoes it can hold.
+
 ## Format the output as a Python dictionary with the following fields:
 
 - **Data**: Contains the fields for Component Name, Type, Component Size, Attributes, Special Properties, EWDR, Rating, and Description.
@@ -15,7 +22,7 @@ Please respect`[additional details]`
 
 #### Name [type: string]:
 - The components name.
-- The name includes a technical abbreviation with a shor version indicator.
+- The name includes a technical abbreviation with a short version indicator.
 
 #### Attributes [type: Dict of strings]
 - Attribute names have to describe the value.
@@ -23,27 +30,37 @@ Please respect`[additional details]`
 
 #### Component Size [type: integer]:
 - ** 1 (Small Components):**
-  - Basic Sensors
-  - Small Utility Systems
-  - Small Cargo Hold (100 GST capacity)
-  - Basic Missile Magazine (2 short range missiles or a single medium missile)
+  - Examples:
+    - Basic Sensors
+    - Small Utility Systems
+    - Small Cargo Hold (100 GST capacity)
+    - Basic Short Range Missile Magazine (2 short range missiles)
+    - Basic Long Range Missile Magazine (1 long range missile)
 
 - ** 2 (Medium Components):**
-  - Enhanced Sensors
-  - Medium Utility Systems
-  - Medium Cargo Hold (200 GST capacity)
-  - Standard Missile Magazine (4-8 missiles)
+  - Examples:
+    - Enhanced Sensors
+    - Medium Utility Systems
+    - Medium Cargo Hold (200 GST capacity)
+    - Standard Short Range Missile Magazine (4-8 short range missiles)
+    - Standard Long Range Missile Magazine (2-4 long range missiles)
 
 - ** 3 (Large Components):**
-  - Advanced Sensors
-  - Large Utility Systems
-  - Large Cargo Hold (500 GST capacity)
-  - Heavy Missile Magazine (12-16 missiles, 2-6 long-range torpedoes)
+  - Examples:
+    - Advanced Sensors
+    - Large Utility Systems
+    - Large Cargo Hold (500 GST capacity)
+    - Large Short Range Missile Magazine (8-16 short range missiles)
+    - Large Long Range Missile Magazine (4-8 long range missiles)
+    - Large Torpedo Magazine (2-4 torpedoes)
 
 - ** 4+ (Extra-Large Components):**
-  - Ship-Mounted Stellar Projector
-  - Extra-Large Cargo Hold (1000+ GST capacity)
-  - Strategic Missile Magazine (20+ missiles, including torpedoes and multi-warhead torpedoes)
+  - Examples:
+    - Ship-Mounted Stellar Projector
+    - Extra-Large Cargo Hold (1000+ GST capacity)
+    - Strategic Short Range Missile Magazine (16-32 short range missiles)
+    - Strategic Long Range Missile Magazine (8-16 long range missiles)
+    - Strategic Torpedo Magazine (4-8 torpedoes)
 
 #### Sensor Modifier [type: integer]:
 - **Negative**: (-3 to -1)
@@ -164,6 +181,8 @@ special features]`. Include attributes such as acceleration, endurance, and arma
 
 #### Components [type: list of strings]:
 - Value is a list of strings.
+- Components can be any of the components designed in the previous prompt.
+- Components name holds an abbreviation, a fitting name and a short version indicator.
 - The added Component sizes can not be greater than the ship's Component Slots.
 
 #### Rating [type: string]:
@@ -217,6 +236,10 @@ Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon s
 - Missile and torpedo weapons include the launchers as part of the weapon system. 
 - Missile and torpedo magazines are separate Components and not weapons.
 - Missile and torpedo launchers have a number of simultaneous loaded missiles or torpedoes, and a maxG Value as a special property.
+- Torpedoes have a continuous burn time of up to 4 hours with an acceleration of up to 8G.
+- Long Range Missiles have a maximum range of long range, 20G acceleration, 30s burst time.
+- Short Range Missiles have a maximum range of near range, 50G acceleration, 10s burst time.
+- All other weapons have a maximum range of close quarter against moving targets.
 
 ## Format the output as a Python dictionary with the following fields:
 
