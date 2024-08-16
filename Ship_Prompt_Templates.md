@@ -3,6 +3,9 @@
 Please design a new component a space vessel in the Abyssal TTRPG game. The component should `[describe the function and special features]`.
 Include attributes such as `[list any specific attributes like range, power consumption, etc.]`.
 Please respect`[additional details]`
+Standard Components are: KPAD Drives, Stellar Projectors, Life support, Cargo Holds, and Sensors, Fusion Reactors, 
+Electronic Warfare Systems, and Utility Systems, Missile and Torpedo Magazines, Communication Systems, and Repair Systems.
+
 
 ## Additional Details:
 
@@ -27,6 +30,11 @@ Please respect`[additional details]`
 #### Attributes [type: Dict of strings]
 - Attribute names have to describe the value.
 - Components can have multiple attributes.
+
+- Attributes for Sensors:
+  - **Type**: (Basic, Enhanced, Advanced)
+  - **Range**: (Short, Medium, Long)
+  - **Sensor Modifier**: (1-6)
 
 #### Component Size [type: integer]:
 - ** 1 (Small Components):**
@@ -62,12 +70,6 @@ Please respect`[additional details]`
     - Strategic Long Range Missile Magazine (8-16 long range missiles)
     - Strategic Torpedo Magazine (4-8 torpedoes)
 
-#### Sensor Modifier [type: integer]:
-- **Negative**: (-3 to -1)
-- **Standard**: (0)
-- **Enhanced**: (+1 to +3)
-- **Advanced**: (+4 to +6)
-
 #### EWDR (Electronic Warfare Defense Rating) [type: integer]:
 - **Low**: (+0)
 - **Moderate**: (+1)
@@ -99,7 +101,7 @@ Please respect`[additional details]`
         "Component Size": 2,
         "Attributes": "Dict",
         "Special Properties": "Special Features",
-        "EWDR": "Moderate",
+        "EWDR": 1,
         "Rating": "Is rated 20 because it is a medium-sized component with advanced sensors and utility systems.",
         "Description": "This is a detailed description of the component."
     },
@@ -115,8 +117,10 @@ special features]`. Include attributes such as acceleration, endurance, and arma
 
 ## Additional Details:
 - A ship has a **KPAD (Kramer PAD Drive)** for conventional propulsion.
+- A ship always has basic sensors, life support, and communication systems.
 - It can be equipped with a **Ship Mounted Stellar Projector**, with a minimum Size of the ship being Medium.
 - Only if it has a Stellar Projector, it must have an **Instant Release High-Energy Capacitor (IRHEC)**.
+- The is equipped with a fusion reactor capable of powering all systems.
 
 ## Format the output as a Python dictionary with the following fields:
 - **Data**: Contains the fields for Ship Name, Size (GST), Component Slots, Acceleration (MaxG), Structural 
@@ -158,7 +162,7 @@ special features]`. Include attributes such as acceleration, endurance, and arma
 - **High**: (11-15)
 - **Very High**: (16-20)
 
-#### Armor [type: integer]:
+#### Inherent Armor [type: integer]:
 - **Light**: (1-5)
 - **Moderate**: (6-10)
 - **Heavy**: (11-15)
@@ -213,8 +217,7 @@ special features]`. Include attributes such as acceleration, endurance, and arma
         "Structural Endurance (StE)": 12,
         "Electronic Endurance (ElE)": 10,
         "Signal Rating (SiR)": 8,
-        "Armor": 14,
-        "Cargo Capacity (GST)": 300,
+        "Inherent Armor": 14,
         "Sensor Modifier": 2,
         "EWDR": 5,
         "Weapon Systems": ["Missile Launchers"],
@@ -235,7 +238,6 @@ Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon s
 ## Additional Details:
 - Missile and torpedo weapons include the launchers as part of the weapon system. 
 - Missile and torpedo magazines are separate Components and not weapons.
-- Missile and torpedo launchers have a number of simultaneous loaded missiles or torpedoes, and a maxG Value as a special property.
 - Torpedoes have a continuous burn time of up to 4 hours with an acceleration of up to 8G.
 - Long Range Missiles have a maximum range of long range, 20G acceleration, 30s burst time.
 - Short Range Missiles have a maximum range of near range, 50G acceleration, 10s burst time.
@@ -261,6 +263,7 @@ Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon s
 - Point Defence Gauss Weapon
 - Large Calibre Gauss Cannon
 - Conventional Projectile Weapon (CPW). CPW use a propellant to fire a solid projectile. 
+- Abyssal TTRPG does not have energy weapons.
 
 #### Range Category [type: string]:
 - Close Quarter ( < 1000 km ) 
@@ -290,6 +293,10 @@ Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon s
 #### Rate of Fire [type: string]:
 - **Options**: `"Single"`, `"Burst"`, `"Sustained"`, `"Rapid Fire"`
 
+#### Special Properties [type: string]:
+- Missile and torpedo launchers have a number of simultaneous loaded missiles or torpedoes, and a maxG Value and a 
+  burst time. Launchers and Ammunition are synonymous.
+
 #### Component Size [type: integer]:
 - **Small Components (1 Slot)**:
   -Light Weapon Systems
@@ -302,12 +309,12 @@ Please design a new weapon for a space vessel in the Abyssal TTRPG. The weapon s
   
 #### Rating [type: string]:
 - Rate the weapon from 1 to 100.
-- **Include an explanation of the rating** in 2 to 3 sentences. The explanation should cover:
+- **Include an explanation of the rating in 2 to 3 sentences** 
+  - The explanation should cover:
     - The weapon's power relative to its size and type.
     - How the weapon fits into the overall balance of the game.
     - Considerations for the weapon's intended role, special features, and potential gameplay impact.
 
-- 
 #### Description [type: string]:
 - Should be a string of text.
 
