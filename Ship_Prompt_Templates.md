@@ -36,6 +36,36 @@ Electronic Warfare Systems, and Utility Systems, Missile and Torpedo Magazines, 
   - **Range**: (Short, Medium, Long)
   - **Sensor Modifier**: (1-6)
 
+- Attributes for KPAD Drives:
+  - **MaxG**: (1-9)
+  - **Signal Rating Modifier**: (1-6)
+
+- Attributes for Stellar Projectors:
+    - **Lightyear Range**: (0.5 - 2)
+    - **Power up time**: (10 min - 30 min)
+
+- Attributes for Missile and Torpedo Magazines:
+  - **Missile Type**: (Short Range, Long Range, Torpedo)
+  - **Missile Capacity**: (1-32)
+  - **Torpedo Capacity**: (1-8)
+
+- Attributes for Life Support Systems:
+  - **Support Time**: (3 months - 1 year)
+  - **Crew Capacity**: (1-100)
+
+- Attributes for Cargo Holds:
+  - **Cargo Capacity**: (100-1000 GST)
+
+- Attributes for Electronic Warfare Systems:
+  - **Type**: (Jamming, Countermeasures, Detection)
+  - **Range**: (Close Quarter, Near, Middle Range, Long Range)
+  - **Modifier**: (1-6)
+
+- Attributes for Repair Systems:
+  - **Type**: (Emergency, Maintenance)
+  - **Repair Rate**: (1-6)
+  - **Stored Charges**: (2-6)
+
 #### Component Size [type: integer]:
 - ** 1 (Small Components):**
   - Examples:
