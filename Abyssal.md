@@ -24,812 +24,572 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
 generated](C:\Users\chris\PycharmProjects\Abyssal_TTRPG\Word_images/media/image2.jpeg){width="8.472222222222221in"
 height="11.196527777777778in"}
 
-# Contents {#contents .TOC-Heading}
-
-[ABYSSAL [0](#abyssal)](#abyssal)
-
-[Why should I play Abyssal?
-[1](#why-should-i-play-abyssal)](#why-should-i-play-abyssal)
-
-[What is a Roleplaying Game
-[2](#what-is-a-roleplaying-game)](#what-is-a-roleplaying-game)
-
-[Setting Overview of Abyssal
-[2](#setting-overview-of-abyssal)](#setting-overview-of-abyssal)
-
-[The Universe of Abyssal
-[2](#the-universe-of-abyssal)](#the-universe-of-abyssal)
-
-[Corporate Dominance [2](#corporate-dominance)](#corporate-dominance)
-
-[Interstellar Travel [2](#interstellar-travel)](#interstellar-travel)
-
-[A Universe of Contrasts
-[3](#a-universe-of-contrasts)](#a-universe-of-contrasts)
-
-[The Horror Within [3](#the-horror-within)](#the-horror-within)
-
-[An Overview of Its Corporate-Dominated Galaxy
-[3](#an-overview-of-its-corporate-dominated-galaxy)](#an-overview-of-its-corporate-dominated-galaxy)
-
-[Corporate Sovereignty and the Decline of Nation-States
-[3](#corporate-sovereignty-and-the-decline-of-nation-states)](#corporate-sovereignty-and-the-decline-of-nation-states)
-
-[The Dark Underbelly of a Corporate Galaxy
-[3](#the-dark-underbelly-of-a-corporate-galaxy)](#the-dark-underbelly-of-a-corporate-galaxy)
-
-[The Role of Media and Cultural Influence
-[4](#the-role-of-media-and-cultural-influence)](#the-role-of-media-and-cultural-influence)
-
-[The Current State of Affairs
-[4](#the-current-state-of-affairs)](#the-current-state-of-affairs)
-
-[Timeline of Abyssal [5](#timeline-of-abyssal)](#timeline-of-abyssal)
-
-[A closer look at major events in History
-[8](#a-closer-look-at-major-events-in-history)](#a-closer-look-at-major-events-in-history)
-
-[Stellar Projector Crisis 2639
-[8](#stellar-projector-crisis-2639)](#stellar-projector-crisis-2639)
-
-[The Hyperion Crisis 2645
-[8](#the-hyperion-crisis-2645)](#the-hyperion-crisis-2645)
-
-[Corporations [10](#corporations)](#corporations)
-
-[AdAstra [10](#adastra)](#adastra)
-
-[Founding and Evolution
-[10](#founding-and-evolution)](#founding-and-evolution)
-
-[Specialisation and Services
-[10](#specialisation-and-services)](#specialisation-and-services)
-
-[Corporate Culture and Ethics
-[10](#corporate-culture-and-ethics)](#corporate-culture-and-ethics)
-
-[Leadership [10](#leadership)](#leadership)
-
-[Economic Strategies and Galactic Influence
-[10](#economic-strategies-and-galactic-influence)](#economic-strategies-and-galactic-influence)
-
-[Conclusion [10](#conclusion)](#conclusion)
-
-[Black Hawk [11](#black-hawk)](#black-hawk)
-
-[History and Rise to Prominence
-[11](#history-and-rise-to-prominence)](#history-and-rise-to-prominence)
-
-[Services and Specialization
-[11](#services-and-specialization)](#services-and-specialization)
-
-[Corporate Culture and Ethics
-[11](#corporate-culture-and-ethics-1)](#corporate-culture-and-ethics-1)
-
-[Leadership and Figureheads
-[11](#leadership-and-figureheads)](#leadership-and-figureheads)
-
-[Economic Strategy and Growth
-[11](#economic-strategy-and-growth)](#economic-strategy-and-growth)
-
-[Conclusion [11](#conclusion-1)](#conclusion-1)
-
-[CosmoNav [12](#cosmonav)](#cosmonav)
-
-[History and Rise to Prominence
-[12](#history-and-rise-to-prominence-1)](#history-and-rise-to-prominence-1)
-
-[Specialisation and Services
-[12](#specialisation-and-services-1)](#specialisation-and-services-1)
-
-[Corporate Culture and Ethics
-[12](#corporate-culture-and-ethics-2)](#corporate-culture-and-ethics-2)
-
-[Leadership and Figureheads
-[12](#leadership-and-figureheads-1)](#leadership-and-figureheads-1)
-
-[Economic Strategies and Growth
-[12](#economic-strategies-and-growth)](#economic-strategies-and-growth)
-
-[Conclusion [12](#conclusion-2)](#conclusion-2)
-
-[Elysium Pharmaceuticals
-[12](#elysium-pharmaceuticals)](#elysium-pharmaceuticals)
-
-[History and Rise to Prominence
-[13](#history-and-rise-to-prominence-2)](#history-and-rise-to-prominence-2)
-
-[Specialisation and Services
-[13](#specialisation-and-services-2)](#specialisation-and-services-2)
-
-[Corporate Culture and Ethics
-[13](#corporate-culture-and-ethics-3)](#corporate-culture-and-ethics-3)
-
-[Leadership and Figureheads
-[13](#leadership-and-figureheads-2)](#leadership-and-figureheads-2)
-
-[Economic Strategies and Galactic Influence
-[13](#economic-strategies-and-galactic-influence-1)](#economic-strategies-and-galactic-influence-1)
-
-[Conclusion [13](#conclusion-3)](#conclusion-3)
-
-[Nexus Media Corp. [13](#nexus-media-corp.)](#nexus-media-corp.)
-
-[History and rise to prominence
-[13](#history-and-rise-to-prominence-3)](#history-and-rise-to-prominence-3)
-
-[Specialisation and services
-[14](#specialisation-and-services-3)](#specialisation-and-services-3)
-
-[Corporate culture and ethics
-[14](#corporate-culture-and-ethics-4)](#corporate-culture-and-ethics-4)
-
-[Leadership and figureheads
-[14](#leadership-and-figureheads-3)](#leadership-and-figureheads-3)
-
-[Business strategies and growth
-[14](#business-strategies-and-growth)](#business-strategies-and-growth)
-
-[Conclusion [14](#conclusion-4)](#conclusion-4)
-
-[Orbital Dynamics Incorporated
-[14](#orbital-dynamics-incorporated)](#orbital-dynamics-incorporated)
-
-[History and Rise to Prominence
-[15](#history-and-rise-to-prominence-4)](#history-and-rise-to-prominence-4)
-
-[Specialisation and Services
-[15](#specialisation-and-services-4)](#specialisation-and-services-4)
-
-[Corporate Culture and Ethics
-[15](#corporate-culture-and-ethics-5)](#corporate-culture-and-ethics-5)
-
-[Leadership and Figureheads
-[15](#leadership-and-figureheads-4)](#leadership-and-figureheads-4)
-
-[Economic Strategies and Growth
-[15](#economic-strategies-and-growth-1)](#economic-strategies-and-growth-1)
-
-[Conclusion [15](#conclusion-5)](#conclusion-5)
-
-[Palladium Tactics Corp.
-[15](#palladium-tactics-corp.)](#palladium-tactics-corp.)
-
-[History and Rise to Prominence
-[15](#history-and-rise-to-prominence-5)](#history-and-rise-to-prominence-5)
-
-[Specialisation and Services
-[16](#specialisation-and-services-5)](#specialisation-and-services-5)
-
-[Corporate Culture and Ethics
-[16](#corporate-culture-and-ethics-6)](#corporate-culture-and-ethics-6)
-
-[Leadership and Figureheads
-[16](#leadership-and-figureheads-5)](#leadership-and-figureheads-5)
-
-[Economic Strategies and Growth
-[16](#economic-strategies-and-growth-2)](#economic-strategies-and-growth-2)
-
-[Political and Galactic Influence
-[16](#political-and-galactic-influence)](#political-and-galactic-influence)
-
-[Conclusion [16](#conclusion-6)](#conclusion-6)
-
-[Quantum Nova [17](#quantum-nova)](#quantum-nova)
-
-[Origins and Ascension
-[17](#origins-and-ascension)](#origins-and-ascension)
-
-[Diversification and Specialization
-[17](#diversification-and-specialization)](#diversification-and-specialization)
-
-[Corporate Culture and Ethical Stance
-[17](#corporate-culture-and-ethical-stance)](#corporate-culture-and-ethical-stance)
-
-[Leadership [17](#leadership-1)](#leadership-1)
-
-[Economic Strategies and Galactic Influence
-[17](#economic-strategies-and-galactic-influence-2)](#economic-strategies-and-galactic-influence-2)
-
-[Conclusion [17](#conclusion-7)](#conclusion-7)
-
-[Rayburn-Lark [18](#rayburn-lark)](#rayburn-lark)
-
-[History and Rise to Prominence
-[18](#history-and-rise-to-prominence-6)](#history-and-rise-to-prominence-6)
-
-[Specialisation and Services
-[18](#specialisation-and-services-6)](#specialisation-and-services-6)
-
-[Corporate Culture and Ethics
-[18](#corporate-culture-and-ethics-7)](#corporate-culture-and-ethics-7)
-
-[Leadership and Figureheads
-[18](#leadership-and-figureheads-6)](#leadership-and-figureheads-6)
-
-[Economic Strategies and Galactic Influence
-[18](#economic-strategies-and-galactic-influence-3)](#economic-strategies-and-galactic-influence-3)
-
-[Conclusion [19](#conclusion-8)](#conclusion-8)
-
-[Shinsei Genomics [20](#shinsei-genomics)](#shinsei-genomics)
-
-[History and Rise to Prominence
-[20](#history-and-rise-to-prominence-7)](#history-and-rise-to-prominence-7)
-
-[Specialisation and Services
-[20](#specialisation-and-services-7)](#specialisation-and-services-7)
-
-[Corporate Culture and Ethics
-[20](#corporate-culture-and-ethics-8)](#corporate-culture-and-ethics-8)
-
-[Leadership and Figureheads
-[20](#leadership-and-figureheads-7)](#leadership-and-figureheads-7)
-
-[Economic strategies and growth
-[20](#economic-strategies-and-growth-3)](#economic-strategies-and-growth-3)
-
-[Conclusion [20](#conclusion-9)](#conclusion-9)
-
-[TerraVor [21](#terravor)](#terravor)
-
-[History and Rise to Prominence
-[21](#history-and-rise-to-prominence-8)](#history-and-rise-to-prominence-8)
-
-[Specialisation and Services
-[21](#specialisation-and-services-8)](#specialisation-and-services-8)
-
-[Corporate Culture and Ethics
-[21](#corporate-culture-and-ethics-9)](#corporate-culture-and-ethics-9)
-
-[Leadership and Figureheads
-[21](#leadership-and-figureheads-8)](#leadership-and-figureheads-8)
-
-[Economic Strategies and Galactic Influence
-[21](#economic-strategies-and-galactic-influence-4)](#economic-strategies-and-galactic-influence-4)
-
-[Conclusion [22](#conclusion-10)](#conclusion-10)
-
-[Zenith Habitation [22](#zenith-habitation)](#zenith-habitation)
-
-[History and Rise to Prominence
-[22](#history-and-rise-to-prominence-9)](#history-and-rise-to-prominence-9)
-
-[Specialisation and Services
-[22](#specialisation-and-services-9)](#specialisation-and-services-9)
-
-[Corporate Culture and Leadership
-[22](#corporate-culture-and-leadership)](#corporate-culture-and-leadership)
-
-[Economic Strategies and Galactic Influence
-[22](#economic-strategies-and-galactic-influence-5)](#economic-strategies-and-galactic-influence-5)
-
-[Conclusion [23](#conclusion-11)](#conclusion-11)
-
-[Political Bodies [23](#political-bodies)](#political-bodies)
-
-[Haven [23](#haven)](#haven)
-
-[New Frontier Alliance (NFA)
-[23](#new-frontier-alliance-nfa)](#new-frontier-alliance-nfa)
-
-[Sol Protectorate (SP) [24](#sol-protectorate-sp)](#sol-protectorate-sp)
-
-[United Stellar Colonies (USC)
-[24](#united-stellar-colonies-usc)](#united-stellar-colonies-usc)
-
-[Void Confederacy (VC) [24](#void-confederacy-vc)](#void-confederacy-vc)
-
-[Technology in Abyssal
-[25](#technology-in-abyssal)](#technology-in-abyssal)
-
-[Communication [25](#communication)](#communication)
-
-[Communication mediums
-[25](#communication-mediums)](#communication-mediums)
-
-[Communication devices
-[26](#communication-devices)](#communication-devices)
-
-[Intersystem communication
-[26](#intersystem-communication)](#intersystem-communication)
-
-[Gameplay considerations
-[26](#gameplay-considerations)](#gameplay-considerations)
-
-[Space Observations Devices and Sensors
-[27](#space-observations-devices-and-sensors)](#space-observations-devices-and-sensors)
-
-[Optical Telescopes [27](#optical-telescopes)](#optical-telescopes)
-
-[Deep Space Radar [27](#deep-space-radar)](#deep-space-radar)
-
-[Gameplay Considerations
-[27](#gameplay-considerations-1)](#gameplay-considerations-1)
-
-[Stellar Projectors [27](#stellar-projectors)](#stellar-projectors)
-
-[Stationary Stellar Projectors
-[27](#stationary-stellar-projectors)](#stationary-stellar-projectors)
-
-[Ship mounted Stellar Projectors
-[28](#ship-mounted-stellar-projectors)](#ship-mounted-stellar-projectors)
-
-[Space Vessels [29](#space-vessels)](#space-vessels)
-
-[IRHEC---The Heart of Interstellar Travel
-[29](#irhecthe-heart-of-interstellar-travel)](#irhecthe-heart-of-interstellar-travel)
-
-[Artificial Gravity [30](#artificial-gravity)](#artificial-gravity)
-
-[Kramer-PAD Drive [30](#kramer-pad-drive)](#kramer-pad-drive)
-
-[Fusion Reactor and Fuel
-[30](#fusion-reactor-and-fuel)](#fusion-reactor-and-fuel)
-
-[Advanced Construction and Materials
-[31](#advanced-construction-and-materials)](#advanced-construction-and-materials)
-
-[Armament and Defence Systems
-[31](#armament-and-defence-systems)](#armament-and-defence-systems)
-
-[Design and Functionality
-[31](#design-and-functionality)](#design-and-functionality)
-
-[Crew Composition and AI Systems
-[31](#crew-composition-and-ai-systems)](#crew-composition-and-ai-systems)
-
-[Communication Technologies
-[31](#communication-technologies)](#communication-technologies)
-
-[Onboard Combat [31](#onboard-combat)](#onboard-combat)
-
-[Playing Abyssal [32](#playing-abyssal)](#playing-abyssal)
-
-[The Goal of the Game
-[32](#the-goal-of-the-game)](#the-goal-of-the-game)
-
-[Role and Responsibilities of The Suit
-[32](#role-and-responsibilities-of-the-suit)](#role-and-responsibilities-of-the-suit)
-
-[Supporting Player Creativity
-[32](#supporting-player-creativity)](#supporting-player-creativity)
-
-[Decision-Making and Consistency
-[32](#decision-making-and-consistency)](#decision-making-and-consistency)
-
-[Adapting to Player Choices
-[33](#adapting-to-player-choices)](#adapting-to-player-choices)
-
-[Balancing Challenges
-[33](#balancing-challenges)](#balancing-challenges)
-
-[Handling Game Knowledge and Realism
-[33](#handling-game-knowledge-and-realism)](#handling-game-knowledge-and-realism)
-
-[Character Integration and Development
-[33](#character-integration-and-development)](#character-integration-and-development)
-
-[Respecting Player Sensitivities
-[33](#respecting-player-sensitivities)](#respecting-player-sensitivities)
-
-[The Suits Secrets [33](#the-suits-secrets)](#the-suits-secrets)
-
-[The Thing Between the Fabric
-[34](#the-thing-between-the-fabric)](#the-thing-between-the-fabric)
-
-[Continuous Influence on Civilization
-[34](#continuous-influence-on-civilization)](#continuous-influence-on-civilization)
-
-[The Stellar Projectors: Catalysts of Power
-[34](#the-stellar-projectors-catalysts-of-power)](#the-stellar-projectors-catalysts-of-power)
-
-[Renaissance of the Occult
-[34](#renaissance-of-the-occult)](#renaissance-of-the-occult)
-
-[Religious Upheaval and Recognition
-[34](#religious-upheaval-and-recognition)](#religious-upheaval-and-recognition)
-
-[Corporate Ambition [34](#corporate-ambition)](#corporate-ambition)
-
-[Agents of Darkness [34](#agents-of-darkness)](#agents-of-darkness)
-
-[The New Cosmic Order
-[35](#the-new-cosmic-order)](#the-new-cosmic-order)
-
-[Cults [36](#cults)](#cults)
-
-[Sisterhood of the Black Tongue
-[36](#sisterhood-of-the-black-tongue)](#sisterhood-of-the-black-tongue)
-
-[Themes of Horror [37](#themes-of-horror)](#themes-of-horror)
-
-[Terrifying Experiments
-[37](#terrifying-experiments)](#terrifying-experiments)
-
-[Occult Experiments [38](#occult-experiments)](#occult-experiments)
-
-[Dark Rituals [39](#dark-rituals)](#dark-rituals)
-
-[The Atrum Echo [39](#the-atrum-echo)](#the-atrum-echo)
-
-[The Withering [39](#the-withering)](#the-withering)
-
-[Vial of bottled Darkness
-[40](#vial-of-bottled-darkness)](#vial-of-bottled-darkness)
-
-[Gear [40](#gear)](#gear)
-
-[General Gear [40](#general-gear)](#general-gear)
-
-[Environmental Gear [42](#environmental-gear)](#environmental-gear)
-
-[Medical and Survival Gear
-[43](#medical-and-survival-gear)](#medical-and-survival-gear)
-
-[Weapons [44](#weapons)](#weapons)
-
-[Ammunition [45](#ammunition)](#ammunition)
-
-[Standard Projectile Ammunition
-[45](#standard-projectile-ammunition)](#standard-projectile-ammunition)
-
-[Shotgun Ammunition [46](#shotgun-ammunition)](#shotgun-ammunition)
-
-[Sample Weapons [46](#sample-weapons)](#sample-weapons)
-
-[Rules [48](#rules)](#rules)
-
-[Dice Mechanics [48](#dice-mechanics)](#dice-mechanics)
-
-[Dice Mathematics [48](#dice-mathematics)](#dice-mathematics)
-
-[Checks [50](#checks)](#checks)
-
-[Anatomy of a Check [50](#anatomy-of-a-check)](#anatomy-of-a-check)
-
-[Temptation Dice [53](#temptation-dice)](#temptation-dice)
-
-[Marks [53](#marks)](#marks)
-
-[Creating Character and Crew
-[55](#creating-character-and-crew)](#creating-character-and-crew)
-
-[The Crew [55](#the-crew)](#the-crew)
-
-[Setting personal goals and motivations
-[55](#setting-personal-goals-and-motivations)](#setting-personal-goals-and-motivations)
-
-[Create personal relations
-[55](#create-personal-relations)](#create-personal-relations)
-
-[Character Archetypes and Backgrounds
-[56](#character-archetypes-and-backgrounds)](#character-archetypes-and-backgrounds)
-
-[Creating Weakness and Strength
-[57](#creating-weakness-and-strength)](#creating-weakness-and-strength)
-
-[Deciding on the Attributes
-[57](#deciding-on-the-attributes)](#deciding-on-the-attributes)
-
-[Calculate Derived Attributes
-[59](#calculate-derived-attributes)](#calculate-derived-attributes)
-
-[Finalize Attributes [59](#finalize-attributes)](#finalize-attributes)
-
-[Deciding on Skills [59](#deciding-on-skills)](#deciding-on-skills)
-
-[Deciding on a spacecraft and equipment
-[60](#deciding-on-a-spacecraft-and-equipment)](#deciding-on-a-spacecraft-and-equipment)
-
-[Expertise Areas [60](#expertise-areas)](#expertise-areas)
-
-[Expertise Area [60](#expertise-area)](#expertise-area)
-
-[Specialisations [60](#specialisations)](#specialisations)
-
-[Expertise Areas and Specialisations
-[61](#expertise-areas-and-specialisations)](#expertise-areas-and-specialisations)
-
-[Character Progression
-[69](#character-progression)](#character-progression)
-
-[Combat [70](#combat-1)](#combat-1)
-
-[Engagement Stakes [70](#engagement-stakes)](#engagement-stakes)
-
-[Time in Combat [70](#time-in-combat)](#time-in-combat)
-
-[Order of combat [70](#order-of-combat)](#order-of-combat)
-
-[Resolving of a spotlight
-[70](#resolving-of-a-spotlight)](#resolving-of-a-spotlight)
-
-[Statement of "Intent" [70](#statement-of-intent)](#statement-of-intent)
-
-[Setting of "Spotlight Stakes"
-[71](#setting-of-spotlight-stakes)](#setting-of-spotlight-stakes)
-
-[Execute [71](#execute)](#execute)
-
-[Spatial considerations
-[71](#spatial-considerations)](#spatial-considerations)
-
-[Intents [71](#intents)](#intents)
-
-[Deal damage [71](#deal-damage)](#deal-damage)
-
-[Injury and recovery [72](#injury-and-recovery)](#injury-and-recovery)
-
-[Serious Wounds [72](#serious-wounds)](#serious-wounds)
-
-[Regeneration of Physical Endurance (PhE)
-[72](#regeneration-of-physical-endurance-phe)](#regeneration-of-physical-endurance-phe)
-
-[Space Vessel Rules [72](#space-vessel-rules)](#space-vessel-rules)
-
-[Attributes of a Vessel
-[73](#attributes-of-a-vessel)](#attributes-of-a-vessel)
-
-[Size [73](#size)](#size)
-
-[Acceleration [73](#acceleration)](#acceleration)
-
-[Structural Endurance (StE)
-[73](#structural-endurance-ste)](#structural-endurance-ste)
-
-[Electronic Endurance (ElE)
-[73](#electronic-endurance-ele)](#electronic-endurance-ele)
-
-[Signal Rating (SiR) [74](#signal-rating-sir)](#signal-rating-sir)
-
-[Component Attributes
-[74](#component-attributes)](#component-attributes)
-
-[Armour [74](#armour)](#armour)
-
-[Drive [74](#drive)](#drive)
-
-[Cargo [74](#cargo)](#cargo)
-
-[Sensors [74](#sensors)](#sensors)
-
-[Optional Component Attributes
-[75](#optional-component-attributes)](#optional-component-attributes)
-
-[Electronic Warfare (EWF)
-[75](#electronic-warfare-ewf)](#electronic-warfare-ewf)
-
-[Weapons [75](#weapons-1)](#weapons-1)
-
-[Emergency Repair Systems
-[75](#emergency-repair-systems)](#emergency-repair-systems)
-
-[Space Combat (SpCo) [76](#space-combat-spco)](#space-combat-spco)
-
-[Initiating Space Combat
-[76](#initiating-space-combat)](#initiating-space-combat)
-
-[Combat Segments and Spotlights
-[76](#combat-segments-and-spotlights)](#combat-segments-and-spotlights)
-
-[Spotlights in Space Combat
-[76](#spotlights-in-space-combat)](#spotlights-in-space-combat)
-
-[Crew Action Categories in Space Combat
-[77](#intent-categories-in-space-combat)](#intent-categories-in-space-combat)
-
-[Piloting & Ship Maneuvering
-[77](#piloting-ship-manoeuvring)](#piloting-ship-manoeuvring)
-
-[Weapons Operations [77](#weapons-operations)](#weapons-operations)
-
-[Sensors & Electronic Warfare (EWAR) Operations
-[77](#sensors-electronic-warfare-ewar-operations)](#sensors-electronic-warfare-ewar-operations)
-
-[Engineering & Damage Control
-[77](#engineering-damage-control)](#engineering-damage-control)
-
-[Command & Coordination
-[77](#command-coordination)](#command-coordination)
-
-[Distance in space combat
-[78](#distance-in-space-combat)](#distance-in-space-combat)
-
-[Speed and Movement in Combat
-[78](#speed-and-movement-in-combat)](#speed-and-movement-in-combat)
-
-[Space Combat Engagement Stakes
-[79](#space-combat-engagement-stakes)](#space-combat-engagement-stakes)
-
-[Intents [79](#intents-1)](#intents-1)
-
-[Piloting and Maneuvering
-[79](#piloting-and-maneuvering)](#piloting-and-maneuvering)
-
-[Weapons Operations [80](#weapons-operations-1)](#weapons-operations-1)
-
-[Sensor & Electronic Warfare
-[80](#sensor-electronic-warfare)](#sensor-electronic-warfare)
-
-[Engineering and Damage Controll
-[82](#engineering-and-damage-controll)](#engineering-and-damage-controll)
-
-[Command and Coordination
-[83](#command-and-coordination)](#command-and-coordination)
-
-[Spaceship Components
-[83](#spaceship-components)](#spaceship-components)
-
-[Weaponsystems [83](#weaponsystems)](#weaponsystems)
-
-[Terror, Fear, and Morale
-[87](#terror-fear-and-morale)](#terror-fear-and-morale)
-
-[Regeneration of Mental Endurance
-[87](#regeneration-of-mental-endurance)](#regeneration-of-mental-endurance)
-
-[Mental Degradation [87](#mental-degradation)](#mental-degradation)
-
-[Treatment of Short-Term Effects
-[88](#treatment-of-short-term-effects)](#treatment-of-short-term-effects)
-
-[Treatment of long-Term effects
-[88](#treatment-of-long-term-effects)](#treatment-of-long-term-effects)
-
-[Drug Treatment of Effects
-[88](#drug-treatment-of-effects)](#drug-treatment-of-effects)
-
-[Recovering Mental Degradation
-[88](#recovering-mental-degradation)](#recovering-mental-degradation)
-
-[A Note on Mental Health
-[88](#a-note-on-mental-health)](#a-note-on-mental-health)
-
-[Appendix of Tables [0](#appendix-of-tables)](#appendix-of-tables)
-
-[Space Vessels, Weapons, and Components
-[1](#space-vessels-weapons-and-components)](#space-vessels-weapons-and-components)
-
-[Viper-Class Scout [1](#_Toc1585905641)](#_Toc1585905641)
-
-[Attributes [1](#_Toc954083068)](#_Toc954083068)
-
-[Components [1](#_Toc652866479)](#_Toc652866479)
-
-[Weapons [1](#_Toc2019122610)](#_Toc2019122610)
-
-[Description [1](#_Toc2017447954)](#_Toc2017447954)
-
-[Guardian-Class Frigate [2](#_Toc733468253)](#_Toc733468253)
-
-[Attributes [2](#_Toc1576792101)](#_Toc1576792101)
-
-[Components [2](#_Toc1156835894)](#_Toc1156835894)
-
-[Weapons [2](#_Toc265393562)](#_Toc265393562)
-
-[Description [2](#_Toc454428368)](#_Toc454428368)
-
-[Shadow-Class Interceptor [3](#_Toc517333918)](#_Toc517333918)
-
-[Attributes [3](#_Toc1222889851)](#_Toc1222889851)
-
-[Components [3](#_Toc282233760)](#_Toc282233760)
-
-[Weapons [3](#_Toc762765605)](#_Toc762765605)
-
-[Description [3](#_Toc1818626999)](#_Toc1818626999)
-
-[Sentinel-Class Corvette [4](#_Toc953544796)](#_Toc953544796)
-
-[Attributes [4](#_Toc777663411)](#_Toc777663411)
-
-[Components [4](#_Toc140370395)](#_Toc140370395)
-
-[Weapons [4](#_Toc1018690847)](#_Toc1018690847)
-
-[Description [4](#_Toc648205977)](#_Toc648205977)
-
-[Falcon-Class Shuttle [5](#_Toc458303889)](#_Toc458303889)
-
-[Attributes [5](#_Toc2118622423)](#_Toc2118622423)
-
-[Components [5](#_Toc1210016068)](#_Toc1210016068)
-
-[Weapons [5](#_Toc636653289)](#_Toc636653289)
-
-[Description [5](#_Toc166966471)](#_Toc166966471)
-
-[Titan-Class Cruiser [6](#_Toc1163031135)](#_Toc1163031135)
-
-[Attributes [6](#_Toc1079951811)](#_Toc1079951811)
-
-[Components [6](#_Toc176281169)](#_Toc176281169)
-
-[Weapons [6](#_Toc1246498224)](#_Toc1246498224)
-
-[Description [6](#_Toc1624310315)](#_Toc1624310315)
-
-[Attributes [8](#_Toc1657375314)](#_Toc1657375314)
-
-[Components [8](#_Toc2098683591)](#_Toc2098683591)
-
-[Weapons [8](#_Toc86829797)](#_Toc86829797)
-
-[Description [8](#_Toc1937535324)](#_Toc1937535324)
-
-[Phoenix-Class Battlecruiser [9](#_Toc878132414)](#_Toc878132414)
-
-[Attributes [9](#_Toc476742162)](#_Toc476742162)
-
-[Components [9](#_Toc953798788)](#_Toc953798788)
-
-[Weapons [9](#_Toc540080638)](#_Toc540080638)
-
-[Description [9](#_Toc771872776)](#_Toc771872776)
-
-[ABYSSAL [0](#abyssal-1)](#abyssal-1)
-
-[The Package [0](#the-package)](#the-package)
-
-[The Package [2](#the-package-1)](#the-package-1)
-
-[Plot Synopsis [2](#plot-synopsis)](#plot-synopsis)
-
-[Scene 1: The Briefing
-[2](#scene-1-the-briefing)](#scene-1-the-briefing)
-
-[Scene 2: The Opening [3](#scene-2-the-opening)](#scene-2-the-opening)
-
-[Scene 3: Intercept [5](#scene-3-intercept)](#scene-3-intercept)
-
-[Scene 4: Spacebound [5](#scene-4-spacebound)](#scene-4-spacebound)
-
-[Scene 5: At Gunpoint [6](#scene-5-at-gunpoint)](#scene-5-at-gunpoint)
-
-[Boarding and Ferrying
-[6](#boarding-and-ferrying)](#boarding-and-ferrying)
-
-[The Battle for the Starspear
-[6](#the-battle-for-the-starspear)](#the-battle-for-the-starspear)
-
-[Final Confrontation [7](#final-confrontation)](#final-confrontation)
-
-[Debrief [8](#debrief)](#debrief)
-
-[Dramatis Personae [9](#dramatis-personae)](#dramatis-personae)
-
-[Isaac Fender [9](#isaac-fender)](#isaac-fender)
-
-[Charles Dingerman [9](#charles-dingerman)](#charles-dingerman)
-
-[Iskaander Derson [9](#iskaander-derson)](#iskaander-derson)
-
-[Alon Dao [9](#alon-dao)](#alon-dao)
-
-[Jonathan Dao [10](#jonathan-dao)](#jonathan-dao)
-
-[Items of Note [10](#items-of-note)](#items-of-note)
-
-[The Scriptum [10](#the-scriptum)](#the-scriptum)
-
-[The Vial of bottled Darkness
-[11](#the-vial-of-bottled-darkness)](#the-vial-of-bottled-darkness)
-
-[The Starspear [11](#the-starspear)](#the-starspear)
-
-[NPC´s [13](#npcs)](#npcs)
-
-[Cultists [13](#cultists)](#cultists)
-
-[Security Detail [13](#security-detail)](#security-detail)
-
-[Alon Dao [13](#alon-dao-1)](#alon-dao-1)
-
-[INDEX [15](#index)](#index)
-
-# 
+# Contents
+
+<!-- TOC -->
+* [Contents](#contents)
+* [ABYSSAL](#abyssal)
+* [Why should I play Abyssal?](#why-should-i-play-abyssal)
+* [What is a Roleplaying Game](#what-is-a-roleplaying-game)
+* [Setting Overview of Abyssal](#setting-overview-of-abyssal)
+  * [The Universe of Abyssal](#the-universe-of-abyssal)
+  * [Corporate Dominance](#corporate-dominance)
+  * [Interstellar Travel](#interstellar-travel)
+  * [A Universe of Contrasts](#a-universe-of-contrasts)
+  * [The Horror Within](#the-horror-within)
+* [An Overview of Its Corporate-Dominated Galaxy](#an-overview-of-its-corporate-dominated-galaxy)
+  * [Corporate Sovereignty and the Decline of Nation-States](#corporate-sovereignty-and-the-decline-of-nation-states)
+  * [The Dark Underbelly of a Corporate Galaxy](#the-dark-underbelly-of-a-corporate-galaxy)
+  * [The Role of Media and Cultural Influence](#the-role-of-media-and-cultural-influence)
+  * [The Current State of Affairs](#the-current-state-of-affairs)
+* [Timeline of Abyssal](#timeline-of-abyssal)
+* [A closer look at major events in History](#a-closer-look-at-major-events-in-history)
+  * [Stellar Projector Crisis 2639](#stellar-projector-crisis-2639)
+  * [The Hyperion Crisis 2645](#the-hyperion-crisis-2645)
+* [Corporations](#corporations)
+  * [AdAstra[]{.indexref entry="AdAstra"}](#adastraindexref-entryadastra)
+    * [Founding and Evolution](#founding-and-evolution)
+    * [Specialisation and Services](#specialisation-and-services)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics)
+    * [Leadership](#leadership)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence)
+    * [Conclusion](#conclusion)
+  * [Black Hawk[]{.indexref entry="Black Hawk"}](#black-hawkindexref-entryblack-hawk)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence)
+    * [Services and Specialization](#services-and-specialization)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-1)
+    * [Leadership and Figureheads](#leadership-and-figureheads)
+    * [Economic Strategy and Growth](#economic-strategy-and-growth)
+    * [Conclusion](#conclusion-1)
+  * [CosmoNav[]{.indexref entry="CosmoNav"}](#cosmonavindexref-entrycosmonav)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-1)
+    * [Specialisation and Services](#specialisation-and-services-1)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-2)
+    * [Leadership and Figureheads](#leadership-and-figureheads-1)
+    * [Economic Strategies and Growth](#economic-strategies-and-growth)
+    * [Conclusion](#conclusion-2)
+  * [Elysium Pharmaceuticals[]{.indexref entry="Elysium Pharmaceuticals"}](#elysium-pharmaceuticalsindexref-entryelysium-pharmaceuticals)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-2)
+    * [Specialisation and Services](#specialisation-and-services-2)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-3)
+    * [Leadership and Figureheads](#leadership-and-figureheads-2)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-1)
+    * [Conclusion](#conclusion-3)
+  * [Nexus Media Corp.[]{.indexref entry="Nexus Media Corp."}](#nexus-media-corpindexref-entrynexus-media-corp)
+    * [History and rise to prominence](#history-and-rise-to-prominence-3)
+    * [Specialisation and services](#specialisation-and-services-3)
+    * [Corporate culture and ethics](#corporate-culture-and-ethics-4)
+    * [Leadership and figureheads](#leadership-and-figureheads-3)
+    * [Business strategies and growth](#business-strategies-and-growth)
+    * [Conclusion](#conclusion-4)
+  * [Orbital Dynamics Incorporated[]{.indexref entry="Orbital Dynamics Incorporated"}](#orbital-dynamics-incorporatedindexref-entryorbital-dynamics-incorporated)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-4)
+    * [Specialisation and Services](#specialisation-and-services-4)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-5)
+    * [Leadership and Figureheads](#leadership-and-figureheads-4)
+    * [Economic Strategies and Growth](#economic-strategies-and-growth-1)
+    * [Conclusion](#conclusion-5)
+  * [Palladium Tactics Corp.[]{.indexref entry="Palladium Tactics Corp."}](#palladium-tactics-corpindexref-entrypalladium-tactics-corp)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-5)
+    * [Specialisation and Services](#specialisation-and-services-5)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-6)
+    * [Leadership and Figureheads](#leadership-and-figureheads-5)
+    * [Economic Strategies and Growth](#economic-strategies-and-growth-2)
+    * [Political and Galactic Influence](#political-and-galactic-influence)
+    * [Conclusion](#conclusion-6)
+  * [Quantum Nova[]{.indexref entry="Quantum Nova"}](#quantum-novaindexref-entryquantum-nova)
+    * [Origins and Ascension](#origins-and-ascension)
+    * [Diversification and Specialization](#diversification-and-specialization)
+    * [Corporate Culture and Ethical Stance](#corporate-culture-and-ethical-stance)
+    * [Leadership](#leadership-1)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-2)
+    * [Conclusion](#conclusion-7)
+  * [Rayburn-Lark[]{.indexref entry="Rayburn-Lark"}](#rayburn-larkindexref-entryrayburn-lark)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-6)
+    * [Specialisation and Services](#specialisation-and-services-6)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-7)
+    * [Leadership and Figureheads](#leadership-and-figureheads-6)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-3)
+    * [Conclusion](#conclusion-8)
+  * [Shinsei Genomics](#shinsei-genomics)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-7)
+    * [Specialisation and Services](#specialisation-and-services-7)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-8)
+    * [Leadership and Figureheads](#leadership-and-figureheads-7)
+    * [Economic strategies and growth](#economic-strategies-and-growth-3)
+    * [Conclusion](#conclusion-9)
+  * [TerraVor](#terravor)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-8)
+    * [Specialisation and Services](#specialisation-and-services-8)
+    * [Corporate Culture and Ethics](#corporate-culture-and-ethics-9)
+    * [Leadership and Figureheads](#leadership-and-figureheads-8)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-4)
+    * [Conclusion](#conclusion-10)
+  * [Zenith Habitation](#zenith-habitation)
+    * [History and Rise to Prominence](#history-and-rise-to-prominence-9)
+    * [Specialisation and Services](#specialisation-and-services-9)
+    * [Corporate Culture and Leadership](#corporate-culture-and-leadership)
+    * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-5)
+    * [Conclusion](#conclusion-11)
+* [Political Bodies](#political-bodies)
+  * [Haven](#haven)
+  * [New Frontier Alliance (NFA)](#new-frontier-alliance-nfa)
+  * [Sol Protectorate (SP)](#sol-protectorate-sp)
+  * [United Stellar Colonies (USC)](#united-stellar-colonies-usc)
+  * [Void Confederacy (VC)](#void-confederacy-vc)
+* [Technology in Abyssal](#technology-in-abyssal)
+  * [Communication](#communication)
+    * [Communication mediums](#communication-mediums)
+      * [Radio Waves](#radio-waves)
+      * [Laser Communication](#laser-communication)
+      * [Microwave](#microwave)
+      * [Acoustic waves](#acoustic-waves)
+      * [Quantum Entanglement](#quantum-entanglement)
+    * [Communication devices](#communication-devices)
+    * [Intersystem communication](#intersystem-communication)
+    * [Gameplay considerations](#gameplay-considerations)
+  * [Space Observations Devices and Sensors](#space-observations-devices-and-sensors)
+    * [Optical Telescopes](#optical-telescopes)
+    * [Deep Space Radar](#deep-space-radar)
+    * [Gameplay Considerations](#gameplay-considerations-1)
+  * [Stellar Projectors](#stellar-projectors)
+    * [Stationary Stellar Projectors](#stationary-stellar-projectors)
+      * [The Mechanics of Stellar Projectors](#the-mechanics-of-stellar-projectors)
+      * [Safety Measures and Operational Protocols](#safety-measures-and-operational-protocols)
+      * [Economic Ramifications and Corporate Hegemony](#economic-ramifications-and-corporate-hegemony)
+      * [Frontiers of Research and Prospective Developments](#frontiers-of-research-and-prospective-developments)
+    * [Ship mounted Stellar Projectors](#ship-mounted-stellar-projectors)
+      * [The Mechanics of Ship Projectors](#the-mechanics-of-ship-projectors)
+      * [Precision and Strategy](#precision-and-strategy)
+      * [Exploring unknown gravitational environments](#exploring-unknown-gravitational-environments-)
+      * [Detection and Stealth](#detection-and-stealth)
+  * [Space Vessels](#space-vessels)
+    * [IRHEC---The Heart of Interstellar Travel](#irhec---the-heart-of-interstellar-travel)
+    * [Artificial Gravity](#artificial-gravity-)
+    * [Kramer-PAD Drive](#kramer-pad-drive)
+      * [G-Forces in Space](#g-forces-in-space)
+    * [Fusion Reactor and Fuel](#fusion-reactor-and-fuel)
+    * [Advanced Construction and Materials](#advanced-construction-and-materials)
+    * [Armament and Defence Systems](#armament-and-defence-systems)
+    * [Design and Functionality](#design-and-functionality)
+    * [Crew Composition and AI Systems](#crew-composition-and-ai-systems)
+    * [Communication Technologies](#communication-technologies)
+    * [Onboard Combat](#onboard-combat)
+      * [Combat Considerations](#combat-considerations)
+      * [Close Combat and Non-Lethal Options](#close-combat-and-non-lethal-options)
+* [Playing Abyssal](#playing-abyssal)
+  * [The Goal of the Game](#the-goal-of-the-game)
+  * [Role and Responsibilities of The Suit](#role-and-responsibilities-of-the-suit)
+  * [Supporting Player Creativity](#supporting-player-creativity)
+  * [Decision-Making and Consistency](#decision-making-and-consistency)
+  * [Adapting to Player Choices](#adapting-to-player-choices)
+  * [Balancing Challenges](#balancing-challenges)
+  * [Handling Game Knowledge and Realism](#handling-game-knowledge-and-realism)
+  * [Character Integration and Development](#character-integration-and-development)
+  * [Respecting Player Sensitivities](#respecting-player-sensitivities)
+* [The Suits Secrets](#the-suits-secrets)
+  * [The Thing Between the Fabric](#the-thing-between-the-fabric)
+    * [Continuous Influence on Civilization](#continuous-influence-on-civilization)
+    * [The Stellar Projectors: Catalysts of Power](#the-stellar-projectors-catalysts-of-power)
+    * [Renaissance of the Occult](#renaissance-of-the-occult)
+    * [Religious Upheaval and Recognition](#religious-upheaval-and-recognition)
+    * [Corporate Ambition](#corporate-ambition-)
+    * [Agents of Darkness](#agents-of-darkness)
+    * [The New Cosmic Order](#the-new-cosmic-order)
+  * [Cults](#cults)
+    * [Sisterhood of the Black Tongue](#sisterhood-of-the-black-tongue)
+  * [Themes of Horror](#themes-of-horror)
+    * [Terrifying Experiments](#terrifying-experiments)
+      * [Categories and Instances of Experiments](#categories-and-instances-of-experiments)
+        * [Hybridization of Human and Alien DNA](#hybridization-of-human-and-alien-dna)
+        * [Consciousness Transfer and Creation](#consciousness-transfer-and-creation)
+        * [Enhancement of Pain Tolerance](#enhancement-of-pain-tolerance)
+        * [Neural Manipulation and Domination](#neural-manipulation-and-domination)
+        * [Experiments in Dimensional Tearing](#experiments-in-dimensional-tearing)
+        * [Unleashing Latent Psychic Abilities](#unleashing-latent-psychic-abilities)
+        * [Conclusion](#conclusion-12)
+    * [Occult Experiments](#occult-experiments)
+      * [Diving into the Unknown: Types and Tales of Experiments](#diving-into-the-unknown-types-and-tales-of-experiments)
+        * [Ritualistic Research](#ritualistic-research)
+        * [Esoteric Bio-Engineering](#esoteric-bio-engineering)
+        * [Astral Projection Trials](#astral-projection-trials)
+        * [Occult-Driven AI Development](#occult-driven-ai-development)
+      * [Conclusion](#conclusion-13)
+  * [Dark Rituals](#dark-rituals)
+    * [The Atrum Echo](#the-atrum-echo)
+    * [The Withering](#the-withering)
+    * [Vial of bottled Darkness](#vial-of-bottled-darkness)
+* [Gear](#gear)
+  * [General Gear](#general-gear)
+      * [Advanced Mechanical Toolkit](#advanced-mechanical-toolkit)
+      * [Advanced Electronics Kit](#advanced-electronics-kit)
+      * [Glow Drone](#glow-drone)
+      * [Nightvision Goggles](#nightvision-goggles)
+      * [Personal Data Processor / PDP](#personal-data-processor--pdp)
+      * [Respirator Mask](#respirator-mask)
+      * [Subvocal Communication Device](#subvocal-communication-device)
+      * [Tactical Backpack](#tactical-backpack)
+      * [Thermal Goggles](#thermal-goggles)
+      * [Small Camera Drone](#small-camera-drone)
+      * [Plasma Torch](#plasma-torch)
+  * [Environmental Gear](#environmental-gear)
+      * [Standard Vacuum Suit](#standard-vacuum-suit)
+      * [Enhanced EVA Suit](#enhanced-eva-suit)
+      * [Hostile Environment Suit](#hostile-environment-suit)
+      * [Zero-G Mobility Gear](#zero-g-mobility-gear)
+      * [Radiation Shielding Suit](#radiation-shielding-suit)
+      * [Pressure Suit](#pressure-suit)
+      * [Stealth Recon Suit](#stealth-recon-suit)
+      * [Thermo Cloak](#thermo-cloak)
+      * [Hazard Detection Gear](#hazard-detection-gear)
+      * [Emergency Survival Kit](#emergency-survival-kit)
+      * [Emergency Breathing Apparatus](#emergency-breathing-apparatus)
+      * [Portable Shelter Module](#portable-shelter-module)
+  * [Medical and Survival Gear](#medical-and-survival-gear)
+      * [*Compact Medical Kit*](#compact-medical-kit)
+      * [*Auto-Injector MedPacks*](#auto-injector-medpacks)
+      * [*Personal Health Monitor*](#personal-health-monitor)
+      * [*Portable Hydration System*](#portable-hydration-system)
+      * [*Nutrient Concentrates*](#nutrient-concentrates)
+      * [*Survival Multi-Tool*](#survival-multi-tool)
+      * [*Thermal Emergency Blanket*](#thermal-emergency-blanket)
+      * [*Personal Distress Beacon*](#personal-distress-beacon)
+      * [*Anti-Radiation Pills*](#anti-radiation-pills)
+      * [*Synthetic Skin Spray*](#synthetic-skin-spray)
+      * [Psychoactive Drugs](#psychoactive-drugs)
+  * [Weapons](#weapons)
+      * [*Pistol*](#pistol)
+      * [*Submachinegun*](#submachinegun)
+      * [*Assault Rifles*](#assault-rifles)
+      * [*Sniper Rifles*](#sniper-rifles)
+      * [*Longbarreled Coil Guns*](#longbarreled-coil-guns)
+      * [*Grenade Launchers*](#grenade-launchers)
+      * [Shotguns (Double-Action/Automatic)](#shotguns-double-actionautomatic)
+  * [Ammunition](#ammunition)
+    * [Standard Projectile Ammunition](#standard-projectile-ammunition)
+      * [Standard rounds](#standard-rounds)
+      * [Armour Piercing Projectiles](#armour-piercing-projectiles)
+      * [Frangible rounds](#frangible-rounds)
+      * [Subsonic Rounds](#subsonic-rounds)
+      * [Tracer Rounds](#tracer-rounds)
+      * [Incendiary Rounds](#incendiary-rounds)
+      * [Chemical Rounds](#chemical-rounds)
+    * [Shotgun Ammunition](#shotgun-ammunition)
+      * [Buckshot](#buckshot)
+      * [Slug Rounds](#slug-rounds)
+      * [Rubber Buckshot](#rubber-buckshot)
+      * [Flechette Shells](#flechette-shells)
+      * [Gas Canister Rounds](#gas-canister-rounds)
+  * [Sample Weapons](#sample-weapons)
+      * [Stalker P-107 (Pistol)](#stalker-p-107-pistol)
+      * [Vortex SMG-9 (Submachinegun)](#vortex-smg-9-submachinegun)
+      * [Sentinel AR-15 (Assault Rifle)](#sentinel-ar-15-assault-rifle)
+      * [Eclipse SR-7 (Sniper Rifle)](#eclipse-sr-7-sniper-rifle)
+      * [Titan CG-4 (Grenade Launcher)](#titan-cg-4-grenade-launcher)
+      * [Zephyr LBC-308 (Longbarreled Coil Gun)](#zephyr-lbc-308-longbarreled-coil-gun)
+* [Rules](#rules)
+  * [Dice Mechanics](#dice-mechanics)
+    * [Dice Mathematics](#dice-mathematics)
+      * [Simple Additions and Subtractions](#simple-additions-and-subtractions)
+        * [Adding to a Roll](#adding-to-a-roll)
+        * [Subtracting from a Roll](#subtracting-from-a-roll)
+        * [Rolling Multiple Dice](#rolling-multiple-dice)
+      * [Multiplication and Division](#multiplication-and-division)
+        * [Multiplication](#multiplication)
+        * [Division](#division)
+      * [Doubling Up](#doubling-up)
+        * [Doubling the Result](#doubling-the-result)
+        * [Doubling the Dice](#doubling-the-dice)
+      * [Dice Collection](#dice-collection)
+      * [Middle Value](#middle-value)
+    * [Checks](#checks)
+      * [Target Number](#target-number)
+      * [Anatomy of a Check](#anatomy-of-a-check)
+      * [Repeating Checks](#repeating-checks)
+      * [Simple Check](#simple-check)
+      * [Opposed Checks](#opposed-checks)
+      * [Ongoing check](#ongoing-check)
+      * [Cooperativ check](#cooperativ-check)
+    * [Temptation Dice](#temptation-dice)
+    * [Marks](#marks)
+      * [Storing Marks](#storing-marks)
+  * [Creating Character and Crew](#creating-character-and-crew)
+    * [The Crew](#the-crew)
+    * [Setting personal goals and motivations](#setting-personal-goals-and-motivations)
+    * [Create personal relations](#create-personal-relations)
+    * [Character Archetypes and Backgrounds](#character-archetypes-and-backgrounds)
+      * [Intelligence Analyst](#intelligence-analyst-)
+      * [Tactical Soldier](#tactical-soldier)
+      * [Stealth Operative](#stealth-operative)
+      * [Field Engineer](#field-engineer)
+      * [Medic](#medic)
+      * [IT Specialist](#it-specialist)
+      * [Negotiator](#negotiator)
+    * [Creating Weakness and Strength](#creating-weakness-and-strength)
+    * [Deciding on the Attributes](#deciding-on-the-attributes)
+      * [Attributes](#attributes)
+        * [Core Attributes](#core-attributes)
+          * [Force (For)](#force-for)
+          * [Nimbleness (Nim)](#nimbleness-nim)
+          * [Dedication (Ded)](#dedication-ded)
+          * [Mind (Mnd)](#mind-mnd)
+        * [Derived Attributes](#derived-attributes)
+          * [Speed (Spd)](#speed-spd)
+          * [Physical Endurance (PhE)](#physical-endurance-phe)
+          * [Mental Endurance (MeE)](#mental-endurance-mee)
+      * [Allocate Points](#allocate-points)
+    * [Calculate Derived Attributes](#calculate-derived-attributes)
+    * [Finalize Attributes](#finalize-attributes)
+    * [Deciding on Skills](#deciding-on-skills)
+      * [Calculate Mastery Gate](#calculate-mastery-gate)
+      * [Skill Selection](#skill-selection)
+      * [Skill Packs for Archtypes](#skill-packs-for-archtypes)
+        * [Intelligence Analyst](#intelligence-analyst)
+        * [Tactical Soldier](#tactical-soldier-1)
+        * [Stealth Operative](#stealth-operative-1)
+        * [Field Engineer](#field-engineer-1)
+        * [Medic](#medic-1)
+        * [IT Specialist](#it-specialist-1)
+        * [Negotiator](#negotiator-1)
+      * [Expertise Area Cost](#expertise-area-cost)
+      * [Choose Specialisations](#choose-specialisations)
+      * [Finalize Expertise Areas](#finalize-expertise-areas)
+    * [Deciding on a spacecraft and equipment](#deciding-on-a-spacecraft-and-equipment)
+  * [Expertise Areas](#expertise-areas)
+    * [Expertise Area](#expertise-area)
+    * [Specialisations](#specialisations)
+      * [Custom Specialisations](#custom-specialisations)
+    * [Expertise Areas and Specialisations](#expertise-areas-and-specialisations)
+      * [Combat](#combat)
+        * [Specialisations](#specialisations-1)
+          * [Close Quarters Battle](#close-quarters-battle)
+          * [Marksmanship](#marksmanship)
+          * [Explosives and Demolitions](#explosives-and-demolitions)
+          * [Tactical Maneuvering](#tactical-maneuvering)
+          * [Melee and Improvised Weapons](#melee-and-improvised-weapons)
+      * [Espionage](#espionage)
+        * [Specialisations](#specialisations-2)
+          * [Surveilance](#surveilance)
+          * [Counterintelligence](#counterintelligence)
+          * [Cypher](#cypher)
+      * [Hardware](#hardware)
+        * [Specialisations](#specialisations-3)
+          * [Repair](#repair)
+          * [Modification](#modification)
+          * [Fabrication](#fabrication)
+      * [Knowledge](#knowledge)
+        * [Specialisation](#specialisation)
+          * [History](#history)
+          * [Natural Science](#natural-science)
+          * [Occultism](#occultism)
+      * [Medical](#medical)
+        * [Specialisation](#specialisation-1)
+          * [Trauma Surgery](#trauma-surgery)
+          * [Field Medic](#field-medic-)
+          * [Internal Medicine](#internal-medicine)
+      * [Negotiation](#negotiation)
+        * [Specialisation](#specialisation-2)
+          * [Bartering](#bartering)
+          * [Diplomacy](#diplomacy)
+          * [Intimidation](#intimidation)
+      * [Navigation](#navigation)
+        * [Specialisations](#specialisations-4)
+          * [Orientation](#orientation)
+          * [Coordination](#coordination)
+          * [Jump Plotter](#jump-plotter)
+      * [Physicality](#physicality)
+        * [Specialisation](#specialisation-3)
+          * [Climbing](#climbing)
+          * [Swimming](#swimming)
+          * [Parcour](#parcour)
+      * [Pilot](#pilot)
+        * [Specialisation](#specialisation-4)
+          * [Aircraft](#aircraft)
+          * [Water](#water)
+          * [Spacecraft](#spacecraft)
+      * [PsychOps](#psychops)
+        * [Specialisation](#specialisation-5)
+          * [Interrogation Techniques](#interrogation-techniques)
+          * [Behavioral Profiling](#behavioral-profiling)
+          * [Conditioning](#conditioning)
+      * [Resources](#resources)
+        * [Specialisations](#specialisations-5)
+          * [Supply Negotiation](#supply-negotiation)
+          * [Logistics](#logistics)
+          * [Crisis Organisation](#crisis-organisation)
+      * [Software](#software)
+        * [Specialisations](#specialisations-6)
+          * [Cyber Operations](#cyber-operations)
+          * [Software Development](#software-development)
+          * [Data Analytics](#data-analytics)
+      * [Stealth](#stealth)
+        * [Specialisations](#specialisations-7)
+          * [Infiltration Tactics](#infiltration-tactics)
+          * [Shadow Movement](#shadow-movement)
+          * [Camouflage and Disguise](#camouflage-and-disguise)
+      * [Survival](#survival)
+        * [Specialisations](#specialisations-8)
+          * [Wilderness Survival](#wilderness-survival)
+          * [Urban Survival](#urban-survival)
+          * [Extreme Condition Adaptation](#extreme-condition-adaptation)
+  * [Character Progression](#character-progression)
+* [Combat](#combat-1)
+  * [Engagement Stakes](#engagement-stakes)
+  * [Time in Combat](#time-in-combat)
+  * [Order of combat](#order-of-combat)
+  * [Resolving of a spotlight](#resolving-of-a-spotlight)
+    * [Statement of "Intent"](#statement-of-intent)
+    * [Setting of "Spotlight Stakes"](#setting-of-spotlight-stakes)
+    * [Execute](#execute)
+  * [Spatial considerations](#spatial-considerations)
+  * [Intents](#intents)
+    * [Deal damage](#deal-damage)
+      * [Hitting a target](#hitting-a-target)
+        * [Ranged Weapon](#ranged-weapon)
+        * [Close Combat Weapon](#close-combat-weapon)
+        * [Area of Effect Weapon](#area-of-effect-weapon)
+      * [Check protection or resistance](#check-protection-or-resistance)
+      * [Deal Damage](#deal-damage-1)
+  * [Injury and recovery](#injury-and-recovery)
+    * [Serious Wounds](#serious-wounds)
+    * [Regeneration of Physical Endurance (PhE)](#regeneration-of-physical-endurance-phe)
+      * [Recovery from Serious Wounds](#recovery-from-serious-wounds)
+* [Space Vessel Rules](#space-vessel-rules-)
+  * [Attributes of a Vessel](#attributes-of-a-vessel)
+    * [Size](#size)
+    * [Acceleration](#acceleration)
+    * [Structural Endurance (StE)](#structural-endurance-ste)
+    * [Electronic Endurance (ElE)](#electronic-endurance-ele)
+    * [Signal Rating (SiR)](#signal-rating-sir)
+  * [Component Attributes](#component-attributes)
+    * [Armour](#armour)
+    * [Drive](#drive)
+    * [Cargo](#cargo)
+    * [Sensors](#sensors)
+  * [Optional Component Attributes](#optional-component-attributes)
+    * [Electronic Warfare (EWF)](#electronic-warfare-ewf)
+    * [Weapons](#weapons-1)
+    * [Emergency Repair Systems](#emergency-repair-systems)
+      * [](#)
+* [Space Combat (SpCo)](#space-combat-spco)
+  * [Initiating Space Combat](#initiating-space-combat)
+  * [Combat Segments and Spotlights](#combat-segments-and-spotlights)
+    * [Spotlights in Space Combat](#spotlights-in-space-combat)
+      * [Spotlight Order and Narrative Priority](#spotlight-order-and-narrative-priority)
+      * [Player-Requested Spotlights and Intent Changes](#player-requested-spotlights-and-intent-changes)
+  * [Intent Categories in Space Combat](#intent-categories-in-space-combat)
+    * [Piloting & Ship Manoeuvring](#piloting--ship-manoeuvring)
+    * [Weapons Operations](#weapons-operations)
+    * [Sensors & Electronic Warfare (EWAR) Operations](#sensors--electronic-warfare-ewar-operations)
+    * [Engineering & Damage Control](#engineering--damage-control)
+    * [Command & Coordination](#command--coordination)
+  * [Distance in space combat](#distance-in-space-combat)
+      * [Close Quarter -- SR](#close-quarter----sr)
+      * [Near -- SR](#near----sr)
+      * [Middle Range -- SR](#middle-range----sr)
+      * [Long Range -- SR](#long-range----sr)
+      * [Extreme Range -- SR](#extreme-range----sr-)
+  * [Speed and Movement in Combat](#speed-and-movement-in-combat)
+  * [Space Combat Engagement Stakes](#space-combat-engagement-stakes)
+  * [Intents](#intents-1)
+    * [Piloting and Maneuvering](#piloting-and-maneuvering)
+      * [Using Terrain against Sensors](#using-terrain-against-sensors-)
+      * [Evasive Maneuvers](#evasive-maneuvers)
+      * [Stealth Maneuvering](#stealth-maneuvering)
+      * [Jump Navigation](#jump-navigation)
+    * [Weapons Operations](#weapons-operations-1)
+      * [Deploy Weapon systems](#deploy-weapon-systems)
+        * [Check protection or resistance](#check-protection-or-resistance-1)
+        * [Deal Damage](#deal-damage-2)
+        * [Critical Hits](#critical-hits)
+    * [Sensor & Electronic Warfare](#sensor--electronic-warfare)
+      * [EWAR against weapons](#ewar-against-weapons)
+      * [Sensor Operations](#sensor-operations)
+        * [Passive Scanning](#passive-scanning)
+          * [Initiating Passive Scan](#initiating-passive-scan)
+          * [Outcome of Passive Scanning](#outcome-of-passive-scanning)
+          * [Modifiers and Considerations](#modifiers-and-considerations)
+        * [Active Scanning](#active-scanning)
+          * [Initiating Active Scan](#initiating-active-scan)
+          * [Outcome of Active Scanning](#outcome-of-active-scanning)
+          * [Risk and Reward](#risk-and-reward)
+        * [Post-Scan Analysis](#post-scan-analysis)
+        * [Interpreting Data](#interpreting-data)
+        * [Tactical Application](#tactical-application)
+    * [Engineering and Damage Controll](#engineering-and-damage-controll)
+      * [Emergency Repairs](#emergency-repairs)
+      * [Emergency Power Rerouting](#emergency-power-rerouting)
+      * [System Stabilization](#system-stabilization)
+    * [Command and Coordination](#command-and-coordination)
+      * [Ready vessel for combat](#ready-vessel-for-combat)
+  * [Spaceship Components](#spaceship-components)
+    * [Weaponsystems](#weaponsystems)
+      * [Torpedos](#torpedos)
+      * [Medium Range missiles](#medium-range-missiles)
+      * [Near Range Missiles](#near-range-missiles)
+      * [Gaus Weapons](#gaus-weapons)
+      * [Convetional Projectile Weapons](#convetional-projectile-weapons)
+      * [Loitering Munition](#loitering-munition)
+      * [EMP Weapons](#emp-weapons)
+      * [Drones](#drones)
+* [Terror, Fear, and Morale](#terror-fear-and-morale)
+  * [Regeneration of Mental Endurance](#regeneration-of-mental-endurance)
+  * [Mental Degradation](#mental-degradation)
+  * [Treatment of Short-Term Effects](#treatment-of-short-term-effects)
+  * [Treatment of long-Term effects](#treatment-of-long-term-effects)
+  * [Drug Treatment of Effects](#drug-treatment-of-effects)
+  * [Recovering Mental Degradation](#recovering-mental-degradation)
+  * [A Note on Mental Health](#a-note-on-mental-health)
+* [Appendix of Tables](#appendix-of-tables)
+  * [Weapons](#weapons-2)
+    * [Ranged Weapons](#ranged-weapons)
+    * [Ammunition Types](#ammunition-types)
+  * [Armour](#armour-1)
+    * [Personal Armour](#personal-armour)
+  * [Spaceship Components](#spaceship-components-1)
+    * [Propulsion Systems](#propulsion-systems)
+    * [Sensor Systems](#sensor-systems)
+    * [Electronic Warfare Systems](#electronic-warfare-systems)
+    * [Life Support Systems](#life-support-systems)
+    * [Repair Systems](#repair-systems)
+    * [Ammunition Storage](#ammunition-storage)
+    * [Specialized Systems](#specialized-systems)
+    * [Weapons Control Systems](#weapons-control-systems)
+    * [Cargo and Utility Systems](#cargo-and-utility-systems)
+* [ABYSSAL](#abyssal-1)
+* [The Package](#the-package)
+* [The Package](#the-package-1)
+  * [Plot Synopsis](#plot-synopsis)
+  * [Scene 1: The Briefing](#scene-1-the-briefing)
+  * [Scene 2: The Opening](#scene-2-the-opening-)
+      * [At the night of the opening](#at-the-night-of-the-opening)
+      * [A not so fitting guest](#a-not-so-fitting-guest)
+      * [Arrival of Isaac Fender](#arrival-of-isaac-fender)
+      * [Meeting of Dingerman and Fender](#meeting-of-dingerman-and-fender)
+      * [Concluded Business](#concluded-business)
+  * [Scene 3: Intercept](#scene-3-intercept)
+  * [Scene 4: Spacebound](#scene-4-spacebound)
+  * [Scene 5: At Gunpoint](#scene-5-at-gunpoint)
+    * [Boarding and Ferrying](#boarding-and-ferrying)
+    * [The Battle for the Starspear](#the-battle-for-the-starspear)
+    * [Final Confrontation](#final-confrontation)
+  * [Debrief](#debrief)
+* [Dramatis Personae](#dramatis-personae)
+  * [Isaac Fender](#isaac-fender)
+  * [Charles Dingerman](#charles-dingerman)
+  * [Iskaander Derson](#iskaander-derson)
+  * [Alon Dao](#alon-dao)
+  * [Jonathan Dao](#jonathan-dao)
+* [Items of Note](#items-of-note)
+  * [The Scriptum](#the-scriptum)
+  * [The Vial of bottled Darkness](#the-vial-of-bottled-darkness)
+* [The Starspear](#the-starspear)
+* [NPC´s](#npcs)
+  * [Cultists](#cultists)
+  * [Security Detail](#security-detail)
+  * [Alon Dao](#alon-dao-1)
+* [INDEX](#index)
+<!-- TOC -->
 
 # ABYSSAL
 
@@ -1012,8 +772,6 @@ ranging from alliances to rivalries, shape the political and cultural
 milieu of this space-faring society. Earth, humanity\'s birthplace, now
 stands as a cultural relic, its political relevance eclipsed by the
 myriad of corporate-governed planets throughout the galaxy.
-
-# 
 
 # Timeline of Abyssal
 
@@ -4616,43 +4374,27 @@ As the number of skill points for Character building, this can be
 modified by the Suit based on the experience the group should have for
 the intended plot.
 
-  --------------------------------------------------------------------------
-  EAL/MG             \<=4          5 - 6         7-8           \>=9
-  ------------------ ------------- ------------- ------------- -------------
-  1                  1             1             1             1
+**Expertise Area Progression Cost Table**
 
-  2                  1             1             1             1
+| EAL/MG | <=4 | 5-6 | 7-8 | >=9 |
+|--------|-----|-----|-----|-----|
+| 1 | 1 | 1 | 1 | 1 |
+| 2 | 1 | 1 | 1 | 1 |
+| 3 | 1 | 1 | 1 | 1 |
+| 4 | 1 | 1 | 1 | 1 |
+| 5 | 2 | 1 | 1 | 1 |
+| 6 | 2 | 1 | 1 | 1 |
+| 7 | 2 | 2 | 1 | 1 |
+| 8 | 2 | 2 | 1 | 1 |
+| 9 | 4 | 2 | 2 | 1 |
+| 10 | 4 | 2 | 2 | 1 |
+| 11 | 4 | 4 | 2 | 2 |
+| 12 | 5 | 4 | 2 | 2 |
+| 13 | 5 | 4 | 4 | 2 |
+| 14 | 5 | 5 | 4 | 2 |
+| 15 | 6 | 5 | 4 | 4 |
+| 16 | 6 | 5 | 5 | 4 |
 
-  3                  1             1             1             1
-
-  4                  1             1             1             1
-
-  5                  2             1             1             1
-
-  6                  2             1             1             1
-
-  7                  2             2             1             1
-
-  8                  2             2             1             1
-
-  9                  4             2             2             1
-
-  10                 4             2             2             1
-
-  11                 4             4             2             2
-
-  12                 5             4             2             2
-
-  13                 5             4             4             2
-
-  14                 5             5             4             2
-
-  15                 6             5             4             4
-
-  16                 6             5             5             4
-  --------------------------------------------------------------------------
-
-  : Expertise Area Progression Cost Table
 
 #### Choose Specialisations
 
@@ -6478,7 +6220,7 @@ Endurance (MeE). Once the MeE hits zero, mental degradation begins.
 > corridor, keeping him and his allies in cover. Suddenly a grenade
 > detonates, tearing of the arm of his nearest companion, covering him
 > in blood. The Suit rules this attack him with a Terror Value (TV) of
-> 8. Gruber rolls {10, 6, 13 }, The Suit { 12, 14, 20 }. Grubers Mind
+> 8 . Gruber rolls {10, 6, 13 }, The Suit { 12, 14, 20 }. Grubers Mind
 > Value is 6, the result stays at 6. Suits midle value is 14, so his
 > result is TV 8 + 4, 12. The Terror achieves 1 Mark for the success and
 > 2 additional marks for beeing twice time 3 above the result of Gruber
@@ -6622,670 +6364,127 @@ important as physical health, and there is strength in seeking support.
 
 # Appendix of Tables
 
-  -------------------------------------------------------------------------
-  Weapon Type        Ammunition Type  Penetration    Rate of   Optimal
-                                      Value          fire      Range
-  ------------------ ---------------- -------------- --------- ------------
-  Pistol             Standard Rounds  4              medium    near
-
-  Submachine Gun     Standard Rounds  5              high      near
-
-  Assault Rifle      Standard Rounds  10             high      middle range
-
-  Sniper Rifle       Standard Rounds  16             low       long range
-
-  Shotgun            Buckshot         2              low       middle range
-
-  Grenade Launcher   Explosive        28             low       middle range
-                     Grenades                                  
-
-  Longbarreled Coil  Ferromagnetic    20             high      long range
-  Gun                Slugs                                     
-
-  Autoshotgun        Buckshot         2              high      near
-  -------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------
-  Ammunition   Pistol   SMG     Assault   Sniper   Shotgun   Long     Pen.       Damage
-  Types                         Rifle     Rifle              Coiled   Modifier   Modifier
-                                                             Gauss               
-  ------------ -------- ------- --------- -------- --------- -------- ---------- ----------
-  Full Metal   TRUE     TRUE    TRUE      TRUE     FALSE     FALSE    0          0
-  Jacket                                                                         
-
-  Hollow Point TRUE     TRUE    TRUE      TRUE     FALSE     FALSE    -2         2
-
-  Frangible    TRUE     TRUE    TRUE      FALSE    FALSE     FALSE    -3         -1
-  Rounds                                                                         
-
-  Armour       TRUE     TRUE    TRUE      TRUE     FALSE     FALSE    2          0
-  Piercing                                                                       
-
-  Subsonic     TRUE     TRUE    TRUE      FALSE    FALSE     FALSE    -1         0
-  Rounds                                                                         
-
-  Slug rounds  FALSE    FALSE   FALSE     FALSE    TRUE      FALSE    2          1
-
-  Flechette    FALSE    FALSE   FALSE     FALSE    TRUE      FALSE    -2         2
-  -----------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-  Type                              Protection           Full enclosure
-  --------------------------------- -------------------- ----------------
-  Light Bulletproof Vest            8                    n
-
-  Combat Armour                     12                   n
-
-  Reinforced Combat Armour          14                   n
-
-  Heavy Exo Armour                  18                   n
-
-  Military Force Armour             24                   y
-
-  Light Space Combat Armour         14                   y
-
-  Medium Space Combat Armour        16                   Y
-  -----------------------------------------------------------------------
-
-#  
-
-# Space Vessels, Weapons, and Components
-
-[]{#_Toc1585905641 .anchor}**Viper-Class Scout**
-
-[]{#_Toc954083068 .anchor}**Attributes**
-
--   **Size (GST)**: 500
-
--   **Component Slots**: 8
-
--   **Acceleration (MaxG)**: 4
-
--   **Structural Endurance (StE)**: 12
-
--   **Electronic Endurance (ElE)**: 8
-
--   **Signal Rating (SiR)**: 5
-
--   **Armor**: 8
-
--   **Sensor Modifier**: +2
-
--   **EWDR**: 1
-
--   **Crew Complement**: 5
-
-[]{#_Toc652866479 .anchor}**Components**
-
--   **KPAD Drives Mk-I**: Enhanced maneuverability with a MaxG of 4.
-
--   **RAVEN Recon Drone**: Provides real-time intelligence and
-    battlefield awareness.
-
--   **Basic Life Support**: Supports a crew of up to 5 for 6 months.
-
--   **Standard Short Range Missile Magazine**: Holds 4 short-range
-    missiles.
-
--   **Enhanced Sensors**: Advanced detection capabilities with a Sensor
-    Modifier of +2.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Communication Systems Mk-I**: Reliable short-range communication.
-
--   **Repair Systems Mk-I**: Emergency maintenance with a Repair Rate of
-    2.
-
-[]{#_Toc2019122610 .anchor}**Weapons**
-
--   **Short Range Missile Launcher**: Fires 4 short-range missiles with
-    a damage of 2d6 each.
-
--   **Point Defense Gauss Cannon**: Low damage (1d6) but high rate of
-    fire, ideal for intercepting incoming threats.
-
-[]{#_Toc2017447954 .anchor}**Description**
-
-The **Viper-Class Scout** is a sleek and agile vessel, approximately
-**15m x 8m x 6m**, designed for swift reconnaissance missions and rapid
-deployment. Its advanced sensor systems and lightweight frame allow it
-to navigate asteroid fields and engage in quick strikes, making it a
-valuable asset for small teams seeking intelligence and swift action.
-
-[]{#_Toc733468253 .anchor}**Guardian-Class Frigate**
-
-[]{#_Toc1576792101 .anchor}**Attributes**
-
--   **Size (GST)**: 1,200
-
--   **Component Slots**: 15
-
--   **Acceleration (MaxG)**: 3
-
--   **Structural Endurance (StE)**: 18
-
--   **Electronic Endurance (ElE)**: 12
-
--   **Signal Rating (SiR)**: 8
-
--   **Armor**: 14
-
--   **Sensor Modifier**: +3
-
--   **EWDR**: 2
-
--   **Crew Complement**: 20
-
-[]{#_Toc1156835894 .anchor}**Components**
-
--   **KPAD Drives Mk-II**: Improved manoeuvrability with a MaxG of 5.
-
--   **ZEUS EMP Projector**: Disables enemy electronics within long
-    range.
-
--   **Life Support Mk-II**: Supports a crew of up to 20 for 1 year.
-
--   **Standard Long Range Missile Magazine**: Holds 4 long-range
-    missiles.
-
--   **Advanced Sensors**: Superior detection capabilities with a Sensor
-    Modifier of +3.
-
--   **Large Calibre Gauss Cannon**: High damage (4d10) with moderate
-    rate of fire.
-
--   **Electronic Warfare Systems Mk-II**: Enhanced EW capabilities.
-
--   **Utility Systems Mk-I**: Provides additional support functions.
-
--   **Fusion Reactor Mk-II**: Powers all ship systems efficiently.
-
--   **Communication Systems Mk-II**: Extended communication range.
-
--   **Repair Systems Mk-II**: Maintenance and repair with a Repair Rate
-    of 3.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Decoy Deployment System**: Deploys decoys to mislead enemy
-    targeting.
-
--   **Cargo Holds Mk-I**: 200 GST capacity for essential supplies.
-
--   **Missile Launcher Control Unit**: Coordinates missile launches
-    efficiently.
-
-[]{#_Toc265393562 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 4 long-range missiles with a
-    damage of 4d10 each.
-
--   **Large Calibre Gauss Cannon**: Delivers devastating firepower with
-    high damage output.
-
-[]{#_Toc454428368 .anchor}**Description**
-
-The **Guardian-Class Frigate** is a formidable vessel, measuring
-approximately **30m x 15m x 10m**. Designed for both offensive strikes
-and defensive operations, it serves as the backbone of medium-sized
-fleets. Its heavy armour and advanced EMP capabilities allow it to
-withstand and disable enemy assaults, while its powerful gauss cannons
-deliver significant firepower against adversaries.
-
-[]{#_Toc517333918 .anchor}**Shadow-Class Interceptor**
-
-[]{#_Toc1222889851 .anchor}**Attributes**
-
--   **Size (GST)**: 800
-
--   **Component Slots**: 12
-
--   **Acceleration (MaxG)**: 6
-
--   **Structural Endurance (StE)**: 14
-
--   **Electronic Endurance (ElE)**: 10
-
--   **Signal Rating (SiR)**: 7
-
--   **Armor**: 10
-
--   **Sensor Modifier**: +2
-
--   **EWDR**: 2
-
--   **Crew Complement**: 10
-
-[]{#_Toc282233760 .anchor}**Components**
-
--   **KPAD Drives Mk-III**: Superior manoeuvrability with a MaxG of 6.
-
--   **RAVEN Recon Drone**: Provides real-time intelligence and
-    battlefield awareness.
-
--   **Life Support Mk-II**: Supports a crew of up to 10 for 1 year.
-
--   **Standard Long Range Missile Magazine**: Holds 4 long-range
-    missiles.
-
--   **Enhanced Sensors**: Advanced detection capabilities with a Sensor
-    Modifier of +2.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Electronic Warfare Systems Mk-II**: Enhanced EW capabilities.
-
--   **Fusion Reactor Mk-II**: Powers all ship systems efficiently.
-
--   **Communication Systems Mk-I**: Reliable short-range communication.
-
--   **Repair Systems Mk-I**: Emergency maintenance with a Repair Rate of
-    2.
-
--   **Decoy Deployment System**: Deploys decoys to mislead enemy
-    targeting.
-
--   **Utility Systems Mk-I**: Provides additional support functions.
-
-[]{#_Toc762765605 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 4 long-range missiles with a
-    damage of 4d10 each.
-
--   **Point Defense Gauss Cannon**: Low damage (1d6) but high rate of
-    fire, ideal for intercepting incoming threats.
-
-[]{#_Toc1818626999 .anchor}**Description**
-
-The **Shadow-Class Interceptor** is a nimble and swift vessel,
-approximately **20m x 10m x 7m** in size. Engineered for rapid response
-and interception missions, it excels at engaging and neutralizing enemy
-threats before they can pose a significant danger. Its high acceleration
-allows it to dodge attacks and reposition swiftly, while its electronic
-warfare systems disrupt enemy operations effectively.
-
-[]{#_Toc953544796 .anchor}**Sentinel-Class Corvette**
-
-[]{#_Toc777663411 .anchor}**Attributes**
-
--   **Size (GST)**: 700
-
--   **Component Slots**: 10
-
--   **Acceleration (MaxG)**: 5
-
--   **Structural Endurance (StE)**: 16
-
--   **Electronic Endurance (ElE)**: 9
-
--   **Signal Rating (SiR)**: 6
-
--   **Armor**: 12
-
--   **Sensor Modifier**: +2
-
--   **EWDR**: 1
-
--   **Crew Complement**: 12
-
-[]{#_Toc140370395 .anchor}**Components**
-
--   **KPAD Drives Mk-II**: Improved maneuverability with a MaxG of 5.
-
--   **ZEUS EMP Projector**: Disables enemy electronics within long
-    range.
-
--   **Life Support Mk-II**: Supports a crew of up to 12 for 1 year.
-
--   **Standard Long Range Missile Magazine**: Holds 4 long-range
-    missiles.
-
--   **Enhanced Sensors**: Advanced detection capabilities with a Sensor
-    Modifier of +2.
-
--   **Large Calibre Gauss Cannon**: High damage (4d10) with moderate
-    rate of fire.
-
--   **Electronic Warfare Systems Mk-I**: Standard EW capabilities.
-
--   **Utility Systems Mk-I**: Provides additional support functions.
-
--   **Fusion Reactor Mk-II**: Powers all ship systems efficiently.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
-[]{#_Toc1018690847 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 4 long-range missiles with a
-    damage of 4d10 each.
-
--   **Large Calibre Gauss Cannon**: Delivers devastating firepower with
-    high damage output.
-
-[]{#_Toc648205977 .anchor}**Description**
-
-The **Sentinel-Class Corvette** is a robust and versatile vessel,
-measuring approximately **25m x 12m x 8m**. Designed to operate
-seamlessly in both offensive and defensive roles, it is a key asset in
-medium-sized fleets. Its strong armor and EMP capabilities allow it to
-withstand and disable enemy ships, while its powerful gauss cannons
-provide significant offensive firepower.
-
-[]{#_Toc458303889 .anchor}**Falcon-Class Shuttle**
-
-[]{#_Toc2118622423 .anchor}**Attributes**
-
--   **Size (GST)**: 400
-
--   **Component Slots**: 7
-
--   **Acceleration (MaxG)**: 5
-
--   **Structural Endurance (StE)**: 10
-
--   **Electronic Endurance (ElE)**: 6
-
--   **Signal Rating (SiR)**: 4
-
--   **Armor**: 6
-
--   **Sensor Modifier**: +1
-
--   **EWDR**: 1
-
--   **Crew Complement**: 6
-
-[]{#_Toc1210016068 .anchor}**Components**
-
--   **KPAD Drives Mk-I**: Enhanced maneuverability with a MaxG of 5.
-
--   **RAVEN Recon Drone**: Provides real-time intelligence and
-    battlefield awareness.
-
--   **Basic Life Support**: Supports a crew of up to 6 for 6 months.
-
--   **Standard Short Range Missile Magazine**: Holds 4 short-range
-    missiles.
-
--   **Basic Sensors**: Standard detection capabilities with a Sensor
-    Modifier of +1.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Communication Systems Mk-I**: Reliable short-range communication.
-
-[]{#_Toc636653289 .anchor}**Weapons**
-
--   **Short Range Missile Launcher**: Fires 4 short-range missiles with
-    a damage of 2d6 each.
-
--   **Point Defense Gauss Cannon**: Low damage (1d6) but high rate of
-    fire, ideal for intercepting incoming threats.
-
-[]{#_Toc166966471 .anchor}**Description**
-
-The **Falcon-Class Shuttle** is a compact and agile vessel,
-approximately **12m x 6m x 4m** in size. Designed for quick missions and
-support roles, it excels at rapid deployment and reconnaissance. Its
-lightweight frame and decent acceleration allow it to navigate tight
-spaces and respond swiftly to emerging threats, making it a valuable
-tool for small crews.
-
-[]{#_Toc1163031135 .anchor}**Titan-Class Cruiser**
-
-[]{#_Toc1079951811 .anchor}**Attributes**
-
--   **Size (GST)**: 1,500
-
--   **Component Slots**: 20
-
--   **Acceleration (MaxG)**: 3
-
--   **Structural Endurance (StE)**: 22
-
--   **Electronic Endurance (ElE)**: 15
-
--   **Signal Rating (SiR)**: 10
-
--   **Armor**: 16
-
--   **Sensor Modifier**: +4
-
--   **EWDR**: 3
-
--   **Crew Complement**: 30
-
-[]{#_Toc176281169 .anchor}**Components**
-
--   **KPAD Drives Mk-IV**: Maximum maneuverability with a MaxG of 3.
-
--   **ZEUS EMP Projector**: Disables enemy electronics within long
-    range.
-
--   **Life Support Mk-III**: Supports a crew of up to 30 for 1 year.
-
--   **Strategic Long Range Missile Magazine**: Holds 8 long-range
-    missiles.
-
--   **Advanced Sensors**: Superior detection capabilities with a Sensor
-    Modifier of +4.
-
--   **Large Calibre Gauss Cannon**: High damage (4d10) with moderate
-    rate of fire.
-
--   **Electronic Warfare Systems Mk-III**: Enhanced EW capabilities.
-
--   **Utility Systems Mk-II**: Provides additional support functions.
-
--   **Fusion Reactor Mk-III**: Powers all ship systems efficiently.
-
--   **Communication Systems Mk-III**: Extended communication range.
-
--   **Repair Systems Mk-III**: Maintenance and repair with a Repair Rate
-    of 4.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Decoy Deployment System**: Deploys decoys to mislead enemy
-    targeting.
-
--   **Cargo Holds Mk-II**: 500 GST capacity for extensive supplies.
-
--   **Missile Launcher Control Unit**: Coordinates missile launches
-    efficiently.
-
--   **Advanced Repair Drones**: Provides automated repair support.
-
--   **Sensor Relay Array**: Extends sensor range and effectiveness.
-
--   **Heavy Electronic Warfare Module**: Provides additional EW
-    capabilities.
-
-[]{#_Toc1246498224 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 8 long-range missiles with a
-    damage of 4d10 each.
-
--   **Large Calibre Gauss Cannon**: Delivers devastating firepower with
-    high damage output.
-
-[]{#_Toc1624310315 .anchor}**Description**
-
-The **Titan-Class Cruiser** is a massive and imposing vessel,
-approximately **50m x 25m x 15m** in size. Serving as a flagship or
-primary combat vessel, it boasts unparalleled defenses, advanced
-electronic warfare systems, and a heavy arsenal of long-range missiles
-and gauss cannons. Its substantial crew and extensive component slots
-allow for versatile operations, making it a dominant force in any space
-engagement.
-
-**Echo-Class Raider**
-
-[]{#_Toc1657375314 .anchor}**Attributes**
-
--   **Size (GST)**: 900
-
--   **Component Slots**: 13
-
--   **Acceleration (MaxG)**: 5
-
--   **Structural Endurance (StE)**: 16
-
--   **Electronic Endurance (ElE)**: 11
-
--   **Signal Rating (SiR)**: 7
-
--   **Armor**: 12
-
--   **Sensor Modifier**: +2
-
--   **EWDR**: 2
-
--   **Crew Complement**: 15
-
-[]{#_Toc2098683591 .anchor}**Components**
-
--   **KPAD Drives Mk-II**: Improved maneuverability with a MaxG of 5.
-
--   **ZEUS EMP Projector**: Disables enemy electronics within long
-    range.
-
--   **Life Support Mk-II**: Supports a crew of up to 15 for 1 year.
-
--   **Standard Long Range Missile Magazine**: Holds 4 long-range
-    missiles.
-
--   **Advanced Sensors**: Superior detection capabilities with a Sensor
-    Modifier of +2.
-
--   **Large Calibre Gauss Cannon**: High damage (4d10) with moderate
-    rate of fire.
-
--   **Electronic Warfare Systems Mk-II**: Enhanced EW capabilities.
-
--   **Utility Systems Mk-I**: Provides additional support functions.
-
--   **Fusion Reactor Mk-II**: Powers all ship systems efficiently.
-
--   **Communication Systems Mk-II**: Extended communication range.
-
--   **Repair Systems Mk-II**: Maintenance and repair with a Repair Rate
-    of 3.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Decoy Deployment System**: Deploys decoys to mislead enemy
-    targeting.
-
-[]{#_Toc86829797 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 4 long-range missiles with a
-    damage of 4d10 each.
-
--   **Point Defense Gauss Cannon**: Low damage (1d6) but high rate of
-    fire, ideal for intercepting incoming threats.
-
-[]{#_Toc1937535324 .anchor}**Description**
-
-The **Echo-Class Raider** is a swift and versatile vessel, approximately
-**20m x 10m x 6m** in size. Designed for aggressive maneuvers and quick
-strikes, it excels in hit-and-run tactics and can engage multiple
-targets effectively. Its advanced EMP projector and strong gauss cannons
-make it a formidable opponent, capable of disabling enemy systems and
-delivering substantial damage before swiftly retreating.
-
-[]{#_Toc878132414 .anchor}**Phoenix-Class Battlecruiser**
-
-[]{#_Toc476742162 .anchor}**Attributes**
-
--   **Size (GST)**: 1,000
-
--   **Component Slots**: 16
-
--   **Acceleration (MaxG)**: 4
-
--   **Structural Endurance (StE)**: 20
-
--   **Electronic Endurance (ElE)**: 13
-
--   **Signal Rating (SiR)**: 9
-
--   **Armor**: 14
-
--   **Sensor Modifier**: +3
-
--   **EWDR**: 2
-
--   **Crew Complement**: 18
-
-[]{#_Toc953798788 .anchor}**Components**
-
--   **KPAD Drives Mk-II**: Improved maneuverability with a MaxG of 4.
-
--   **ZEUS EMP Projector**: Disables enemy electronics within long
-    range.
-
--   **Life Support Mk-II**: Supports a crew of up to 18 for 1 year.
-
--   **Strategic Long Range Missile Magazine**: Holds 6 long-range
-    missiles.
-
--   **Advanced Sensors**: Superior detection capabilities with a Sensor
-    Modifier of +3.
-
--   **Large Calibre Gauss Cannon**: High damage (4d10) with moderate
-    rate of fire.
-
--   **Electronic Warfare Systems Mk-II**: Enhanced EW capabilities.
-
--   **Utility Systems Mk-I**: Provides additional support functions.
-
--   **Fusion Reactor Mk-II**: Powers all ship systems efficiently.
-
--   **Communication Systems Mk-II**: Extended communication range.
-
--   **Repair Systems Mk-II**: Maintenance and repair with a Repair Rate
-    of 3.
-
--   **Point Defense Gauss Weapon**: Intercepts incoming projectiles
-    effectively.
-
--   **Decoy Deployment System**: Deploys decoys to mislead enemy
-    targeting.
-
--   **Cargo Holds Mk-II**: 500 GST capacity for extensive supplies.
-
--   **Missile Launcher Control Unit**: Coordinates missile launches
-    efficiently.
-
--   **Heavy Electronic Warfare Module**: Provides additional EW
-    capabilities.
-
-[]{#_Toc540080638 .anchor}**Weapons**
-
--   **Long Range Missile Launcher**: Fires 6 long-range missiles with a
-    damage of 4d10 each.
-
--   **Large Calibre Gauss Cannon**: Delivers devastating firepower with
-    high damage output.
-
-[]{#_Toc771872776 .anchor}**Description**
-
-The **Phoenix-Class Battlecruiser** is a formidable and imposing vessel,
-approximately **35m x 15m x 10m** in size. As a leading ship in
-medium-sized fleets, it combines heavy armor, advanced electronic
-warfare systems, and substantial firepower to dominate space
-engagements. Its versatile design allows it to perform both offensive
-assaults and defensive support roles effectively, making it a prized
-asset for any commanding fleet.
+## Weapons
+
+### Ranged Weapons
+
+| Weapon Type | Ammunition Type | Penetration Value | Rate of Fire | Optimal Range |
+|-------------|----------------|-------------------|--------------|---------------|
+| Pistol | Standard Rounds | 4 | medium | near |
+| Submachine Gun | Standard Rounds | 5 | high | near |
+| Assault Rifle | Standard Rounds | 10 | high | middle range |
+| Sniper Rifle | Standard Rounds | 16 | low | long range |
+| Shotgun | Buckshot | 2 | low | middle range |
+| Grenade Launcher | Explosive Grenades | 28 | low | middle range |
+| Longbarreled Coil Gun | Ferromagnetic Slugs | 20 | high | long range |
+| Autoshotgun | Buckshot | 2 | high | near |
+
+### Ammunition Types
+
+| Ammunition Types | Pistol | SMG | Assault Rifle | Sniper Rifle | Shotgun | Long Coiled Gauss | Pen. Modifier | Damage Modifier |
+  |-----------------|---------|-----|---------------|--------------|---------|-------------------|---------------|-----------------|
+  | Full Metal Jacket | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 0 | 0 |
+  | Hollow Point | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | -2 | 2 |
+  | Frangible Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -3 | -1 |
+  | Armour Piercing | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 2 | 0 |
+  | Subsonic Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -1 | 0 |
+  | Slug rounds | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | 2 | 1 |
+  | Flechette | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | -2 | 2 |
+
+## Armour
+
+### Personal Armour
+
+| Type | Protection | Full enclosure |
+  |------|------------|----------------|
+  | Light Bulletproof Vest | 8 | n |
+  | Combat Armour | 12 | n |
+  | Reinforced Combat Armour | 14 | n |
+  | Heavy Exo Armour | 18 | n |
+  | Military Force Armour | 24 | y |
+  | Light Space Combat Armour | 14 | y |
+  | Medium Space Combat Armour | 16 | y |
+
+## Spaceship Components
+
+### Propulsion Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **KPAD-VL1** | 1 | MaxG: 3<br>SiR Mod: +2 | 0 | Power-efficient design, minimal maintenance requirements | 25 |
+| **KPAD-AT2** | 2 | MaxG: 5<br>SiR Mod: +3 | 1 | Variable thrust configuration, emergency boost capability (+1G for 10 minutes) | 55 |
+| **KPAD-HR3** | 3 | MaxG: 7<br>SiR Mod: +4 | 1 | Enhanced maneuverability in combat situations, rapid vector changes | 75 |
+| **KPAD-ST4** | 3 | MaxG: 6<br>SiR Mod: +1 | 2 | Signature masking technology, thermal dispersion system | 85 |
+
+### Sensor Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **BSA-1** | 1 | Type: Basic<br>Range: Near<br>Sensor Mod: +1 | 0 | Standard detection suite, minimal power consumption | 20 |
+| **ESA-2** | 2 | Type: Enhanced<br>Range: Middle Range<br>Sensor Mod: +2 | 1 | Active/Passive modes, multi-spectral analysis | 45 |
+| **ASA-3** | 3 | Type: Advanced<br>Range: Long Range<br>Sensor Mod: +3 | 2 | High-resolution imaging, target profiling, anomaly detection | 70 |
+| **PSA-2** | 2 | Type: Enhanced<br>Range: Middle Range<br>Sensor Mod: +2 | 1 | Terrain penetration, signature analysis | 60 |
+
+### Electronic Warfare Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **EWS-B1** | 1 | Type: Countermeasures<br>Range: Near<br>Modifier: +1 | 1 | Basic jamming, sensor disruption | 25 |
+| **EWS-CE2** | 2 | Type: Jamming<br>Range: Middle Range<br>Modifier: +3 | 2 | Advanced signal disruption, focused EWAR against specific targets | 55 |
+| **EWS-SD3** | 3 | Type: Countermeasures/Detection<br>Range: Long Range<br>Modifier: +4 | 3 | Multi-band jamming, signal intelligence, adaptive defense algorithms | 75 |
+| **EWS-PH2** | 2 | Type: Countermeasures<br>Range: Middle Range<br>Modifier: +2 | 3 | Signal distortion, false signature generation | 65 |
+
+### Life Support Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **BLS-1** | 1 | Support Time: 3 months<br>Crew Capacity: 5 | 0 | Emergency oxygen reserves, minimal power consumption | 20 |
+| **ELS-2** | 2 | Support Time: 6 months<br>Crew Capacity: 15 | 0 | Advanced recycling systems, radiation filtration | 45 |
+| **ALS-3** | 3 | Support Time: 1 year<br>Crew Capacity: 30 | 1 | Automated maintenance, emergency medical facilities, closed-loop sustainability | 70 |
+
+### Repair Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **ERS-1** | 1 | Type: Emergency<br>Repair Rate: 1<br>Stored Charges: 2 | 0 | Automatic breach sealing, emergency stabilization | 25 |
+| **MRS-2** | 2 | Type: Maintenance<br>Repair Rate: 3<br>Stored Charges: 4 | 0 | Drone-assisted repairs, component fabrication | 50 |
+| **CRS-3** | 3 | Type: Emergency/Maintenance<br>Repair Rate: 4<br>Stored Charges: 6 | 1 | Combat-hardened repair drones, priority diagnostics, redundant systems | 75 |
+
+### Ammunition Storage
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **SRM-B1** | 1 | Missile Type: Short Range<br>Missile Capacity: 2 | 0 | Rapid reload system, basic safety protocols | 15 |
+| **SRM-S2** | 2 | Missile Type: Short Range<br>Missile Capacity: 6 | 0 | Enhanced reload mechanisms, adaptive storage configuration | 35 |
+| **LRM-S2** | 2 | Missile Type: Long Range<br>Missile Capacity: 4 | 0 | Secure containment, individual missile diagnostics | 50 |
+| **TM-S3** | 3 | Missile Type: Torpedo<br>Torpedo Capacity: 3 | 1 | Advanced containment, torpedo maintenance systems | 65 |
+
+### Specialized Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **SP-S4** | 4 | Lightyear Range: 1<br>Power up time: 20 min | 2 | Gravitational stabilizers, emergency shutdown protocols | 90 |
+| **IRHEC-S3** | 3 | Energy Storage: High<br>Discharge Rate: Instant | 1 | Containment failsafes, emergency venting | 85 |
+| **SSM-A2** | 2 | Signal Reduction: -3<br>Heat Management: Advanced | 2 | Adaptive emission control, signature masking | 75 |
+| **DCM-E2** | 2 | Decoy Capacity: 6<br>Deployment Range: Middle Range | 2 | Variable signature programming, autonomous operation | 60 |
+
+### Weapons Control Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **WCS-B1** | 1 | Targeting Bonus: +1<br>Systems Integrated: 2 | 0 | Basic target tracking, simplified fire control | 25 |
+| **WCS-E2** | 2 | Targeting Bonus: +2<br>Systems Integrated: 4 | 1 | Advanced target prediction, coordinated fire control | 55 |
+| **WCS-A3** | 3 | Targeting Bonus: +3<br>Systems Integrated: 6 | 2 | Predictive targeting, threat prioritization, environmental compensation | 75 |
+| **WCS-P2** | 2 | Targeting Bonus: +3<br>Systems Integrated: 2 | 1 | High-precision targeting, critical point analysis | 65 |
+
+### Cargo and Utility Systems
+
+| Component | Size | Primary Attributes | EWDR | Special Properties | Rating |
+|-----------|------|-------------------|:----:|-------------------|--------|
+| **CH-B1** | 1 | Cargo Capacity: 100 GST | 0 | Standard access, basic environmental control | 15 |
+| **CH-S2** | 2 | Cargo Capacity: 300 GST | 0 | Rapid access systems, modular storage configuration | 35 |
+| **SCH-S2** | 2 | Cargo Capacity: 200 GST | 0 | Environmental control, hazardous materials containment | 45 |
+| **US-M2** | 2 | Function Slots: 4<br>Power Efficiency: Standard | 0 | Modular design, cross-compatible interfaces | 40 |
 
 # ABYSSAL
 
