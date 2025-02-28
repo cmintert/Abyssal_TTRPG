@@ -1146,7 +1146,7 @@ Big 12 seemingly have been compensated, doing business as usual.
 
 # Corporations
 
-## AdAstra[]{.indexref entry="AdAstra"}
+## AdAstra
 
 AdAstra, a name that resonates across the galaxy, represents the
 pinnacle of space mining and resource extraction. AdAstra has charted a
@@ -1213,7 +1213,7 @@ visionaries. As they continue to push the boundaries of space resource
 extraction, AdAstra remains a key player in shaping the economic
 landscape of the galaxy.
 
-## Black Hawk[]{.indexref entry="Black Hawk"}
+## Black Hawk
 
 Black Hawk has established itself as a pre-eminent force in security and
 mercenary services, adapting and evolving to meet the complex challenges
