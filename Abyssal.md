@@ -1,10 +1,4 @@
-![A poster for a movie Description automatically
-generated](C:\Users\chris\PycharmProjects\Abyssal_TTRPG\Word_images/media/image1.jpeg){width="8.251388888888888in"
-height="11.000694444444445in"}
-
 Abyssal Alpha ver. 0.3.3
-
-\[Publish Date\]
 
 Disclaimer
 
@@ -12,17 +6,11 @@ This is a work in progress and under constant change. Until it reaches
 Beta, it is not considered play-ready to its full extent. This version
 is provided to gather feedback on the rules and setting of the game.
 Abyssal is a game written for the love of science fiction, horror and
-investigative genres. It contains descriptions of horror and violence.
-
-Cover Picture is created with Dalle-3
+investigative genres. It contains descriptions of horror and violence
 
 Abyssal - Alpha © 2024 by Christian Mintert is licensed under CC
 BY-NC-ND 4.0. To view a copy of this licence, visit
 http://creativecommons.org/licenses/by-nc-nd/4.0
-
-![A screenshot of a video game Description automatically
-generated](C:\Users\chris\PycharmProjects\Abyssal_TTRPG\Word_images/media/image2.jpeg){width="8.472222222222221in"
-height="11.196527777777778in"}
 
 # Contents
 
