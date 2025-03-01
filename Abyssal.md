@@ -35,49 +35,49 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
   * [Stellar Projector Crisis 2639](#stellar-projector-crisis-2639)
   * [The Hyperion Crisis 2645](#the-hyperion-crisis-2645)
 * [Corporations](#corporations)
-  * [AdAstra[]{.indexref entry="AdAstra"}](#adastraindexref-entryadastra)
+  * [AdAstra](#adastra)
     * [Founding and Evolution](#founding-and-evolution)
     * [Specialisation and Services](#specialisation-and-services)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics)
     * [Leadership](#leadership)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence)
     * [Conclusion](#conclusion)
-  * [Black Hawk[]{.indexref entry="Black Hawk"}](#black-hawkindexref-entryblack-hawk)
+  * [Black Hawk](#black-hawk)
     * [History and Rise to Prominence](#history-and-rise-to-prominence)
     * [Services and Specialization](#services-and-specialization)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-1)
     * [Leadership and Figureheads](#leadership-and-figureheads)
     * [Economic Strategy and Growth](#economic-strategy-and-growth)
     * [Conclusion](#conclusion-1)
-  * [CosmoNav[]{.indexref entry="CosmoNav"}](#cosmonavindexref-entrycosmonav)
+  * [CosmoNav](#cosmonav)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-1)
     * [Specialisation and Services](#specialisation-and-services-1)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-2)
     * [Leadership and Figureheads](#leadership-and-figureheads-1)
     * [Economic Strategies and Growth](#economic-strategies-and-growth)
     * [Conclusion](#conclusion-2)
-  * [Elysium Pharmaceuticals[]{.indexref entry="Elysium Pharmaceuticals"}](#elysium-pharmaceuticalsindexref-entryelysium-pharmaceuticals)
+  * [Elysium Pharmaceuticals](#elysium-pharmaceuticals)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-2)
     * [Specialisation and Services](#specialisation-and-services-2)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-3)
     * [Leadership and Figureheads](#leadership-and-figureheads-2)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-1)
     * [Conclusion](#conclusion-3)
-  * [Nexus Media Corp.[]{.indexref entry="Nexus Media Corp."}](#nexus-media-corpindexref-entrynexus-media-corp)
+  * [Nexus Media Corp](#nexus-media-corp)
     * [History and rise to prominence](#history-and-rise-to-prominence-3)
     * [Specialisation and services](#specialisation-and-services-3)
     * [Corporate culture and ethics](#corporate-culture-and-ethics-4)
     * [Leadership and figureheads](#leadership-and-figureheads-3)
     * [Business strategies and growth](#business-strategies-and-growth)
     * [Conclusion](#conclusion-4)
-  * [Orbital Dynamics Incorporated[]{.indexref entry="Orbital Dynamics Incorporated"}](#orbital-dynamics-incorporatedindexref-entryorbital-dynamics-incorporated)
+  * [Orbital Dynamics Incorporated](#orbital-dynamics-incorporated)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-4)
     * [Specialisation and Services](#specialisation-and-services-4)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-5)
     * [Leadership and Figureheads](#leadership-and-figureheads-4)
     * [Economic Strategies and Growth](#economic-strategies-and-growth-1)
     * [Conclusion](#conclusion-5)
-  * [Palladium Tactics Corp.[]{.indexref entry="Palladium Tactics Corp."}](#palladium-tactics-corpindexref-entrypalladium-tactics-corp)
+  * [Palladium Tactics Corp](#palladium-tactics-corp)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-5)
     * [Specialisation and Services](#specialisation-and-services-5)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-6)
@@ -85,14 +85,14 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
     * [Economic Strategies and Growth](#economic-strategies-and-growth-2)
     * [Political and Galactic Influence](#political-and-galactic-influence)
     * [Conclusion](#conclusion-6)
-  * [Quantum Nova[]{.indexref entry="Quantum Nova"}](#quantum-novaindexref-entryquantum-nova)
+  * [Quantum Nova](#quantum-nova)
     * [Origins and Ascension](#origins-and-ascension)
     * [Diversification and Specialization](#diversification-and-specialization)
     * [Corporate Culture and Ethical Stance](#corporate-culture-and-ethical-stance)
     * [Leadership](#leadership-1)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-2)
     * [Conclusion](#conclusion-7)
-  * [Rayburn-Lark[]{.indexref entry="Rayburn-Lark"}](#rayburn-larkindexref-entryrayburn-lark)
+  * [Rayburn-Lark](#rayburn-lark)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-6)
     * [Specialisation and Services](#specialisation-and-services-6)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-7)
@@ -1269,7 +1269,7 @@ strategic prowess and the relentless pursuit of securing the future of
 civilisation. Standing ready to meet the challenges of tomorrow, Black
 Hawk remains a beacon of stability in the chaotic vastness of space.
 
-## CosmoNav[]{.indexref entry="CosmoNav"}
+## CosmoNav
 
 CosmoNav Technologies has established itself as a titan in interstellar
 logistics and infrastructure, providing unparalleled services in the
@@ -1331,7 +1331,7 @@ As the galaxy continues to grow and change, CosmoNav\'s role in
 navigating these changes will only become more important, ensuring that
 no matter how far humanity reaches, it remains connected.
 
-## Elysium Pharmaceuticals[]{.indexref entry="Elysium Pharmaceuticals"}
+## Elysium Pharmaceuticals
 
 Elysium Pharmaceuticals dominates the field of galactic
 biopharmaceuticals, renowned for its relentless pursuit of life-altering
@@ -1383,7 +1383,7 @@ advanced medical technology. Whether a saviour or a corrupting force, it
 undoubtedly revolutionizes the way galactic society tackles illness,
 ageing, and mortality.
 
-## Nexus Media Corp.[]{.indexref entry="Nexus Media Corp."}
+## Nexus Media Corp
 
 Nexus Media stands as a titan in the galactic media landscape,
 controlling a vast multimedia network across the star systems. Renowned
@@ -1458,7 +1458,7 @@ reality and neural interfaces, Nexus Media\'s influence is poised to
 penetrate even deeper, making it an undeniable force in shaping the
 future.
 
-## Orbital Dynamics Incorporated[]{.indexref entry="Orbital Dynamics Incorporated"}
+## Orbital Dynamics Incorporated
 
 Orbital Dynamics Incorporated stands at the forefront of orbital
 engineering, mastering complex orbital infrastructure and artificial
@@ -1514,7 +1514,7 @@ resources. Their technology enables space vessel fabrication in orbit to
 make production easier and in the end more cost-effective. In the near
 future, there is no alternative on the horizon.
 
-## Palladium Tactics Corp.[]{.indexref entry="Palladium Tactics Corp."}
+## Palladium Tactics Corp
 
 Palladium Tactics Corp. (PTC) is a leading name in the galaxy\'s arms
 industry, known for its extensive range of weapon systems and military
@@ -1596,7 +1596,7 @@ shape armed conflict. As warfare evolves and expands into new realms,
 PTC is sure to be at the forefront, driving innovation and profiting
 from the ever-present nature of conflict.
 
-## Quantum Nova[]{.indexref entry="Quantum Nova"}
+## Quantum Nova
 
 Quantum Nova stands at the forefront of quantum computing and
 interstellar technology, firmly established as one of the galaxy\'s Big
@@ -1659,7 +1659,7 @@ influencers in the galactic arena. As Quantum Nova continues to push the
 boundaries of technology, its impact on the future course of human
 civilization in the galaxy remains profound and undeniable.
 
-## Rayburn-Lark[]{.indexref entry="Rayburn-Lark"}
+## Rayburn-Lark
 
 Rayburn-Lark stands as a titan in the interstellar energy sector,
 renowned for its relentless innovation in power generation, and storage,
