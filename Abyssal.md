@@ -5282,21 +5282,82 @@ creature receives a serious wound.
 ### Serious Wounds
 
 A serious wound can be described as a non-lethal, hindering or
-incapacitating wound.
-
-For the player characters, this means a real blow. Everything from a
-shattered bone to internal bleeding is possible.
+incapacitating wound. For the player characters, this means a real blow. 
+Everything from a shattered bone to internal bleeding is possible.
 
 The character continues to function and stay conscious with a successful
 simple Dedication check against Target Number (TN) 5.
 
-If this Will check is failed another check Force against TN 5
+If this Dedication check is failed another check Force against TN 5
 establishes if the wound is fatal instantaneous.
 
 All existing serious wounds increase the TN of these checks by 2.
 
 For Non-Player Characters the Suit can automatically decide upon their
 death or use the opponent\'s wound track.
+
+#### Serious Wound Location and Effects (Optional)
+
+If the Suit wants to add more depth to the combat, he can assign a
+location to the serious wound. This can be done by rolling a d20 and looking up
+the result in the table below.
+
+| Roll | Location  |
+|------|-----------|
+|  1-3 | Head      |
+|  4-8 | Torso     |
+|  9-11| Left Arm  |
+| 12-14| Right Arm |
+| 15-17| Right Leg |
+| 18-20| Left Leg  |
+
+After determining the location roll a D4 to determine severity. 
+The attacker can spend marks to increase the severity roll (1 mark = +1 to the roll). 
+Effects are cumulative - higher severity includes all effects from lower severity levels.
+
+##### Head
+
+| D4+Marks | Effect                                                                                                                                                                                     |
+|:--------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | **Disoriented**: Character suffers -2 to all Mind-based checks for the duration of the encounter.                                                                                          |
+| 2 | **Concussion**: Visual disturbances and headache. +2 TN to all perception checks. Character loses a mark from each check result.                                                           |
+| 3 | **Severe Trauma**: Intermittent consciousness. At the start of the character's spotlight, they must succeed on a Dedication check (TN 7) or lose their action for that segment.            |
+| 4 | **Cranial Damage**: Memory and coordination impairment. All skill checks have their TN increased by 3. Cannot use Temptation Dice.                                                         |
+| 5 | **Skull Fracture**: Severe neurological effects. All 3D20 use the lowest dice, allways.                                                                                                    |
+| 6+ | **Critical Brain Injury**: Character falls unconscious and remains so until receiving advanced medical care. Failure to receive treatment within hours may result in permanent impairment. |
+
+##### Torso
+
+| D4+Marks | Effect                                                                                                                                               |
+|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | **Bruised Ribs**: Pain when moving quickly. Character's Speed is reduced by 1m/s.                                                                    |
+| 2 | **Internal Bruising**: Labored breathing. Physical Endurance maximum is temporarily reduced by 2.                                                    |
+| 3 | **Cracked Ribs**: Sharp pain with each movement. Character must spend 1 mark to perform any physically strenuous action.                             |
+| 4 | **Internal Bleeding**: Severe breathing difficulty. All physical skill checks have TN increased by 3. Cannot run or perform strenuous activity.      |
+| 5 | **Punctured Lung**: Weakening condition. Without medical aid the character dies after 5 minutes.                                                     |
+| 6+ | **Major Organ Damage**: Character is incapacitated and requires immediate medical attention. Will die within 10 minutes without emergency treatment. |
+
+##### Arm (Left or Right)
+
+| D4+Marks | Effect |
+|:--------:|--------|
+| 1 | **Minor Injury**: Painful but functional. +2 TN to skill checks requiring fine manipulation with this arm. If dominant arm, +1 TN to all relevant combat checks. |
+| 2 | **Deep Wound**: Limited movement. Cannot use two-handed equipment effectively. If dominant arm, cannot use precision weapons. |
+| 3 | **Disabled Hand**: Cannot use equipment or perform actions with this hand/arm. Two-handed actions impossible. |
+| 4 | **Broken Arm**: Intense pain radiating through shoulder. Cannot use this arm at all and suffers -1 to all check results due to pain. |
+| 5 | **Severe Fracture**: Pain affects concentration. Mental Endurance maximum reduced by 2 due to constant agony. Cannot carry items in this arm. |
+| 6+ | **Mangled Limb**: Arm is temporarily useless and causes extreme pain. Character has -2 to all check results and must make a Dedication check (TN 7) to focus on complex tasks. |
+
+##### Leg (Left or Right)
+
+| D4+Marks | Effect                                                                                                                                                                |
+|:--------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | **Twisted Ankle**: Mobility impaired. Character's Speed is reduced by 1m/s.                                                                                           |
+| 2 | **Deep Gash**: Painful wound affecting movement. Cannot run and suffers +3 TN to any action requiring quick movement.                                                 |
+| 3 | **Hamstring Damage**: Severely limited mobility. Character can only move at half Speed and cannot dodge effectively (+2 TN to evasive maneuvers).                     |
+| 4 | **Broken Leg**: Cannot support weight properly. Character can only crawl (1m/s maximum) unless using a support. Combat rolls have TN increased by 2.                  |
+| 5 | **Shattered Knee**: Excruciating pain with any movement. Character is effectively immobile without assistance and suffers -2 to all check results due to pain.        |
+| 6+ | **Catastrophic Damage**: Leg cannot bear weight at all. Character falls prone and cannot stand without assistance. Bleeding causes the character to die in 2 minutes. |
 
 ### Regeneration of Physical Endurance (PhE)
 
@@ -5316,7 +5377,7 @@ fully functional but with zero Physical Endurance. He cannot be prepped
 up once more before he has seen proper stationary medical support, which
 removes all serious injuries.
 
-The first mark will cause another serious wound, handled like the first
+The first reduction to PhE will cause another serious wound, handled like the first
 one.
 
 # Space Vessel Rules 
