@@ -54,7 +54,7 @@ height="11.196527777777778in"}
     * [Leadership](#leadership)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence)
     * [Conclusion](#conclusion)
-  * [Black Hawk[]{.indexref entry="Black Hawk"}](#black-hawkindexref-entryblack-hawk)
+  * [Black Hawk](#black-hawkindexref-entryblack-hawk)
     * [History and Rise to Prominence](#history-and-rise-to-prominence)
     * [Services and Specialization](#services-and-specialization)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-1)
@@ -1281,7 +1281,7 @@ strategic prowess and the relentless pursuit of securing the future of
 civilisation. Standing ready to meet the challenges of tomorrow, Black
 Hawk remains a beacon of stability in the chaotic vastness of space.
 
-## CosmoNav[]{.indexref entry="CosmoNav"}
+## CosmoNav
 
 CosmoNav Technologies has established itself as a titan in interstellar
 logistics and infrastructure, providing unparalleled services in the
@@ -1343,7 +1343,7 @@ As the galaxy continues to grow and change, CosmoNav\'s role in
 navigating these changes will only become more important, ensuring that
 no matter how far humanity reaches, it remains connected.
 
-## Elysium Pharmaceuticals[]{.indexref entry="Elysium Pharmaceuticals"}
+## Elysium Pharmaceuticals
 
 Elysium Pharmaceuticals dominates the field of galactic
 biopharmaceuticals, renowned for its relentless pursuit of life-altering
@@ -1395,7 +1395,7 @@ advanced medical technology. Whether a saviour or a corrupting force, it
 undoubtedly revolutionizes the way galactic society tackles illness,
 ageing, and mortality.
 
-## Nexus Media Corp.[]{.indexref entry="Nexus Media Corp."}
+## Nexus Media Corp
 
 Nexus Media stands as a titan in the galactic media landscape,
 controlling a vast multimedia network across the star systems. Renowned
@@ -1470,7 +1470,7 @@ reality and neural interfaces, Nexus Media\'s influence is poised to
 penetrate even deeper, making it an undeniable force in shaping the
 future.
 
-## Orbital Dynamics Incorporated[]{.indexref entry="Orbital Dynamics Incorporated"}
+## Orbital Dynamics Incorporated
 
 Orbital Dynamics Incorporated stands at the forefront of orbital
 engineering, mastering complex orbital infrastructure and artificial
@@ -1526,7 +1526,7 @@ resources. Their technology enables space vessel fabrication in orbit to
 make production easier and in the end more cost-effective. In the near
 future, there is no alternative on the horizon.
 
-## Palladium Tactics Corp.[]{.indexref entry="Palladium Tactics Corp."}
+## Palladium Tactics Corp
 
 Palladium Tactics Corp. (PTC) is a leading name in the galaxy\'s arms
 industry, known for its extensive range of weapon systems and military
@@ -1608,7 +1608,7 @@ shape armed conflict. As warfare evolves and expands into new realms,
 PTC is sure to be at the forefront, driving innovation and profiting
 from the ever-present nature of conflict.
 
-## Quantum Nova[]{.indexref entry="Quantum Nova"}
+## Quantum Nova
 
 Quantum Nova stands at the forefront of quantum computing and
 interstellar technology, firmly established as one of the galaxy\'s Big
@@ -1671,7 +1671,7 @@ influencers in the galactic arena. As Quantum Nova continues to push the
 boundaries of technology, its impact on the future course of human
 civilization in the galaxy remains profound and undeniable.
 
-## Rayburn-Lark[]{.indexref entry="Rayburn-Lark"}
+## Rayburn-Lark
 
 Rayburn-Lark stands as a titan in the interstellar energy sector,
 renowned for its relentless innovation in power generation, and storage,
@@ -3953,7 +3953,7 @@ actions.
 > arcane symbols and abstract data structures, rolling {5, 11, 16}. The
 > data coalesces at a middle value of 11. With this, he adjusts his
 > \<Cryptanalysis\> approach, adding 1 to his skill value for a total of
-> 7. Despite their collaborative effort and Lyra\'s precise support, the
+> 7 . Despite their collaborative effort and Lyra\'s precise support, the
 > result falls short of the necessary 13. The door remains sealed, its
 > secrets tightly locked away.
 
@@ -3968,13 +3968,19 @@ d4 are called Temptation Dice.
 
 As long as this pool has at least one dice it is rolled alongside the
 {3D20} rolls. Whenever one of those d4 shows a 4 the lowest of the
-{3D20} is choosen, even if fate was tempted at that roll. If any d4
+{3D20} is chosen, even if fate was tempted at that roll. If any d4
 resulted in a 4, one d4 will be removed from the temptation dice
 collection.
 
 Up to 4d4 can be gathered in the Temptation dice collection, after that
 you can not tempt fate and take the highest dice until a slot has freed
 up in the Temptation dice collection.
+
+#### Reducing the Temptation Dice Collection
+
+The temptation dice pool can be reduced by 1d4 by resting for an hour and passing
+a successful Mind check with a TN of 5. The test is made after resting. It represents 
+the character calming down and regaining focus.
 
 ### Marks
 
@@ -3996,7 +4002,8 @@ player and have to be earned anew.
 Players keep their marks until they are invested, even carrying over to
 the next session.
 
-Only 3 marks can be stored this way.
+Only 3 marks can be stored this way. A check can yield more than 3 marks and 
+all of them can be used in addition to the 3 stored marks.
 
 ## Creating Character and Crew
 
@@ -4554,9 +4561,9 @@ able to blend into a variety of social environments.
 
 ##### Specialisations
 
-###### Surveilance
+###### Surveillance
 
-Surveilance comes into play if the character tries to shadow someone
+Surveillance comes into play if the character tries to shadow someone
 unseen or observing an object to gain additional insights. Characters
 are skilled in keeping up long streaks of mental alertness not to miss
 important clues.
@@ -4572,7 +4579,7 @@ members of the own peer group.
 The modern world relies on encryption of digital documents. In the
 analogue world this is a completely different thing. The cypher
 specialisation is used to encrypt and decrypt messages using
-non-electronical means. It is about understanding and creating code
+non-electronic means. It is about understanding and creating code
 languages.
 
 #### Hardware
@@ -4608,7 +4615,7 @@ and mechanical locks.
 ###### Modification
 
 This specialisation changes or enhances the function of a mechanical or
-electronical system. This includes modifying the output of a system,
+electronic system. This includes modifying the output of a system,
 install trigger conditions or tuning an engine.
 
 ###### Fabrication
@@ -4619,7 +4626,7 @@ create something from nothing.
 
 #### Knowledge
 
-Masterygate Ded/Mnd
+Mastery gate Ded/Mnd
 
 The Knowledge Expertise Area gives the character intellectual knowledge,
 historical insight, and the understanding of complex phenomena. It
@@ -5254,7 +5261,10 @@ for other actions or enhancements.
 #### Check protection or resistance
 
 Once a hit is confirmed, the penetration of the weapon is compared to
-the armour protection of the target.
+the armour protection of the target. Marks that have been achieved can be 
+spent to reduce the protection of the target.
+Each mark spent reduces the penetration value by 2.
+A maximum of 3 marks can be spent this way.
 
 If the penetration surpasses the protection, armour is ignored.
 
@@ -5265,9 +5275,9 @@ Below that, the armour completely negates any damage possibly done.
 
 Some armour protects only partially, covering only vital parts of the
 body. A skilled attacker or shooter may try to bypass the armour, having
-a harder time hitting an adversary. Partial armour protects from killing
-blows dealt by area-of-effect weapons, maiming can still be a dangerous
-and plausible outcome.
+a harder time hitting an adversary. This will increase the TN for hitting the target.
+Partial armour protects from killing blows dealt by area-of-effect weapons, 
+maiming can still be a dangerous and plausible outcome. 
 
 #### Deal Damage
 

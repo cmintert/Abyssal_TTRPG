@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="body {&#10;    background-color: white !important;&#10;    color: black !important;&#10;}&#10;&#10;p, h1, h2, h3, h4, h5, h6, li, table, code, pre {&#10;    color: black !important;&#10;}" />
     <option name="fileGroupingEnabled" value="true" />
   </component>
 </project>
