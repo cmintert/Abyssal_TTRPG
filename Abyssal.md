@@ -6255,49 +6255,25 @@ the TN of his Mental Degradation value. If he succeeds, he can avoid
 long-term effects, if not, the effect sets in, making his life miserable
 and probably putting him on medication.
 
-  -----------------------------------------------------------------------
-  D20 Roll           Short-Term          Long Term
-  ------------------ ------------------- --------------------------------
-  1-3                Minor anxiety,      Occasional nightmares, brief
-                     slight jumpiness    intrusive thoughts
 
-  4-6                Increased heart     Mild phobic reactions to similar
-                     rate, heightened    situations
-                     vigilance           
+| D20 Roll | Short-Term Effect       | Long-Term Effect                                |
+|----------|-------------------------|-------------------------------------------------|
+| 1-3      | Minor anxiety, slight jumpiness | Occasional nightmares, brief intrusive thoughts |
+| 4-6      | Increased heart rate, heightened vigilance | Mild phobic reactions to similar situations |
+| 7-9      | Sleep disturbances, irritability | Periodic anxiety, avoidant behaviours            |
+| 10-12    | Confusion, scattered thoughts | Chronic tension, minor memory problems            |
+| 13-14    | Fear, avoidance of certain places/people | Persistent sadness, emotional numbing            |
+| 15-16    | Anger outbursts, restlessness | Difficulty forming close relationships            |
+| 17       | Flashbacks, intense fear | Heightened startle response, distrust             |
+| 18       | Severe anxiety, panic attacks | Chronic fear, possible development of phobias     |
+| 19       | Debilitating fear, refusal to eat/sleep alone | Complex PTSD, severe depression                  |
+| 20       | Complete dissociation, psychological breakdown | Long-term disability, potential for self-harm    |
 
-  7-9                Sleep disturbances, Periodic anxiety, avoidant
-                     irritability        behaviours
-
-  10-12              Confusion,          Chronic tension, minor memory
-                     scattered thoughts  problems
-
-  13-14              Fear, avoidance of  Persistent sadness, emotional
-                     certain             numbing
-                     places/people       
-
-  15-16              Anger outbursts,    Difficulty forming close
-                     restlessness        relationships
-
-  17                 Flashbacks, intense Heightened startle response,
-                     fear                distrust
-
-  18                 Severe anxiety,     Chronic fear, possible
-                     panic attacks       development of phobias
-
-  19                 Debilitating fear,  Complex PTSD, severe depression
-                     refusal to          
-                     eat/sleep alone     
-
-  20                 Complete            Long-term disability, potential
-                     dissociation,       for self-harm
-                     psychological       
-                     breakdown           
-  -----------------------------------------------------------------------
 
 ## Treatment of Short-Term Effects
 
 Operatives in Abyssal are trained in applying coping strategies and
-compartmentalisation. A skilled field medic can apply emergency
+compartmentalization. A skilled field medic can apply emergency
 counselling once a situation has cooled down a bit. Each Mark that can
 be achieved on a simple check in the Medical Expertise Area against a TN
 equal to the Mental Degradation reduces the initial effect by that many
@@ -6305,7 +6281,7 @@ steps. As an example, treating Fear with 2 Marks will change it to Sleep
 disturbances.
 
 Once a mission is over, the effects will immediately become negligible
-and can be removed as an entry. Narratively, they can be referenced for
+and can be removed as an entry. Narrative, they can be referenced for
 a longer time.
 
 ## Treatment of long-Term effects
@@ -6380,29 +6356,29 @@ important as physical health, and there is strength in seeking support.
 
 ### Ammunition Types
 
-| Ammunition Types | Pistol | SMG | Assault Rifle | Sniper Rifle | Shotgun | Long Coiled Gauss | Pen. Modifier | Damage Modifier |
-  |-----------------|---------|-----|---------------|--------------|---------|-------------------|---------------|-----------------|
-  | Full Metal Jacket | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 0 | 0 |
-  | Hollow Point | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | -2 | 2 |
-  | Frangible Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -3 | -1 |
-  | Armour Piercing | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 2 | 0 |
-  | Subsonic Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -1 | 0 |
-  | Slug rounds | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | 2 | 1 |
-  | Flechette | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | -2 | 2 |
+| Ammunition Types | Pistol | SMG | Assault Rifle | Sniper Rifle | Shotgun | Long Coiled Gauss | Pen. Modifier | Damage Modifier (Marks) |
+  |-----------------|---------|-----|---------------|--------------|---------|-------------------|---------------|-------------------------|
+  | Full Metal Jacket | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 0 | 0                       |
+  | Hollow Point | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | -2 | 2                       |
+  | Frangible Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -3 | -1                      |
+  | Armour Piercing | TRUE | TRUE | TRUE | TRUE | FALSE | FALSE | 2 | 0                       |
+  | Subsonic Rounds | TRUE | TRUE | TRUE | FALSE | FALSE | FALSE | -1 | 0                       |
+  | Slug rounds | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | 2 | 1                       |
+  | Flechette | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | -2 | 2                       |
 
 ## Armour
 
 ### Personal Armour
 
-| Type | Protection | Full enclosure |
-  |------|------------|----------------|
-  | Light Bulletproof Vest | 8 | n |
-  | Combat Armour | 12 | n |
-  | Reinforced Combat Armour | 14 | n |
-  | Heavy Exo Armour | 18 | n |
-  | Military Force Armour | 24 | y |
-  | Light Space Combat Armour | 14 | y |
-  | Medium Space Combat Armour | 16 | y |
+| Type | Protection | Full enclosure | Bypass Mod |
+  |------|------------|----------------|------------|
+  | Light Bulletproof Vest | 8 | n | +4         |
+  | Combat Armour | 12 | n | +6         |
+  | Reinforced Combat Armour | 14 | n | +8         |
+  | Heavy Exo Armour | 18 | n | +10        |
+  | Military Force Armour | 24 | y | -          |
+  | Light Space Combat Armour | 14 | y | -          |
+  | Medium Space Combat Armour | 16 | y | -          |
 
 ## Spaceship Components
 
