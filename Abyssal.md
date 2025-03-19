@@ -1,10 +1,4 @@
-![A poster for a movie Description automatically
-generated](C:\Users\chris\PycharmProjects\Abyssal_TTRPG\Word_images/media/image1.jpeg){width="8.251388888888888in"
-height="11.000694444444445in"}
-
 Abyssal Alpha ver. 0.3.3
-
-\[Publish Date\]
 
 Disclaimer
 
@@ -12,17 +6,11 @@ This is a work in progress and under constant change. Until it reaches
 Beta, it is not considered play-ready to its full extent. This version
 is provided to gather feedback on the rules and setting of the game.
 Abyssal is a game written for the love of science fiction, horror and
-investigative genres. It contains descriptions of horror and violence.
-
-Cover Picture is created with Dalle-3
+investigative genres. It contains descriptions of horror and violence
 
 Abyssal - Alpha © 2024 by Christian Mintert is licensed under CC
 BY-NC-ND 4.0. To view a copy of this licence, visit
 http://creativecommons.org/licenses/by-nc-nd/4.0
-
-![A screenshot of a video game Description automatically
-generated](C:\Users\chris\PycharmProjects\Abyssal_TTRPG\Word_images/media/image2.jpeg){width="8.472222222222221in"
-height="11.196527777777778in"}
 
 # Contents
 
@@ -47,13 +35,14 @@ height="11.196527777777778in"}
   * [Stellar Projector Crisis 2639](#stellar-projector-crisis-2639)
   * [The Hyperion Crisis 2645](#the-hyperion-crisis-2645)
 * [Corporations](#corporations)
-  * [AdAstra[]{.indexref entry="AdAstra"}](#adastraindexref-entryadastra)
+  * [AdAstra](#adastra)
     * [Founding and Evolution](#founding-and-evolution)
     * [Specialisation and Services](#specialisation-and-services)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics)
     * [Leadership](#leadership)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence)
     * [Conclusion](#conclusion)
+  * [Black Hawk](#black-hawk)
   * [Black Hawk](#black-hawkindexref-entryblack-hawk)
     * [History and Rise to Prominence](#history-and-rise-to-prominence)
     * [Services and Specialization](#services-and-specialization)
@@ -61,35 +50,35 @@ height="11.196527777777778in"}
     * [Leadership and Figureheads](#leadership-and-figureheads)
     * [Economic Strategy and Growth](#economic-strategy-and-growth)
     * [Conclusion](#conclusion-1)
-  * [CosmoNav[]{.indexref entry="CosmoNav"}](#cosmonavindexref-entrycosmonav)
+  * [CosmoNav](#cosmonav)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-1)
     * [Specialisation and Services](#specialisation-and-services-1)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-2)
     * [Leadership and Figureheads](#leadership-and-figureheads-1)
     * [Economic Strategies and Growth](#economic-strategies-and-growth)
     * [Conclusion](#conclusion-2)
-  * [Elysium Pharmaceuticals[]{.indexref entry="Elysium Pharmaceuticals"}](#elysium-pharmaceuticalsindexref-entryelysium-pharmaceuticals)
+  * [Elysium Pharmaceuticals](#elysium-pharmaceuticals)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-2)
     * [Specialisation and Services](#specialisation-and-services-2)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-3)
     * [Leadership and Figureheads](#leadership-and-figureheads-2)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-1)
     * [Conclusion](#conclusion-3)
-  * [Nexus Media Corp.[]{.indexref entry="Nexus Media Corp."}](#nexus-media-corpindexref-entrynexus-media-corp)
+  * [Nexus Media Corp](#nexus-media-corp)
     * [History and rise to prominence](#history-and-rise-to-prominence-3)
     * [Specialisation and services](#specialisation-and-services-3)
     * [Corporate culture and ethics](#corporate-culture-and-ethics-4)
     * [Leadership and figureheads](#leadership-and-figureheads-3)
     * [Business strategies and growth](#business-strategies-and-growth)
     * [Conclusion](#conclusion-4)
-  * [Orbital Dynamics Incorporated[]{.indexref entry="Orbital Dynamics Incorporated"}](#orbital-dynamics-incorporatedindexref-entryorbital-dynamics-incorporated)
+  * [Orbital Dynamics Incorporated](#orbital-dynamics-incorporated)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-4)
     * [Specialisation and Services](#specialisation-and-services-4)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-5)
     * [Leadership and Figureheads](#leadership-and-figureheads-4)
     * [Economic Strategies and Growth](#economic-strategies-and-growth-1)
     * [Conclusion](#conclusion-5)
-  * [Palladium Tactics Corp.[]{.indexref entry="Palladium Tactics Corp."}](#palladium-tactics-corpindexref-entrypalladium-tactics-corp)
+  * [Palladium Tactics Corp](#palladium-tactics-corp)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-5)
     * [Specialisation and Services](#specialisation-and-services-5)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-6)
@@ -97,14 +86,14 @@ height="11.196527777777778in"}
     * [Economic Strategies and Growth](#economic-strategies-and-growth-2)
     * [Political and Galactic Influence](#political-and-galactic-influence)
     * [Conclusion](#conclusion-6)
-  * [Quantum Nova[]{.indexref entry="Quantum Nova"}](#quantum-novaindexref-entryquantum-nova)
+  * [Quantum Nova](#quantum-nova)
     * [Origins and Ascension](#origins-and-ascension)
     * [Diversification and Specialization](#diversification-and-specialization)
     * [Corporate Culture and Ethical Stance](#corporate-culture-and-ethical-stance)
     * [Leadership](#leadership-1)
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-2)
     * [Conclusion](#conclusion-7)
-  * [Rayburn-Lark[]{.indexref entry="Rayburn-Lark"}](#rayburn-larkindexref-entryrayburn-lark)
+  * [Rayburn-Lark](#rayburn-lark)
     * [History and Rise to Prominence](#history-and-rise-to-prominence-6)
     * [Specialisation and Services](#specialisation-and-services-6)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-7)
