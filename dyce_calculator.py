@@ -1,5 +1,6 @@
 from dyce import H, P
 from dyce.evaluation import expandable, PResult
+from numerary.types import SupportsInt
 
 # Create a 20-sided die
 d20 = H(20)
@@ -7,11 +8,11 @@ d4 = H(4)
 
 # Create a pool of d4
 
-num_d4 = 1
+temptation_dice_pool = 4
 
 # Create a pool of 3d20
 pool_3d20 = 3 @ P(d20)
-pool_d4 = num_d4 @ P(d4)
+pool_d4 = temptation_dice_pool @ P(d4)
 
 
 @expandable
@@ -30,12 +31,15 @@ def conditional_selection(p_3d20: PResult, p_d4: PResult) -> PResult:
         return sorted_roll[1]
 
 # Calculate the distribution
-if num_d4 > 0:
+if temptation_dice_pool > 0:
     result_distribution = conditional_selection(pool_3d20, pool_d4)
 else:
     result_distribution = pool_3d20.h(1)
 
 # Display statistics
+print("Section Start")
+print("-"*20)
+print(f"Statistics for 3D20 roll in Abyssal TTRPG, with {temptation_dice_pool} Temptation dice:")
 print(f"Average value: {result_distribution.mean()}")
 print(f"Standard deviation: {result_distribution.stdev()}")
 print(result_distribution.format(scaled=True))
@@ -54,3 +58,5 @@ for outcome in result_distribution:
     probability = at_least[True] / at_least.total
     print(f"{outcome}| {probability * 100:.2f}% | {'#' * int(probability * 30)}")
 print("-"*20)
+
+print("Section End")
