@@ -43,7 +43,6 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
     * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence)
     * [Conclusion](#conclusion)
   * [Black Hawk](#black-hawk)
-  * [Black Hawk](#black-hawkindexref-entryblack-hawk)
     * [History and Rise to Prominence](#history-and-rise-to-prominence)
     * [Services and Specialization](#services-and-specialization)
     * [Corporate Culture and Ethics](#corporate-culture-and-ethics-1)
@@ -300,6 +299,7 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
       * [Ongoing check](#ongoing-check)
       * [Cooperativ check](#cooperativ-check)
     * [Temptation Dice](#temptation-dice)
+      * [Reducing the Temptation Dice Collection](#reducing-the-temptation-dice-collection)
     * [Marks](#marks)
       * [Storing Marks](#storing-marks)
   * [Creating Character and Crew](#creating-character-and-crew)
@@ -343,26 +343,27 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
       * [Expertise Area Cost](#expertise-area-cost)
       * [Choose Specialisations](#choose-specialisations)
       * [Finalize Expertise Areas](#finalize-expertise-areas)
-    * [Deciding on a spacecraft and equipment](#deciding-on-a-spacecraft-and-equipment)
+    * [Deciding on a space vessel and equipment](#deciding-on-a-space-vessel-and-equipment)
   * [Expertise Areas](#expertise-areas)
     * [Expertise Area](#expertise-area)
-    * [Specialisations](#specialisations)
-      * [Custom Specialisations](#custom-specialisations)
-    * [Expertise Areas and Specialisations](#expertise-areas-and-specialisations)
+    * [Expertise Area Progression](#expertise-area-progression)
+    * [Specializations](#specializations)
+      * [Custom Specializations](#custom-specializations)
+    * [Expertise Areas and Specializations](#expertise-areas-and-specializations)
       * [Combat](#combat)
-        * [Specialisations](#specialisations-1)
+        * [Specializations](#specializations-1)
           * [Close Quarters Battle](#close-quarters-battle)
           * [Marksmanship](#marksmanship)
           * [Explosives and Demolitions](#explosives-and-demolitions)
           * [Tactical Maneuvering](#tactical-maneuvering)
           * [Melee and Improvised Weapons](#melee-and-improvised-weapons)
       * [Espionage](#espionage)
-        * [Specialisations](#specialisations-2)
-          * [Surveilance](#surveilance)
+        * [Specializations](#specializations-2)
+          * [Surveillance](#surveillance)
           * [Counterintelligence](#counterintelligence)
           * [Cypher](#cypher)
       * [Hardware](#hardware)
-        * [Specialisations](#specialisations-3)
+        * [Specializations](#specializations-3)
           * [Repair](#repair)
           * [Modification](#modification)
           * [Fabrication](#fabrication)
@@ -382,7 +383,7 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
           * [Diplomacy](#diplomacy)
           * [Intimidation](#intimidation)
       * [Navigation](#navigation)
-        * [Specialisations](#specialisations-4)
+        * [Specializations](#specializations-4)
           * [Orientation](#orientation)
           * [Coordination](#coordination)
           * [Jump Plotter](#jump-plotter)
@@ -402,22 +403,22 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
           * [Behavioral Profiling](#behavioral-profiling)
           * [Conditioning](#conditioning)
       * [Resources](#resources)
-        * [Specialisations](#specialisations-5)
+        * [Specialisations](#specialisations)
           * [Supply Negotiation](#supply-negotiation)
           * [Logistics](#logistics)
           * [Crisis Organisation](#crisis-organisation)
       * [Software](#software)
-        * [Specialisations](#specialisations-6)
+        * [Specialisations](#specialisations-1)
           * [Cyber Operations](#cyber-operations)
           * [Software Development](#software-development)
           * [Data Analytics](#data-analytics)
       * [Stealth](#stealth)
-        * [Specialisations](#specialisations-7)
+        * [Specializations](#specializations-5)
           * [Infiltration Tactics](#infiltration-tactics)
           * [Shadow Movement](#shadow-movement)
           * [Camouflage and Disguise](#camouflage-and-disguise)
       * [Survival](#survival)
-        * [Specialisations](#specialisations-8)
+        * [Specializations](#specializations-6)
           * [Wilderness Survival](#wilderness-survival)
           * [Urban Survival](#urban-survival)
           * [Extreme Condition Adaptation](#extreme-condition-adaptation)
@@ -441,6 +442,11 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
       * [Deal Damage](#deal-damage-1)
   * [Injury and recovery](#injury-and-recovery)
     * [Serious Wounds](#serious-wounds)
+      * [Serious Wound Location and Effects (Optional)](#serious-wound-location-and-effects-optional)
+        * [Head](#head)
+        * [Torso](#torso)
+        * [Arm (Left or Right)](#arm-left-or-right)
+        * [Leg (Left or Right)](#leg-left-or-right)
     * [Regeneration of Physical Endurance (PhE)](#regeneration-of-physical-endurance-phe)
       * [Recovery from Serious Wounds](#recovery-from-serious-wounds)
 * [Space Vessel Rules](#space-vessel-rules-)
@@ -3737,43 +3743,18 @@ feats that only the most skilled or fortunate could achieve. The higher
 the TN, the more difficult the task, and therefore, the greater the
 skill or luck required to succeed.
 
-  ------------------------------------------------------------------------
-  Difficulty                  TN        Description
-  --------------------------- --------- ----------------------------------
-  Trivial                     0         These tasks are so easy that
-                                        they\'re barely worth rolling for.
-                                        They might challenge a novice but
-                                        rarely anyone else.
+Below is a proper Markdown table based on the provided selection:
 
-  Easy                        2         These tasks pose a minor challenge
-                                        for untrained characters but are
-                                        usually straightforward for those
-                                        with even a small amount of
-                                        training or aptitude.
 
-  Moderate                    6         These tasks are typically
-                                        challenging for beginners but
-                                        manageable for those with some
-                                        experience or training.
+| Difficulty        | TN  | Description                                                                                                                                                            |
+|-------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trivial           | 2   | These tasks are so easy that they're barely worth rolling for.They might challenge a novice but rarely anyone else.                                                    |
+| Easy              | 4   | These tasks pose a minor challenge for untrained characters but are usually straightforward for those with even a small amount of training or aptitude.                |
+| Moderate          | 8   | These tasks are typically challenging for beginners but manageable for those with some experience or training.                                                         |
+| Difficult         | 12  | These tasks pose a serious challenge and often require a good amount of training or experience to succeed.                                                             |
+| Very difficult    | 16  | These tasks are extremely challenging and require a high level of skill to overcome. Even those with significant training or experience can struggle with these tasks. |
+| Nearly impossible | 18+ | Nearly Impossible - These tasks are at the limit of what is possible. Only those with exceptional skill and experience have any hope of succeeding.                    |
 
-  Difficult                   10        These tasks pose a serious
-                                        challenge and often require a good
-                                        amount of training or experience
-                                        to succeed.
-
-  Very difficult              14        These tasks are extremely
-                                        challenging and require a high
-                                        level of skill to overcome. Even
-                                        those with significant training or
-                                        experience can struggle with these
-                                        tasks.
-
-  Nearly impossible           16        Nearly Impossible - These tasks
-                                        are at the limit of what is
-                                        possible. Only those with
-                                        exceptional skill and experience
-                                        have any hope of succeeding.
-  ------------------------------------------------------------------------
 
 #### Anatomy of a Check
 
@@ -3784,7 +3765,7 @@ Basically we start rolling {3D20}. From this COLLECTION we choose a
 VALUE. Usually it is the MIDDEL VALUE, but it can also be the HIGHEST
 VALUE or lowest VALUE. Then we deduct 10 the get the ADJUSTMENT.
 
-This adjustment is added to a SKILL VALUE or ATTRIBUTE VALUE , alongside
+This adjustment is added to a Expertise Area Level or ATTRIBUTE VALUE , alongside
 with applicable MODIFIERS. The resulting number is the FINAL RESULT. The
 final result is then compared with a TARGET NUMBER. This will define the
 OUTCOME and the LEVEL OF SUCCESS in the form of MARKS.
@@ -3832,12 +3813,12 @@ is passed. Otherwise, it has failed.
 > Example
 >
 > Lysara needs to navigate a turbulent fuel conduit on the abandoned
-> space station Delta-9. Her skill value in \<Zero-G Navigation\> is 8,
+> space station Delta-9. Her Expertise Area Level in \<Zero-G Navigation\> is 8,
 > and the target number set by the Game Master is 10 to successfully
 > traverse the fluctuating gravity and avoid the lethal energy bursts.
 > She rolls a {8,17,12}. The middle of the three values is 12. She keeps
 > the 12. Since 12 is 2 above the target number of 10, she adds 2 to her
-> skill value of 8, totaling a final result of 10. This meets the target
+> Expertise Area Level of 8, totalling a final result of 10. This meets the target
 > number exactly. Thus, Lysara successfully maneuvers through the
 > hazardous passage
 
@@ -3847,13 +3828,13 @@ Sometimes two actions oppose each other, working against each other.
 This could be a guard standing on watch looking out for intruders or two
 people arm-wrestling. In this case, both parties roll a Simple check
 without a Target Number. Both results are compared, and the higher
-result wins the check. In case of a tie, the higher skill value wins the
+result wins the check. In case of a tie, the higher Expertise Area Level wins the
 test. If there is no winner after that, the test is repeated.
 
 > Example
 >
 > Varik aims to slip undetected past a cybernetic sentinel patrolling
-> the dark corridors of an interstellar trade freighter. His skill value
+> the dark corridors of an interstellar trade freighter. His Expertise Area Level
 > in \<Stealth\> is 5, while the sentinel\'s skill in \<Surveillance\>
 > is 7. Varik rolls a {10,6,15} for his stealth attempt. The middle of
 > the three values is 10, which is equal to the base, so no modification
@@ -3882,7 +3863,7 @@ bonus and to buy one success at the same time.
 > Example
 >
 > Kael tries to crack an encrypted communique intercepted from a rival
-> corporate faction. His skill value in \<Decryption\> is 8. The game
+> corporate faction. His Expertise Area Level in \<Decryption\> is 8. The game
 > master decides he requires 3 successes against a target number of 10.
 > Each attempt consumes 30 minutes of tense, focused work against the
 > clock.
@@ -3894,7 +3875,7 @@ bonus and to buy one success at the same time.
 >
 > For the second attempt, Kael rerolls with a {14, 19, 20} - a
 > remarkable stroke of cryptographic insight. The middle value of 19
-> provides a +9 bonus to his skill value, culminating in a 17. This not
+> provides a +9 bonus to his Expertise Area Level, culminating in a 17. This not
 > only grants him another success but also earns him 2 marks for the
 > quality of his result. Realizing the urgency and nearing the
 > breakthrough, Kael chooses to spend one mark to secure the final
@@ -3922,8 +3903,8 @@ actions.
 >
 > Jaxon and his crewmate, Lyra, are set to decode a cryptic data matrix
 > to access a sealed section of an abandoned orbital research facility.
-> Jaxon\'s expertise is in \<Cryptanalysis\> with a skill value of 6,
-> while Lyra is proficient in \<Data Patterns\>, holding a skill value
+> Jaxon\'s expertise is in \<Cryptanalysis\> with a Expertise Area Level of 6,
+> while Lyra is proficient in \<Data Patterns\>, holding a Expertise Area Level
 > of 5. The game master sets the decryption\'s target number at 15.
 >
 > Lyra\'s Support Roll:
@@ -3932,7 +3913,7 @@ actions.
 > target number for her assistance is 15 - 5 = 10. She inputs her
 > calculations {7, 12, 14} into the terminal. The algorithm stabilizes
 > at the middle value of 12. This result, being 2 above 10, augments her
-> skill value to a total of 7. Her aid is well-calculated and paves the
+> Expertise Area Level to a total of 7. Her aid is well-calculated and paves the
 > way for Jaxon\'s attempt.
 >
 > Jaxon\'s Main Roll:
@@ -3941,7 +3922,7 @@ actions.
 > Jaxon is reduced, making his new target number 13. He delves into the
 > arcane symbols and abstract data structures, rolling {5, 11, 16}. The
 > data coalesces at a middle value of 11. With this, he adjusts his
-> \<Cryptanalysis\> approach, adding 1 to his skill value for a total of
+> \<Cryptanalysis\> approach, adding 1 to his Expertise Area Level for a total of
 > 7 . Despite their collaborative effort and Lyra\'s precise support, the
 > result falls short of the necessary 13. The door remains sealed, its
 > secrets tightly locked away.
@@ -4374,22 +4355,22 @@ the intended plot.
 
 | EAL/MG | <=4 | 5-6 | 7-8 | >=9 |
 |--------|-----|-----|-----|-----|
-| 1 | 1 | 1 | 1 | 1 |
-| 2 | 1 | 1 | 1 | 1 |
-| 3 | 1 | 1 | 1 | 1 |
-| 4 | 1 | 1 | 1 | 1 |
-| 5 | 2 | 1 | 1 | 1 |
-| 6 | 2 | 1 | 1 | 1 |
-| 7 | 2 | 2 | 1 | 1 |
-| 8 | 2 | 2 | 1 | 1 |
-| 9 | 4 | 2 | 2 | 1 |
-| 10 | 4 | 2 | 2 | 1 |
-| 11 | 4 | 4 | 2 | 2 |
-| 12 | 5 | 4 | 2 | 2 |
-| 13 | 5 | 4 | 4 | 2 |
-| 14 | 5 | 5 | 4 | 2 |
-| 15 | 6 | 5 | 4 | 4 |
-| 16 | 6 | 5 | 5 | 4 |
+| 1      | 1   | 1   | 1   | 1   |
+| 2      | 1   | 1   | 1   | 1   |
+| 3      | 1   | 1   | 1   | 1   |
+| 4      | 1   | 1   | 1   | 1   |
+| 5      | 2   | 1   | 1   | 1   |
+| 6      | 2   | 1   | 1   | 1   |
+| 7      | 2   | 2   | 1   | 1   |
+| 8      | 2   | 2   | 1   | 1   |
+| 9      | 4   | 2   | 2   | 1   |
+| 10     | 4   | 2   | 2   | 1   |
+| 11     | 4   | 4   | 2   | 2   |
+| 12     | 5   | 4   | 2   | 2   |
+| 13     | 5   | 4   | 4   | 2   |
+| 14     | 5   | 5   | 4   | 2   |
+| 15     | 6   | 5   | 4   | 4   |
+| 16     | 6   | 5   | 5   | 4   |
 
 
 #### Choose Specialisations
@@ -4405,7 +4386,7 @@ your character\'s overall concept and backstory. Make any necessary
 adjustments and move on to the final steps in character and crew
 creation.
 
-### Deciding on a spacecraft and equipment
+### Deciding on a space vessel and equipment
 
 At the end of crew creation, a decision has to be made on the ship and
 the equipment. The crew is not too high up on the ladder of the
@@ -4415,7 +4396,7 @@ here, not mission specific one. It is military graded, not some junk but
 not cutting edge. There is no monetary limitation, just some common
 sense.
 
-The spacecraft must be a vessel that accommodates 5--10 people, equipped
+The space vessel has to accommodates 5--10 people, equipped
 with a good Kramer PAD and an intermediate stellar projector. The
 characters have to speak with their Suit about their preferences, so the
 corporation will provide a suitable vessel. This is also dependent on
@@ -4426,9 +4407,9 @@ communication is key.
 ## Expertise Areas
 
 Skills in the Abyssal are grouped into Expertise Area. Below these
-Expertise Areas are Specialisations. These Specialisations give the
-character an advantage if the Specialisation applies to the check
-required for the task at hand. Sometimes the Specialisation is a
+Expertise Areas are Specializations. These Specializations give the
+character an advantage if the Specialization applies to the check
+required for the task at hand. Sometimes the Specialization is a
 prerequisite for being able to tackle a problem at all.
 
 ### Expertise Area
@@ -4440,38 +4421,48 @@ threats and missions, they have received a diverse education that gives
 them a broad overview in a thematic Expertise Area. This is what a
 Expertise Area represents. A technically versatile operative might
 repair the group\'s ships\' air scrubbers or try to short-circuit a
-simple magnetic lock. The entire Expertise Area has a value that is used
+simple magnetic lock. The entire Expertise Area has a value used
 by the character during Skill Checks.
 
-### Specialisations
+### Expertise Area Progression
 
-Expertise Areas contain skill specialisations. These are specific
+Expertise Areas are divided into levels. The higher the level, the more
+skilled the character is in that Expertise Area. The better they get they more
+they benefit from success of a check. Once they reach  level 4 they gain an additional
+mark on success. At level 8 easy tasks (TN 4) are automatically passed. At level 12
+Moderate tasks (TN 8) are automatically passed.  
+
+#TODO Check if this is too powerful
+
+### Specializations
+
+Expertise Areas contain skill specializations. These are specific
 subtasks contained within the larger Expertise Area. These
-specialisations can either provide a bonus to a check to which they
+specializations can either provide a bonus to a check to which they
 apply, or can be a requirement. Certain types of equipment or very
 special tasks contain these perquisites in their description.
-Specialisations can have different levels , Apprentice, Journeyman, and
+Specializations can have different levels , Apprentice, Journeyman, and
 Master.
 
-To become a Apprentice, Journeyman ,or master you need a Expertise Area
-value of 4, 8, or 12 in the Expertise Area governing the Specialisation.
+To become a Apprentice, Journeyman ,or Master you need a Expertise Area
+value of 4, 8, or 12 in the Expertise Area governing the Specialization.
 
-For some Problems you need a certain Level in a specialisation. Each
-specialisation level gives you a +2 bonus on applicable tasks. The final
+For some Problems you need a certain Level in a specialization. Each
+specialization level gives you a +2 bonus on applicable tasks. The final
 arbiter of this is the Suit.
 
-#### Custom Specialisations
+#### Custom Specializations
 
 For each area of expertise, the Core Book offers a number of
-specialisations to develop. This is not an exhaustive list. The areas of
+specializations to develop. This is not an exhaustive list. The areas of
 expertise are designed to be very broad, to allow characters to perform
 a wide range of tasks, and to give them the power to succeed in their
 endeavours. This means that you will be able to find many subtasks that
-you could fit into specialisations. You are, of course, welcome to do so
-if your campaign requires a specific specialisation. Avoid overloading
-the specialisations.
+you could fit into specializations. You are, of course, welcome to do so
+if your campaign requires a specific specialization. Avoid overloading
+the specializations.
 
-### Expertise Areas and Specialisations
+### Expertise Areas and Specializations
 
 #### Combat
 
@@ -4491,7 +4482,7 @@ conflict. Characters who are skilled in combat are not only able to deal
 damage, but also to defend themselves and their allies, control the
 battlefield, and understand the tactical ups and downs of combat.
 
-##### Specialisations
+##### Specializations
 
 ###### Close Quarters Battle
 
@@ -4548,7 +4539,7 @@ information without alerting their targets, and turning the tide of a
 conflict without direct confrontation. They are masters of disguise,
 able to blend into a variety of social environments.
 
-##### Specialisations
+##### Specializations
 
 ###### Surveillance
 
@@ -4593,17 +4584,17 @@ capabilities and adapt to new challenges. It involves continuous
 learning and innovation, making it essential for survival and success in
 technology-dependent environments.
 
-##### Specialisations
+##### Specializations
 
 ###### Repair
 
 Enables the character to diagnose, repair and modify electronic and
-mechanical devices. This is the specialisation to bypass electronical
+mechanical devices. This is the specialization to bypass electronic
 and mechanical locks.
 
 ###### Modification
 
-This specialisation changes or enhances the function of a mechanical or
+This specialization changes or enhances the function of a mechanical or
 electronic system. This includes modifying the output of a system,
 install trigger conditions or tuning an engine.
 
@@ -4684,8 +4675,8 @@ repairing internal bleeding and operating on broken bones.
 
 ###### Field Medic 
 
-The Field Medic specialisation allows the characters to administer first
-aid and stabilise otherwise critical wounds. It can be used to make a
+The Field Medic specialization allows the characters to administer first
+aid and stabilize otherwise critical wounds. It can be used to make a
 wounded operative mobile and prevent wound infection.
 
 ###### Internal Medicine
@@ -4722,7 +4713,7 @@ emotions are the same.
 
 ###### Diplomacy
 
-Diplomacy allows characters to navigate potentially difficult political
+Diplomacy allows characters to navigate potentially challenging political
 or interpersonal relationships. It is the fine art of getting something
 without losing too much, and without disrespecting your interlocutor.
 
@@ -4752,7 +4743,7 @@ involves finding the most advantageous routes, avoiding natural hazards
 and minimising travel time. It means that movement is a tactical
 advantage rather than a liability.
 
-##### Specialisations
+##### Specializations
 
 ###### Orientation
 
@@ -4995,11 +4986,11 @@ behave in order to remain unseen. Stealth can be used to operate from
 the shadows, making it invaluable for operations that require finesse
 and discretion.
 
-##### Specialisations
+##### Specializations
 
 ###### Infiltration Tactics
 
-This specialisation focuses on the skills required to successfully
+This specialization focuses on the skills required to successfully
 infiltrate high security areas. It involves understanding and evading
 advanced security measures such as surveillance systems and guard
 patrols. Practitioners are adept at finding and exploiting weaknesses in
@@ -5010,24 +5001,24 @@ sensitive information or the placement of surveillance devices.
 
 ###### Shadow Movement
 
-This specialisation emphasises the art of moving silently and unseen in
+This specialization emphasizes the art of moving silently and unseen in
 a variety of environments. Specialists in Shadow Movement are trained to
-minimise noise and visibility, understand the use of light and shadow,
+minimize noise and visibility, understand the use of light and shadow,
 and move with the utmost discretion. They are adept at blending into
 their surroundings, be it urban landscapes or natural terrain. This
-specialisation is essential for carrying out tasks in close proximity to
+specialization is essential for carrying out tasks in close proximity to
 unsuspecting adversaries.
 
 ###### Camouflage and Disguise
 
-This specialisation focuses on the use of visual deception to avoid
+This specialization focuses on the use of visual deception to avoid
 detection. It includes the creation and use of disguises, make-up and
 prosthetics to alter appearance and blend into different social settings
 or environments. It also covers the use of natural and artificial
 materials for camouflage in a variety of terrains. Specialists in this
 field are able to alter their physical appearance to suit different
 roles, making them invaluable in operations that require a physical
-presence in sensitive or hostile areas without being recognised.
+presence in sensitive or hostile areas without being recognized.
 
 #### Survival
 
@@ -5049,7 +5040,7 @@ situations into opportunities. Their adaptability and perseverance are
 important assets that ensure the continuation of the mission even in the
 most difficult circumstances.
 
-##### Specialisations
+##### Specializations
 
 ###### Wilderness Survival
 
@@ -5081,17 +5072,17 @@ things to come.
 
 To reflect this process the Suit may award Progression Points (PP) to
 the players. These can be used to buy new Expertise Area Levels (EAL) or
-Specialisations.
+Specializations.
 
-To further Expertise Areals refer to the EAL Table to look up the cost
-PP for the new EAL.. Do not forget to consider the Mastery Gate. The
-possibility to unlock Specialisations come at the governing EAL. Of 4,
-8, and 12. Each Specialisation Level costs 3 PP, opening up new
+To further Expertise Areas refer to the EAL Table to look up the cost
+PP for the new EAL.. Remember to consider the Mastery Gate. The
+possibility to unlock Specializations come at the governing EAL. Of 4,
+8, and 12. Each Specialization Level costs 3 PP, opening up new
 possibilities and boni for certain tasks.
 
 PP will be awarded after each session, usually around 2. This may be
 modified depending on various conditions. The characters my have
-completed a major plot or employed very clever tactics. In that case the
+completed a major plot or used clever tactics. In that case the
 award may be even higher.
 
 A completely reasonable choice to up the award points can simply be the
