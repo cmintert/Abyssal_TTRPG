@@ -5,7 +5,7 @@ Disclaimer
 This is a work in progress and under constant change. Until it reaches
 Beta, it is not considered play-ready to its full extent. This version
 is provided to gather feedback on the rules and setting of the game.
-Abyssal is a game written for the love of science fiction, horror and
+Abyssal is a game written for the love of science fiction, horror, and
 investigative genres. It contains descriptions of horror and violence
 
 Abyssal - Alpha © 2024 by Christian Mintert is licensed under CC
@@ -757,7 +757,7 @@ norm.
 Public opinion is shaped by whoever is controlling the media. This old
 wisdom also stands in the times of galactic expansion. All the corps try
 to influence and shape the will of the masses towards their ends. This
-can be felt in grain in the media world, be it games, ads or news. There
+can be felt in grain in the media world, be it games, ads, or news. There
 are channels fighting for truth and moral right, but their fight seems
 to be a fruitless one.
 
@@ -894,7 +894,7 @@ time for brittle peace had come. To
 further the expansion and well-being of
 humankind there was an acknowledgement of
 existing territories, a renewal of the
-Phobos Accord and a clarification of
+Phobos Accord, and a clarification of
 nation and corporate rights.
 
 The great 2345 2451 The Great Stagnation brings economic
@@ -1122,7 +1122,7 @@ after threatening to open fire.
 
 The grab came from the Void Confederacy itself, aiming to control trade
 by the Big 12 and establish an example for controlling the corps. The VC
-aimed to shift the power balance in their favour, regulating movement
+aimed to shift the power balance in their favour, regulating movement,
 and therefore getting a firm grip on the trade routes. Unfortunately for
 them, neither the corps nor the remaining nations stood for it, fearing
 conflict centred on their lifeblood, the generators.
@@ -1255,7 +1255,7 @@ even if it means using a heavy hand.
 Under the leadership of Commander Alex Rennard, a veteran of many
 campaigns, Black Hawk has not only stayed the course, it has set its
 sights on new horizons. Rennard\'s leadership style - characterized by
-strategic foresight, operational excellence and a profound understanding
+strategic foresight, operational excellence, and a profound understanding
 of the galaxy\'s geopolitical landscape - has propelled Black Hawk into
 a period of unprecedented growth and expansion.
 
@@ -1283,7 +1283,7 @@ Hawk remains a beacon of stability in the chaotic vastness of space.
 CosmoNav Technologies has established itself as a titan in interstellar
 logistics and infrastructure, providing unparalleled services in the
 transport of goods and passengers across the galaxy. With a reputation
-built on precision, reliability and efficiency, CosmoNav is the backbone
+built on precision, reliability, and efficiency, CosmoNav is the backbone
 of galactic commerce, linking worlds and fostering trade and cultural
 exchange.
 
@@ -1324,7 +1324,7 @@ interstellar trade and connectivity.
 ### Economic Strategies and Growth
 
 CosmoNav\'s dominance is maintained through continuous technological
-innovation, service diversification and strategic partnerships. The
+innovation, service diversification, and strategic partnerships. The
 company\'s commitment to reliability and its reputation for excellence
 ensure its continued success and growth. As it explores new markets and
 continues to refine its operations, CosmoNav Technologies remains a key
@@ -1353,7 +1353,7 @@ Founded upon startling breakthroughs in the treatment of viral
 outbreaks, Elysium rapidly emerged as a leader in galactic medical
 research. By harnessing rare organic molecules from remote exoplanets,
 they expanded into groundbreaking therapeutic research, including
-treatments for cancer, chronic pain and age-related diseases, for a
+treatments for cancer, chronic pain, and age-related diseases, for a
 price.
 
 ### Specialisation and Services
@@ -1396,7 +1396,7 @@ ageing, and mortality.
 
 Nexus Media stands as a titan in the galactic media landscape,
 controlling a vast multimedia network across the star systems. Renowned
-for its influence on entertainment, news and social media, Nexus Media
+for its influence on entertainment, news, and social media, Nexus Media
 is a behemoth in shaping perceptions, trends, and opinions across
 diverse populations and planets.
 
@@ -1460,7 +1460,7 @@ but also its position as an architect of reality and perception.
 
 Nexus Media is more than a company; it is a force that shapes the way
 individuals and societies view the world. Through its control of
-information, innovation in technology and strategic manoeuvring, Nexus
+information, innovation in technology, and strategic manoeuvring, Nexus
 Media continues to dictate the flow of news, entertainment, and data
 across the galaxy. Standing on the brink of breakthroughs in virtual
 reality and neural interfaces, Nexus Media\'s influence is poised to
@@ -1764,10 +1764,10 @@ countless systems.
 ### Specialisation and Services
 
 At the heart of Shinsei Genomics are its gene therapies, offering
-solutions that extend lifespan, improve quality of life and cure a wide
+solutions that extend lifespan, improve quality of life, and cure a wide
 range of genetic conditions. Beyond therapy, the company is at the
 forefront of bio-enhancement, offering embryonic and adult genetic
-modifications that enhance physical, cognitive and aesthetic traits for
+modifications that enhance physical, cognitive, and aesthetic traits for
 horrendous amounts of money. However, its secretive projects involve the
 development of exotic traits and abilities, a testament to its ambition
 and scientific prowess.
@@ -2130,7 +2130,7 @@ devices.
 
 For personal communication devices, radio waves are the medium of
 choice. A typical handheld device has a range of about 10 km under the
-open sky, around 3 km in a forest or urban environment and in a building
+open sky, around 3 km in a forest or urban environment, and in a building
 just inside that. In a space station, it could be just to the next
 bulkhead.
 
@@ -2139,7 +2139,7 @@ has about thrice these ranges.
 
 If this were all, communication would be in a sorry state. This is why a
 good deal of additional hardware is available in a modern communication
-system. This can be the use of repeaters, portable antennas and even
+system. This can be the use of repeaters, portable antennas, and even
 more robust units portable by multiple individuals. In space stations,
 there is a system called the leaky feeder, in fact, a hyped up antenna
 running along corridors. A comm device can just be hooked up and
@@ -2200,7 +2200,7 @@ comparing new pictures to previously stored ones and identifying
 changes. The more wavelengths are emitted from the object by reflection
 or, for example, heat emission from the drive, the easier it is for a
 telescope to pick up on that. Countermeasures and difficulties are
-non-reflective surfaces, emission control and adaptive skins.
+non-reflective surfaces, emission control, and adaptive skins.
 
 ### Deep Space Radar
 
@@ -2212,7 +2212,7 @@ their ongoing presence, trying to detect new contacts. The time
 difference between emitting and receiving from continuing observation
 can give hints on the velocity and course of the object. Countermeasures
 are a low cross-section, emission control of electromagnetic waves,
-absorbent surface and electronic warfare measures. Decoy deployment can
+absorbent surface, and electronic warfare measures. Decoy deployment can
 be a measure to confuse, but not to avoid detection.
 
 ### Gameplay Considerations
@@ -2763,7 +2763,7 @@ The actions of the covens differ wildly. Some of them have no occult
 powers at all, even if their rituals and sermons have all the bloody
 tools and symbols associated with it. They go about their goals in a
 more mundane way, hoping desperately for the Father to answer their
-sacrifices. Others really wield the dark arts, research them and use
+sacrifices. Others really wield the dark arts, research them, and use
 them as tools to dominate their enemies.
 
 ## Themes of Horror
@@ -2823,7 +2823,7 @@ once these entities are unleashed.
 Explorations in transposing human consciousness into machines or other
 entities, or in fabricating artificial consciousness. The ramifications
 are ethically profound, frequently leaving subjects irreversibly
-traumatized, estranged from themselves and often psychopathic in nature.
+traumatized, estranged from themselves, and often psychopathic in nature.
 Whatever their nature is after undergoing this kind of treatment.
 
 ##### Enhancement of Pain Tolerance
@@ -2940,7 +2940,7 @@ with your knowledge."
 The atrum echo is a disturbing ritual to summon the soul of a dead
 person. Not much is known about the special proceedings but the most
 gruesome and superficial details. A human victim is used, tied to a
-ritual stone and a willow semen is placed in the chest cavity through
+ritual stone, and a willow semen is placed in the chest cavity through
 surgery or more barbaric measures while it is still breathing. After
 touching the living heart, the transformation begins. Over the next
 seven days, under constant incantation of summoning chants, the semen
@@ -3989,7 +3989,7 @@ In the first instalment of Abyssal the game is about a corporate covert
 operations team sent on missions to further the corporation\'s interest
 under the radar of anyone. This does not mean that these are only
 missions involving combat. There can be riddles to solve, murders to
-investigate or elaborate heists to plan. But to be true, a bit of
+investigate, or elaborate heists to plan. But to be true, a bit of
 violence is to be expected.
 
 ### The Crew
@@ -4029,7 +4029,7 @@ backgrounds and use them for the better of the overarching story.
 ### Create personal relations
 
 Every character should have some personal relationships, be it a loved
-one, a spouse or someone they care about somewhere. These relationships
+one, a spouse, or someone they care about somewhere. These relationships
 should not tie the character down, no, they are operatives who are often
 away on extended missions. These people the characters care about are
 the anchors they think about and feel emotionally attached to. If the
@@ -4143,7 +4143,7 @@ you can play through some missions and have some short-lived fun
 (nothing wrong here for a single shot mission) but it will remain
 without consequence. On the other hand, there can be much at stake if
 the personal background of each character comes into play. There may be
-a lingering drug addiction, suppressed PTSD or such fine things as a
+a lingering drug addiction, suppressed PTSD, or such fine things as a
 girlfriend or wife waiting at home. Gambling debts or just crushing
 loneliness dowsed in nights of party and excess, all may play a role if
 the shit hits the fan. Maybe there is a fine refuge for the character in
@@ -4474,7 +4474,7 @@ Masterygate For/Ded
 The Combat Area is an essential aspect of any operative, highlighting a
 character\'s ability in physical confrontation and tactical skirmishes.
 It represents a wide range of skills from basic self-defence to advanced
-combat tactics, reflecting the character\'s training, reflexes and
+combat tactics, reflecting the character\'s training, reflexes, and
 physical conditioning. This skill set is essential for characters who
 find themselves in frequent combat situations, or any situation where
 tactical thinking is advantageous.
@@ -4526,17 +4526,17 @@ weapons are unavailable or impractical.
 
 Masterygate Nim/Mnd
 
-Espionage enables the character to gather information, stay undercover
+Espionage enables the character to gather information, stay undercover,
 and manipulate situations to their advantage.
 
 It embodies a range of skills necessary for covert operations,
-intelligence gathering and subtle manipulation, reflecting a
+intelligence gathering, and subtle manipulation, reflecting a
 character\'s cunning and mental agility. This skill set is particularly
 important for characters involved in surveillance, undercover missions,
 or any situation that requires a discreet approach and careful planning.
 
 Espionage skills encompass a variety of disciplines, including advanced
-surveillance techniques, counter-intelligence and sabotage. Operatives
+surveillance techniques, counter-intelligence, and sabotage. Operatives
 skilled in espionage are adept at moving unseen, extracting valuable
 information without alerting their targets, and turning the tide of a
 conflict without direct confrontation. They are masters of disguise,
@@ -4577,9 +4577,9 @@ equipment functionality, and creating gadgets, requiring a deep
 understanding of systems from simple locks to complex engines.
 
 Those who understand hardware are vital, especially in high-pressure
-situations. They ensure operational continuity, prevent breakdowns and
+situations. They ensure operational continuity, prevent breakdowns, and
 devise solutions with limited resources. Whether it is rapid repairs,
-maintenance or troubleshooting, their skills are essential to the
+maintenance, or troubleshooting, their skills are essential to the
 success of technology-dependent missions.
 
 Mastering hardware is about using technical knowledge to improve
@@ -4591,7 +4591,7 @@ technology-dependent environments.
 
 ###### Repair
 
-Enables the character to diagnose, repair and modify electronic and
+Enables the character to diagnose, repair, and modify electronic and
 mechanical devices. This is the specialization to bypass electronic
 and mechanical locks.
 
@@ -4599,12 +4599,12 @@ and mechanical locks.
 
 This specialization changes or enhances the function of a mechanical or
 electronic system. This includes modifying the output of a system,
-install trigger conditions or tuning an engine.
+install trigger conditions, or tuning an engine.
 
 ###### Fabrication
 
 This represents specialized knowledge about the fabrication of tools,
-machines and items. The raw materials have to be present, you cant
+machines, and items. The raw materials have to be present, you cant
 create something from nothing.
 
 #### Knowledge
@@ -4637,7 +4637,7 @@ the classroom.
 
 ###### Natural Science
 
-Natural Science is made up of physics, chemistry and biology. This
+Natural Science is made up of physics, chemistry, and biology. This
 includes some in-depth knowledge of these subjects, making the Natural
 Science character a jack-of-all-trades.
 
@@ -4658,7 +4658,7 @@ crucial for medics and surgeons, providing support in assessing and
 responding to the health needs of team members in a variety of
 environments.
 
-Medical professionals deal with trauma, disease treatment and
+Medical professionals deal with trauma, disease treatment, and
 xenobiology, making life-saving decisions and devising long-term care
 strategies. Their role extends beyond the treatment of physical wounds;
 they ensure the psychological readiness of their team, maintaining the
@@ -4674,7 +4674,7 @@ success.
 
 Surgery allows the character to extensive and complicated surgical
 procedures to treat major trauma. This includes removing bullets,
-repairing internal bleeding and operating on broken bones.
+repairing internal bleeding, and operating on broken bones.
 
 ###### Field Medic
 
@@ -4701,7 +4701,7 @@ exclusive nightclub or negotiating in a hostage situation.
 
 Characters skilled in negotiation influence outcomes and control
 debates, making them invaluable in achieving goals without direct
-conflict. They excel at bartering, conflict mediation and strategic
+conflict. They excel at bartering, conflict mediation, and strategic
 communication, using their understanding of motivations and needs.
 Mastery of negotiation means achieving goals through eloquence and an
 understanding of human behaviour.
@@ -4739,10 +4739,10 @@ understanding topography, and manoeuvring vehicles or ships through
 challenging conditions.
 
 Characters with strong navigation skills are invaluable during
-exploration, tactical retreats or high-speed pursuits. They ensure that
-the team\'s movements are efficient, safe and strategically sound.
+exploration, tactical retreats, or high-speed pursuits. They ensure that
+the team\'s movements are efficient, safe, and strategically sound.
 Orientation allows characters to determine positions and plan routes. It
-involves finding the most advantageous routes, avoiding natural hazards
+involves finding the most advantageous routes, avoiding natural hazards,
 and minimising travel time. It means that movement is a tactical
 advantage rather than a liability.
 
@@ -4770,7 +4770,7 @@ projector needs to be programmed for a specific destination. It provides
 Masterygate For/Nim
 
 The Physicality Expertise Area represents a character\'s physical
-strength, endurance and agility. It includes skills that increase a
+strength, endurance, and agility. It includes skills that increase a
 character\'s stamina, brute strength, and flexibility, allowing them to
 perform feats of athleticism, withstand strenuous activities, and
 manoeuvre through obstacles. Characters with Physicality are resilient
@@ -4798,7 +4798,7 @@ diving are included in the Swimming specialisation.
 
 ###### Parcour
 
-Movement in spaces filled with obstacles, drops and short climbs is the
+Movement in spaces filled with obstacles, drops, and short climbs is the
 domain of Parcour. It is extremely useful in pursuit situations, making
 the terrain much more manageable.
 
@@ -4808,18 +4808,18 @@ Masterygate Nim/Ded
 
 The Pilot skill set is crucial for characters who specialise in
 navigating different vehicles through different environments. It
-encompasses the operation of air, space and ground vehicles, making
-characters proficient in aircraft, spacecraft and land vehicles. These
-pilots are essential for transport, tactical manoeuvres, pursuit and
+encompasses the operation of air, space, and ground vehicles, making
+characters proficient in aircraft, spacecraft, and land vehicles. These
+pilots are essential for transport, tactical manoeuvres, pursuit, and
 vehicular combat.
 
 In gameplay, skilled pilots navigate through challenging terrain, avoid
 or pursue enemies, and quickly evade threats. They provide air support,
-perform precision landings and lead high-speed pursuits that turn the
+perform precision landings, and lead high-speed pursuits that turn the
 tide of battle. Their expertise goes beyond mere operations; it includes
 an understanding of physics, quick reflexes and a deep knowledge of
 vehicle systems, making them skilled in movement and combat support.
-This gives the team an advantage in speed, mobility and strategic
+This gives the team an advantage in speed, mobility, and strategic
 positioning.
 
 ##### Specialisation
@@ -4828,7 +4828,7 @@ positioning.
 
 This specialisation covers flying vehicles. This includes ultralights
 and other aircraft of various sizes. Pre-flight procedures, necessary
-communications and handling of extreme situations.
+communications, and handling of extreme situations.
 
 ###### Water
 
@@ -5015,7 +5015,7 @@ unsuspecting adversaries.
 ###### Camouflage and Disguise
 
 This specialization focuses on the use of visual deception to avoid
-detection. It includes the creation and use of disguises, make-up and
+detection. It includes the creation and use of disguises, make-up, and
 prosthetics to alter appearance and blend into different social settings
 or environments. It also covers the use of natural and artificial
 materials for camouflage in a variety of terrains. Specialists in this
@@ -5109,7 +5109,7 @@ rules covering all aspects.
 As a Suit, you should stage combat in a dramatic way, improvising and
 making it remarkable. These rules are designed to give you maximum
 freedom. With this freedom comes responsibility, try to be fair and
-predictable, play with the players and give them a fair warning when
+predictable, play with the players, and give them a fair warning when
 things start to get hairy.
 
 ## Engagement Stakes
@@ -5164,7 +5164,7 @@ actually intercepts the "something".
 ### Statement of "Intent"
 
 The player states the intent of his character. This statement has to be
-within reason depending on human capabilities, description of equipment
+within reason depending on human capabilities, description of equipment,
 or any additional specialities that might apply.
 
 ### Setting of "Spotlight Stakes"
@@ -5194,7 +5194,7 @@ The last phase of resolving the spotlight is the execution of the
 
 During combat, it is important to track the locations of the characters. 
 There are a multitude of ways of doing this. It can stay purely in the mind,
-be scribbled on a piece of paper or be mapped on a
+be scribbled on a piece of paper, or be mapped on a
 sophisticated battle map with pretty miniatures, either analogue or
 digital. This tracking is only done to support the narrative and keep
 things consistent. Characters have a move range to give an estimate of
@@ -5264,7 +5264,7 @@ maiming can still be a dangerous and plausible outcome.
 
 #### Deal Damage
 
-So, a hit is confirmed, Armour has been considered, it\'s time to get at
+So, a hit is confirmed, Armour has been considered, it's time to get at
 the meat of things. All creatures have a Physical Endurance (PhE). The
 attacker can now spend the remaining Marks and the damage modifier of
 the used Ammunition to reduce the PhE. At this point, PhE just
@@ -5275,7 +5275,7 @@ creature receives a serious wound.
 
 ### Serious Wounds
 
-A serious wound can be described as a non-lethal, hindering or
+A serious wound can be described as a non-lethal, hindering, or
 incapacitating wound. For the player characters, this means a real blow.
 Everything from a shattered bone to internal bleeding is possible.
 
@@ -5364,7 +5364,7 @@ Recovery from serious wounds can be a lengthy process. With the rapid
 progression of medical capabilities, there are many possibilities to get
 an operative into a fighting condition again. This can be achieved by
 advanced painkillers, highly effective casts capable of actively
-supporting movement and microsurgery robots for effective field surgery.
+supporting movement, and microsurgery robots for effective field surgery.
 
 After receiving medical aid in the field, an operative is considered
 fully functional but with zero Physical Endurance. He cannot be prepped
@@ -5380,7 +5380,7 @@ At their core, we can describe ships based on their technical stats,
 such as attributes and derived attributes of a character. These numbers
 are one thing, it is important to get a feel for the ship, especially if
 it is the character\'s one provided by their Patreon. We should be
-thinking about quirks, colour, internal appearance and those sorts of
+thinking about quirks, colour, internal appearance, and those sorts of
 things that are not reflected in the rules but are influential
 nonetheless. It will further the immersion and attachment to the ship,
 making it a beloved place to come back to.
@@ -5401,7 +5401,7 @@ IRHEC, quarters, bridge, and any other.
 
 Most vessels are designed to provide a minimum comfort for prolonged
 space travel. This is not necessarily the case for all of them, given
-the need for shuttles, small cargo transfer haulers and small patrol
+the need for shuttles, small cargo transfer haulers, and small patrol
 vessels going to anchor after a successful shift. But those are mostly
 orbit bound ships.
 
@@ -5456,7 +5456,7 @@ radiation.
 
 This is an important consideration for combat in Space. Every space
 vessel has a signature strength, representing it´s emmision of energy
-over a multispectral field. It´s the emmision of heat, gravimetric waves
+over a multispectral field. It´s the emmision of heat, gravimetric waves,
 and other electromagnetic radiation. The more of these emmisions take
 place the bigger is the signature of the vessel, meassured in the
 Signature Rating (SiR). This is what scanners try to detect and is
@@ -5471,7 +5471,7 @@ The basic SiR is grounded in the ships size.
 
 Unlike an organic creature whose core is defined by birth, space vessels
 derive their attributes from the components built into them. These
-components can sometimes be added later, can be switched or upgraded.
+components can sometimes be added later, can be switched, or upgraded.
 This makes these attributes fluid and adaptable. There are five main
 components to a vessel.
 
@@ -5541,7 +5541,7 @@ projectile weapons.
 
 In case of damage to a vessel it can be equipped with emergency repair
 systems. These systems are things like automatic puncture sealing,
-repair drones, redundancy systems, fire controll and a multitude of
+repair drones, redundancy systems, fire controll, and a multitude of
 other components offering added security for the vessels inhabitants.
 
 These systems are not without limits. They have a certain amount of
@@ -5558,7 +5558,157 @@ check. This can be positive or negative.
 The third is the speed of the system, limiting the number of StE that
 can be repaired in a single Check.
 
-####     
+## Spaceship Components
+
+### Weaponsystems
+
+#### Torpedos
+
+Torpedoes are specialized munitions designed to deliver devastating
+payloads over long distances. They have advanced sensor arrays to to
+track their targets and initiate evasive maneuers against the target's
+countermeasures. Torpedos come with Kramer PAD Drives. Often equipped
+with powerful warheads, torpedoes are capable of inflicting significant
+damage to enemy ships, making them a formidable weapon at long
+distances. Torpedos are huge, expensive weapons.
+
+>ASAS TORPEDO
+>
+>The Advanced Space Attack Solution Torpedo is a beast of a weapon.
+Specializing on long and extreme ranges it has lower but longer
+accelleration phase than its warhead bretheren. Equipped with a KPAD,
+automated targeting logics, and extensive sensory arrays it is able to
+autonomosly pursue its designated target. Equiped with stealth
+technology for signal masking it can stay of the radar for a long time.
+Constantly accelerating with 4G it can and will outpace human maned
+targets that try to run. If the ASAS hits it has terrible explosive
+power
+
+#### Medium Range missiles
+
+Medium-range missiles are guided projectiles that can be launched from a
+distance to engage targets beyond visual range. These missiles are
+equipped with advanced guidance systems, allowing them to track and
+intercept enemy vessels with precision.
+
+>Hades 5 Missile
+>
+>Description: The Hades 5 is a standard missile in the Paladium Tactics
+Corp. arsenal. It is equipped with a small Sensor array incorporating
+Thermal and Visual Reckognition, Ready to receive targeting information
+from the firing vessel. Designed for medium range it packs an intense 8g
+acceleration rate for 5 minutes, only being able to make inbound course
+corrections and defensive manoeuvres after that. This would hit a target
+at 10,000 km in about 10 minutes causing serious damage
+
+#### Near Range Missiles
+
+Near-range missiles are close-quarters weapons designed for engagements
+at relatively short distances. Despite their limited range, short-range
+missiles pack a powerful punch, making them ideal for rapid, close-range
+combat encounters.
+
+>HYDRA INTERCEPTOR MISSILE
+>
+>The Hydra is a near range defence missile usually deployed against
+incoming ordnance, speak torpedoes, medium range missiles, or drones.
+Hydra is lightweight, concentrating on speed and relying on target
+information from the firing platform. A Hydra fire solution consists of
+at least 4 warheads for maximum reliability and failsafe attack
+patterns. Intercept acceleration comes at 11 G for 2 minutes, packing
+about 2KT of explosive power.
+
+#### Gauss Weapons
+
+Gauss weapons use electromagnetic acceleration to propel projectiles
+at high velocities, delivering devastating kinetic energy to enemy
+targets. Known for their high rate of fire and accuracy, Gauss weapons
+are favoured by many for their effectiveness in combat. A second point in
+favour is the relative cheap production of munitions. Gauss Weapons come
+in many sizes, from long range single shot guns to Point Defence Systems
+with small calibres and high rates of fire.
+
+>VULCAN GAUSS CANNON
+>
+>The Vulcan Gauss Cannon is a versatile, rapid-fire weapon system.
+Utilizing electromagnetic acceleration, it can fire projectiles at
+extremely high velocities with pinpoint accuracy. Designed for
+close-Quarter to near space engagements, the Vulcan is capable of
+delivering a relentless barrage, overwhelming enemy defenses. With a
+firing rate of 1200 rounds per minute, it excels in both offensive and
+defensive roles, making it a staple for any well-equipped vessel.
+
+#### Convetional Projectile Weapons
+
+Conventional projectile weapons encompass a wide range of firearms and
+cannons that use chemical propellants to launch projectiles. While not
+as advanced as other weapon types, conventional projectile weapons
+remain a reliable and widely used option in space combat. A big
+advantage may be the highly reduced dependency from electrical power to
+operate the guns, most of them equipped with local energy supplys to
+move the targeting machinery.
+
+>THUNDERSTRIKE ARTILLERY
+>
+>The Thunderstrike Artillery system is a robust, high-caliber
+conventional cannon. Using chemical propellants, it launches heavy
+projectiles capable of breaching the thickest armor. Ideal for
+long-range bombardments, the Thunderstrike combines reliability with
+devastating firepower. It is especially useful when electronic warfare
+threatens more advanced systems, as its simple mechanics ensure
+continuous operation even under heavy EMP attacks.
+
+#### Loitering Munition
+
+Loitering munitions are autonomous drones equipped with explosives or
+other payloads, designed to loiter in a target area until a suitable
+target is identified. Once engaged, these drones can rapidly engage
+enemy vessels with precision strikes. Another term could be Smart Mines.
+
+>TIC SMART MINE
+>
+>The TIC (Tactical Intercept Component) Smart Mine is an autonomous drone
+equipped with advanced sensor arrays and explosive payloads. Designed to
+loiter in designated areas, it waits patiently for enemy vessels to
+enter its kill zone. Upon target acquisition, the Viper engages with
+precision, delivering a powerful explosive strike. Its stealth
+capabilities and long operational duration make it an excellent tool for
+area denial and ambush tactics.
+
+#### EMP Weapons
+
+Electromagnetic pulse (EMP) weapons are non-lethal devices that emit
+electromagnetic pulses to disrupt or disable electronic systems aboard
+enemy vessels. While not causing physical damage, EMP weapons can
+incapacitate enemy ships and leave them vulnerable to further attacks.
+They do damage to the electronic endurance.
+
+>ZEUS EMP PROJECTOR
+>
+>The Zeus EMP Projector is a non-lethal weapon designed to disrupt and
+disable electronic systems aboard enemy vessels. Emitting a concentrated
+electromagnetic pulse, it can incapacitate vital systems, leaving ships
+vulnerable to further attacks. The Zeus is particularly effective in
+disabling shields, navigation systems, and weaponry without causing
+physical damage, making it a strategic asset in space combat scenarios.
+
+#### Drones
+
+Drones are unmanned aerial vehicles equipped with various weapons and
+sensors, capable of performing a wide range of tasks in space combat.
+From reconnaissance and surveillance to combat and support roles, drones
+are valuable assets in any fleet. They are usually deployed at
+stationary or slow moving targets as they mostly lack KPAD Drives.
+
+>RAVEN RECON DRONE
+>
+>The Raven Recon Drone is an unmanned aerial vehicle designed for
+reconnaissance and surveillance missions. Equipped with high-resolution
+cameras and advanced sensor arrays, the Raven provides real-time
+intelligence and battlefield awareness. Its stealth capabilities and
+long operational range allow it to operate undetected, gathering
+critical data on enemy positions and movements. The Raven is an
+invaluable asset for tactical planning and situational awareness. 
 
 # Space Combat (SpCo)
 
@@ -5570,7 +5720,7 @@ combat is that the characters have all eggs in one bowl. If their vessel
 goes down they are usually done for. An exploding IRHEC needs no rescue
 operation anymore, only wreckage remains. Going to combat in space
 begins well before one shot is fired. It is about reconnaissance,
-planning and stealth to get an advantage against your enemy. The
+planning, and stealth to get an advantage against your enemy. The
 characters do well to come prepared and bring their expertise to the
 fight. And technical superiority does help, too. Here we consider that
 the Corp provides the characters with a well-equipped vessel suited for
@@ -5583,7 +5733,7 @@ fired? It is all about situational awareness. If you are not able to
 identify a potential threat your enemy can act unnoticed. He will use
 that to his full advantage, hitting you out of nowhere.
 
-This is why scanners, tactical positioning and subterfuge play a
+This is why scanners, tactical positioning, and subterfuge play a
 critical role before any shot is fired.
 
 However, that may be, once the first salvo is launched the combat has
@@ -5640,12 +5790,12 @@ turn structures to serve the unfolding story.
 #### Player-Requested Spotlights and Intent Changes
 
 Abyssal Space Combat values responsiveness and player agency. Players
-can request a**Player-Requested Spotlight**at any point during a
+can request a **Player-Requested Spotlight** at any point during a
 combat segment to react swiftly to developing situations or seize
 tactical opportunities.
 
 The Suit evaluates Player-Requested Spotlights using the"Yes, but..."
-principle. Requests are granted if narratively justified, often with the
+principle. Requests are granted if narrative justified, often with the
 Suit introducing complications or trade-offs to maintain balance and
 realism.
 
@@ -5672,9 +5822,9 @@ manoeuvring jets to evade enemy fire and gain tactical advantages.
 
 ### Weapons Operations
 
-Weapons Operations focuses on deploying the vessel\'s armaments
+Weapons Operations focuses on deploying the vessel's armaments
 effectively. From long-range missiles to rapid-fire gauss cannons and
-point defense systems, a skilled Weapons Officer utilizes a diverse
+point defence systems, a skilled Weapons Officer utilizes a diverse
 arsenal to engage and neutralize threats.
 
 ### Sensors & Electronic Warfare (EWAR) Operations
@@ -5724,7 +5874,7 @@ fire weapons and short-range missiles are most effective.
 
 #### Middle Range -- SR
 
-Here advanced sensors, positioning and strategy come into focus. From
+Here advanced sensors, positioning, and strategy come into focus. From
 10.000 up to 100.000 km the domain of long-range missiles starts.
 
 > 40,075 km is the circumference of the Earth at the equator.
@@ -5734,7 +5884,7 @@ Here advanced sensors, positioning and strategy come into focus. From
 This covers distances from 100.000 km to 1 million km, accommodating the
 vastness of space and the time it takes for weapons to reach their
 targets. Combat at this range is highly dependent on long-range
-detection and interception technologies. Torpedos dominate.
+detection and interception technologies. Torpedoes dominate.
 
 > Earth to Moon is about 384.000 km
 
@@ -5757,7 +5907,7 @@ in Abyssal this is handled narratively without exact calculations. Just
 something to keep in mind.
 
 For those interested the formula for the turn rate is r=v\^2/a. r is the
-turn radius in meters, v is the absolute velocity and a lateral
+turn radius in meters, v is the absolute velocity, and a lateral
 acceleration.
 
 The facing of a space vessel is achieved with manoeuvring jets turning
@@ -5787,7 +5937,7 @@ for ordering.
 #### Using Terrain against Sensors
 
 If there is more than open space at the engagement site and scale a
-pilot my use asteroids, structures or even small moons to improve
+pilot my use asteroids, structures, or even small moons to improve
 stealth or sensor avoidance. A \<Pilot\> check against a TN set by the
 GM based on the abundance of possibilities is rolled and the achieved
 marks add to the difficilty of sensor lock on.
@@ -5839,9 +5989,13 @@ within parameters controlled by the weapons operator of a space vessel.
 These are set upon the tactical analysis and sensor data received about
 the enemy. So to deploy a weapon system we need data and a tactic.
 
-The success of an attack is based upon an Opposed \<Software\> check
-against the SiR of the enemy. The marks achieved by this test can be
-added to the EWAR value of the deployed weapon.
+The success of an attack is based upon an Opposed <Software\> check
+against the SiR of the enemy. 
+
+The marks achieved by this test can be used in two ways. Either they are
+added to the EWAR value of the deployed weapon or they increase the penetration 
+value of the weapon by two. Only three marks can be invested to increase 
+the penetration.
 
 ##### Check protection or resistance
 
@@ -5869,28 +6023,203 @@ the Structural Endurance of the vessel.
 The amount of damage done to the StE is the number of marks achieved
 during the check to hit the target
 
-The weapon itself has a damage modifier that is added to the damage.
+The weapon itself has a damage modifier added to the damage.
 Even if the damage is reduced below 1 during this step it is always at
 least 1. If the StE stays above 0 everything is working fine. This
 represents several things like glancing hits, damage to secondary
-systems and general strain on the structure.
+systems, and general strain on the structure.
 
 If the StE drops below 0 critical hits are suffered.
 
 ##### Critical Hits
 
 When a ship suffers a critical hit, its crew must make a choice. They
-can either withdraw from the battle, declaring their ship inoperable and
+can either withdraw from the battle, declaring their ship inoperable, and
 leaving themselves at the mercy of the enemy. Or they can choose to
 fight on. In this case, the Suit decides to apply a hampering effect.
 This could be the malfunction of a weapon or the loss of sensor
 information. Starting with the second critical hit, if you decide to
 stay in the fight, roll a D6. If the result is less than the number of
-critical hits, the ship will explode in time. Also starting with the
-second critical hit the Suit may completely take away fighting or
-maneuvering abilities.
+critical hits, the ship will explode in time and has to be abandoned.
 
 Critical hits on NPC ships are handled in the same way.
+
+## Space Vessel Critical Hit System
+
+When a ship suffers a critical hit follow these steps to determine the consequences.
+
+### Step 1: Determine Location
+Roll a d20 to determine which system is affected:
+
+| Roll  | System Affected          |
+|-------|--------------------------|
+| 1-3   | Sensors & Comms          |
+| 4-6   | Weapons Systems          |
+| 7-9   | Engine/Propulsion        |
+| 10-12 | IRHEC & Jump Systems     |
+| 13-15 | Power Distribution       |
+| 16-18 | Life Support             |
+| 19-20 | Control Systems          |
+
+### Step 2: Determine Severity
+Roll a d4 and add marks spent by the attacker (1 mark = +1 to the roll). 
+Effects are cumulative - higher severity includes all effects from lower severity levels.
+
+**Special IRHEC Rule:** If the IRHEC system is hit, determine its charge level:
+- **Empty**: No energy stored (recently jumped or discharged)
+- **Low Charge**: <33% capacity
+- **Medium Charge**: 33-66% capacity (+1 to severity)
+- **High Charge**: 67-99% capacity (+2 to severity)
+- **Full Charge**: 100% capacity (+3 to severity)
+
+**Multiple Hits Rule:** Add +1 to severity for each previous critical hit the ship has sustained.
+
+### Critical Hit Effects By System
+
+#### Sensors & Comms (1-3)
+
+| Severity | Effect                                                                                                                                                               |
+|:--------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|    1     | **Signal Degradation**: +2 TN to all sensor checks. Communications limited to short-range.                                                                           |
+|    2     | **Targeting Disruption**: -1 to all weapon targeting checks. Enemy ships gain +1 to their EWDR.                                                                      |
+|    3     | **Scanner Failure**: Auto-fail passive scanning. Active scanning requires a Software check (TN 12) to temporarily restore function.                                  |
+|    4     | **Blackout**: All sensors offline. Communication systems completely disabled. Cannot detect targets beyond visual range.                                             |
+|    5     | **System Burnout**: All sensors and communications permanently disabled until repairs at a shipyard. Cannot perform any sensor or communication actions.             |
+|    6+    | **Cascade Failure**: Sensors explode, causing 2 additional damage to ElE and starting an electrical fire that causes 1 damage to StE per segment until extinguished. |
+
+#### Weapons Systems (4-6)
+
+| Severity | Effect                                                                                                                                                |
+|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Targeting Glitch**: All weapon checks have their TN increased by 2.                                                                                 |
+|    2     | **Power Fluctuation**: One weapon system (attacker's choice) disabled until repaired with a Hardware check (TN 8).                                    |
+|    3     | **Ammunition Feed Failure**: Rate of fire reduced. Can only fire one weapon per segment.                                                              |
+|    4     | **Weapon Overload**: Random weapon system disabled. Attempting to use it causes 2 damage to ElE.                                                      |
+|    5     | **Critical Malfunction**: All weapons disabled. Any attempt to force-fire has a 50% chance of causing 2 StE damage to the ship.                       |
+|    6+    | **Catastrophic Detonation**: Weapons system explodes, causing d4 additional damage to StE and potentially igniting any loaded ammunition or missiles. |
+
+#### Engine/Propulsion (7-9)
+
+| Severity | Effect                                                                                                                                                                        |
+|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Thruster Imbalance**: +2 TN to all pilot maneuver checks. Maximum acceleration reduced by 1G.                                                                               |
+|    2     | **Coolant Leak**: Engine efficiency reduced. Maximum acceleration reduced by 2G. Attempting to exceed causes 1 StE damage per segment.                                        |
+|    3     | **Drive Fluctuation**: Ship occasionally lurches unpredictably. All crew must make Nimbleness check (TN 8) when performing precise actions or be disrupted.                   |
+|    4     | **Critical Drive Failure**: Maximum acceleration reduced to 1G. Sudden maneuvers require a Hardware check (TN 10) or the engine stalls completely.                            |
+|    5     | **Engine Seizure**: Propulsion systems offline. Ship continues on current vector until repaired with an extended Hardware check (3 successes, TN 12).                         |
+|    6+    | **Core Breach**: Engine begins to overload. Ship will explode in d6 segments unless the engine is ejected or completely powered down (requiring 3 Hardware successes, TN 14). |
+
+#### IRHEC & Jump Systems (10-12)
+
+| Severity | Effect                                                                                                                                                                                                                                                                                                                       |
+|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Energy Fluctuation**: System diagnostics show instability. Jump calculations take 25% longer. Charge level drops by 10%.                                                                                                                                                                                                   |
+|    2     | **Containment Stress**: Energy containment fields experiencing strain. 20% chance per segment of discharging 1d6% of stored energy. Engineering crew feels static electricity in the air.                                                                                                                                    |
+|    3     | **Bleed Effect**: Energy bleeds into surrounding systems. Ship-wide electronics occasionally glitch. Anyone in the IRHEC chamber takes 1 PhE damage per minute from radiation. Charge level drops by 25%.                                                                                                                    |
+|    4     | **Partial Containment Breach**: IRHEC begins losing stability. Requires a Hardware check (TN 12) every segment or discharge 2d10% of stored energy. Each discharge causes 1 ElE damage.                                                                                                                                      |
+|    5     | **Major Containment Failure**: Energy discharges are visible throughout the ship. Emergency protocols automatically begin venting energy to prevent catastrophic failure. IRHEC loses 3d10% charge per segment and causes 1 StE damage per segment until stabilized (Hardware check TN 14, 2 successes) or fully discharged. |
+|    6     | **Critical Overload Warning**: IRHEC containment systems at breaking point. Ship AI initiates emergency venting. Unless manually overridden (Hardware TN 16), IRHEC will emergency discharge all energy in a controlled but wasteful process. If overridden, roll d6 each segment: on 1-2, IRHEC explodes (see severity 8+). |
+|    7     | **Imminent Catastrophic Failure**: IRHEC containment failing. Must be stabilized (Hardware TN 18, 3 successes) or jettisoned within d3 segments. If jettisoned, the IRHEC will explode outside the ship 1d6 segments later, damaging anything within near range.                                                             |
+|    8+    | **Catastrophic Energy Release**: The IRHEC explodes spectacularly. Ship suffers 3d6 StE and 3d6 ElE damage. Any nearby systems or ships (close quarter range) take 2d6 damage from the energy wave. All energy is lost.                                                                                                      |
+
+#### Power Distribution (13-15)
+
+| Severity | Effect                                                                                                                                                |
+|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Power Fluctuation**: Lights flicker. Random system temporarily powers down each segment.                                                            |
+|    2     | **Circuit Damage**: -1 to all ship action checks due to unreliable power. Non-essential systems automatically shut down.                              |
+|    3     | **Grid Failure**: Only critical systems operational. Secondary systems (including non-essential weapons) shut down.                                   |
+|    4     | **Overload Cascade**: Random critical system shuts down each segment. Requires a Hardware check (TN 10) to manually reroute power.                    |
+|    5     | **Core Shutdown**: Main power offline. Emergency systems only. Ship operates on battery backup with minimum life support for d6 hours.                |
+|    6+    | **Reactor Breach**: Power core begins to meltdown. Ship will lose all power in d4 segments, followed by catastrophic reactor breach if not contained. |
+
+#### Life Support (16-18)
+
+| Severity | Effect                                                                                                                                                                   |
+|:--------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Atmosphere Degradation**: Air quality declining. Extended exposure causes -1 to all checks after 4 hours.                                                              |
+|    2     | **Environmental Control Failure**: Temperature regulation failing. Crew suffers -2 to all checks due to extreme heat or cold.                                            |
+|    3     | **Toxic Contamination**: Harmful substances detected in air supply. All crew take 1 PhE damage every hour unless wearing enviro-suits.                                   |
+|    4     | **Critical Systems Failure**: Rapid atmospheric degradation. Crew takes 1 PhE damage every 10 minutes without protection. Zero-G in affected sections.                   |
+|    5     | **Catastrophic Decompression**: One ship section (Suit's choice) experiences explosive decompression. Anyone in that section without a vacuum suit takes 3d6 PhE damage. |
+|    6+    | **Cascading Breach**: Multiple hull breaches. Ship begins losing atmosphere shipwide. All crew must evacuate to survival suits or escape pods within d4 segments.        |
+
+#### Control Systems (19-20)
+
+| Severity | Effect                                                                                                                                                                       |
+|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Interface Glitch**: +3 TN to all piloting checks. Ship occasionally executes commands with a delay.                                                                        |
+|    2     | **Navigation Error**: Ship location data corrupted. +4 TN to all navigation checks. 25% chance of calculating incorrect jump coordinates.                                    |
+|    3     | **Control Lockout**: Random ship system becomes unresponsive each segment. Manual override requires a Hardware check (TN 10).                                                |
+|    4     | **System Corruption**: AI and automated systems begin to malfunction. Random system activates or deactivates each segment.                                                   |
+|    5     | **Complete Control Failure**: Bridge controls non-responsive. Ship can only be operated through direct hardware interface in engineering.                                    |
+|    6+    | **Catastrophic System Seizure**: All computerized systems lock up. Ship becomes completely unresponsive to commands and may execute random dangerous maneuvers each segment. |
+
+### Emergency Procedures
+
+#### IRHEC Emergency Options
+
+##### Emergency Venting
+- **Action**: Engineer can initiate emergency venting procedure
+- **Check**: Hardware TN 12
+- **Effect**: Vents energy harmlessly over 1d6 segments
+- **Cost**: All stored energy is lost
+- **Benefit**: Prevents catastrophic failure
+
+##### Emergency Jettison
+- **Action**: Engineer can prepare IRHEC for emergency ejection
+- **Check**: Hardware TN 14
+- **Effect**: Physically ejects IRHEC from ship
+- **Cost**: Ship cannot jump until IRHEC is replaced
+- **Benefit**: Removes explosion risk from ship
+- **Risk**: If not ejected far enough, explosion may still damage ship
+
+##### Emergency Containment
+- **Action**: Engineer attempts to reinforce failing containment
+- **Check**: Hardware TN 16, requires 2-3 successes based on severity
+- **Effect**: Temporarily stabilizes IRHEC
+- **Risk**: Each failed check increases severity by 1
+- **Benefit**: Preserves jump capability if successful
+
+##### Emergency Jump
+- **Action**: Navigator attempts an emergency jump to use energy before containment fails
+- **Check**: Navigation/Jump Plotter TN 18
+- **Effect**: Ship immediately jumps to plotted coordinates
+- **Risk**: On failure, ship jumps to random coordinates and IRHEC still explodes
+- **Limitation**: Only possible with sufficient charge (>50%)
+
+#### General Damage Control
+
+##### Emergency Repairs
+- **Action**: Engineer performs emergency repairs to damaged system
+- **Check**: Hardware TN based on severity (8 + severity)
+- **Effect**: Temporarily restores partial functionality
+- **Limitation**: Repairs under combat conditions are unstable and may fail again
+
+##### System Isolation
+- **Action**: Engineer isolates damaged system to prevent cascade failures
+- **Check**: Hardware TN 10
+- **Effect**: Prevents damage from spreading to other systems
+- **Cost**: Isolated system remains non-functional
+
+##### Power Rerouting
+- **Action**: Engineer redirects power around damaged systems
+- **Check**: Hardware TN 12
+- **Effect**: Maintains functionality of critical systems
+- **Risk**: Overloads may cause additional ElE damage
+
+### Using Critical Hits in Gameplay
+
+Critical hits should serve both mechanical and narrative functions:
+
+1. **Create Tension**: Critical hits escalate the stakes and create urgency
+2. **Generate Narrative**: Each hit should be described vividly by the Suit
+3. **Force Decisions**: Crew must prioritize repairs vs. other actions
+4. **Enable Heroics**: Allow for dramatic repair attempts and sacrifices
+
+When using critical hits, remember that ships are the crews' lifeline in space. 
+The threat of catastrophic ship failure is as dangerous as any enemy weapon, 
+creating tense situations where characters must work together to survive.
 
 ### Sensor & Electronic Warfare
 
@@ -6021,7 +6350,7 @@ surprise attacks or strategic blunders.
 Most vessels are equipped with automated repair systems enabling
 prolonged survival on timeintensiv missions or in combat situations.
 These systems are controlled by an operator skilled in \<Hardware\>. He
-is overseeing the repair bots, priorisation and execution of damage
+is overseeing the repair bots, priorisation, and execution of damage
 control. The Emergency Repair systems have a limit in how fast, how
 often ond how efficient they operate. A check is done with \<Hardware\>
 against a moderate difficulty (TN 6), all marks achieved may be added to
@@ -6102,157 +6431,7 @@ give away the presence and possible position, making it easier for enemy
 ships to pinpoint and engage the vessel. So it is a balance between
 stealth and awareness that can be taken.
 
-## Spaceship Components
 
-### Weaponsystems
-
-#### Torpedos
-
-Torpedoes are specialized munitions designed to deliver devastating
-payloads over long distances. They have advanced sensor arrays to to
-track their targets and initiate evasive maneuers against the target's
-countermeasures. Torpedos come with Kramer PAD Drives. Often equipped
-with powerful warheads, torpedoes are capable of inflicting significant
-damage to enemy ships, making them a formidable weapon at long
-distances. Torpedos are huge, expensive weapons.
-
-ASAS TORPEDO
-
-The Advanced Space Attack Solution Torpedo is a beast of a weapon.
-Specializing on long and extreme ranges it has lower but longer
-accelleration phase than its warhead bretheren. Equipped with a KPAD,
-automated targeting logics and extensive sensory arrays it is able to
-autonomosly pursue its designated target. Equiped with stealth
-technology for signal masking it can stay of the radar for a long time.
-Constantly accelerating with 4G it can and will outpace human maned
-targets that try to run. If the ASAS hits it has terrible explosive
-power
-
-#### Medium Range missiles
-
-Medium-range missiles are guided projectiles that can be launched from a
-distance to engage targets beyond visual range. These missiles are
-equipped with advanced guidance systems, allowing them to track and
-intercept enemy vessels with precision.
-
-Hades 5 Missile
-
-Description: The Hades 5 is a standard missile in the Paladium Tactics
-Corp. arsenal. It is equipped with a small Sensor array incorporating
-Thermal and Visual Reckognition, Ready to receive targeting information
-from the firing vessel. Designed for medium range it packs an intense 8g
-acceleration rate for 5 minutes, only being able to make inbound course
-corrections and defensive manoeuvres after that. This would hit a target
-at 10,000 km in about 10 minutes causing serious damage
-
-#### Near Range Missiles
-
-Near-range missiles are close-quarters weapons designed for engagements
-at relatively short distances. Despite their limited range, short-range
-missiles pack a powerful punch, making them ideal for rapid, close-range
-combat encounters.
-
-HYDRA INTERCEPTOR MISSILE
-
-The Hydra is a near range defence missile usually deployed against
-incoming ordnance, speak torpedoes, medium range missiles or drones.
-Hydra is lightweight, concentrating on speed and relying on target
-information from the firing platform. A Hydra fire solution consists of
-at least 4 warheads for maximum reliability and failsafe attack
-patterns. Intercept acceleration comes at 11 G for 2 minutes, packing
-about 2KT of explosive power.
-
-#### Gauss Weapons
-
-Gauss weapons use electromagnetic acceleration to propel projectiles
-at high velocities, delivering devastating kinetic energy to enemy
-targets. Known for their high rate of fire and accuracy, Gauss weapons
-are favoured by many for their effectiveness in combat. A second point in
-favour is the relative cheap production of munitions. Gauss Weapons come
-in many sizes, from long range single shot guns to Point Defence Systems
-with small calibres and high rates of fire.
-
-VULCAN GAUSS CANNON
-
-The Vulcan Gauss Cannon is a versatile, rapid-fire weapon system.
-Utilizing electromagnetic acceleration, it can fire projectiles at
-extremely high velocities with pinpoint accuracy. Designed for
-close-Quarter to near space engagements, the Vulcan is capable of
-delivering a relentless barrage, overwhelming enemy defenses. With a
-firing rate of 1200 rounds per minute, it excels in both offensive and
-defensive roles, making it a staple for any well-equipped vessel.
-
-#### Convetional Projectile Weapons
-
-Conventional projectile weapons encompass a wide range of firearms and
-cannons that use chemical propellants to launch projectiles. While not
-as advanced as other weapon types, conventional projectile weapons
-remain a reliable and widely used option in space combat. A big
-advantage may be the highly reduced dependency from electrical power to
-operate the guns, most of them equipped with local energy supplys to
-move the targeting machinery.
-
-THUNDERSTRIKE ARTILLERY
-
-The Thunderstrike Artillery system is a robust, high-caliber
-conventional cannon. Using chemical propellants, it launches heavy
-projectiles capable of breaching the thickest armor. Ideal for
-long-range bombardments, the Thunderstrike combines reliability with
-devastating firepower. It is especially useful when electronic warfare
-threatens more advanced systems, as its simple mechanics ensure
-continuous operation even under heavy EMP attacks.
-
-#### Loitering Munition
-
-Loitering munitions are autonomous drones equipped with explosives or
-other payloads, designed to loiter in a target area until a suitable
-target is identified. Once engaged, these drones can rapidly engage
-enemy vessels with precision strikes. Another term could be Smart Mines.
-
-TIC SMART MINE
-
-The TIC (Tactical Intercept Component) Smart Mine is an autonomous drone
-equipped with advanced sensor arrays and explosive payloads. Designed to
-loiter in designated areas, it waits patiently for enemy vessels to
-enter its kill zone. Upon target acquisition, the Viper engages with
-precision, delivering a powerful explosive strike. Its stealth
-capabilities and long operational duration make it an excellent tool for
-area denial and ambush tactics.
-
-#### EMP Weapons
-
-Electromagnetic pulse (EMP) weapons are non-lethal devices that emit
-electromagnetic pulses to disrupt or disable electronic systems aboard
-enemy vessels. While not causing physical damage, EMP weapons can
-incapacitate enemy ships and leave them vulnerable to further attacks.
-They do damage to the electronic endurance.
-
-ZEUS EMP PROJECTOR
-
-The Zeus EMP Projector is a non-lethal weapon designed to disrupt and
-disable electronic systems aboard enemy vessels. Emitting a concentrated
-electromagnetic pulse, it can incapacitate vital systems, leaving ships
-vulnerable to further attacks. The Zeus is particularly effective in
-disabling shields, navigation systems, and weaponry without causing
-physical damage, making it a strategic asset in space combat scenarios.
-
-#### Drones
-
-Drones are unmanned aerial vehicles equipped with various weapons and
-sensors, capable of performing a wide range of tasks in space combat.
-From reconnaissance and surveillance to combat and support roles, drones
-are valuable assets in any fleet. They are usually deployed at
-stationary or slow moving targets as they mostly lack KPAD Drives.
-
-RAVEN RECON DRONE
-
-The Raven Recon Drone is an unmanned aerial vehicle designed for
-reconnaissance and surveillance missions. Equipped with high-resolution
-cameras and advanced sensor arrays, the Raven provides real-time
-intelligence and battlefield awareness. Its stealth capabilities and
-long operational range allow it to operate undetected, gathering
-critical data on enemy positions and movements. The Raven is an
-invaluable asset for tactical planning and situational awareness.
 
 # Terror, Fear, and Morale
 
@@ -6531,7 +6710,7 @@ Disclaimer
 This is a work in progress and under constant change. Until it reaches
 Beta, it is not considered play ready to its full extent. This version
 is provided to gather feedback on the rules and setting of the game.
-Abyssal is a game written for the love of science fiction, horror and
+Abyssal is a game written for the love of science fiction, horror, and
 investigative genres. It contains descriptions of horror and violence.
 
 The Package © 2024 by Christian Mintert is licensed under CC BY-NC-ND
@@ -6697,7 +6876,7 @@ later interceptors are aware of this.
 At about 21:45 Mr. Fender arrives at the scene. He is not seen entering
 the building through the front entrance, he just seems to appear. He
 arrives at the main exhibition rooms through the tract leading to the
-restrooms, the small kitchen and the back-office. This is due to the
+restrooms, the small kitchen, and the back-office. This is due to the
 fact that he has been waiting for the meeting in a small meeting room
 leading to the vault of the gallery. The suitcase containing the item is
 securely stored inside the vault until right before the transaction
@@ -6735,7 +6914,7 @@ mission briefing to track Mr. Dingerman.
 
 After everything is said and done, Mr. Dingerman will leave the
 exhibition through the front door, take the stairs in the outer passage
-to reach his car and leave the scene.
+to reach his car, and leave the scene.
 
 While he walks the suitcase through the exhibition hall, a tall,
 handsome man suddenly clasps his eye, blood welling up through his hand,
@@ -6771,7 +6950,7 @@ the lead car and even pulls over. But instead of playing their cards
 right, the cultist exiting the car draws his gun before Dingerman
 lowered the wind shield which is, Ariol Thunderbird standard issue, at
 least partial bulletproof. Dingerman makes his move, trusts into the
-wind shield protection and hits the cultist first with the door, then
+wind shield protection, and hits the cultist first with the door, then
 with his 9 mm hollow point in the shin. The second crew opens fire from
 the second car, threatening the rear window. The Thunderbird pulls out
 into the street with smoking tires.
@@ -6858,7 +7037,7 @@ jump away. This will also be true for the character's ship.
 
 In deep space, there are different ways to get from one vessel to
 another. The most basic one is just open the airlock, fly over to the
-other vessel and enter it. Usually, this is done with a safety line
+other vessel, and enter it. Usually, this is done with a safety line
 attached.
 
 Second possibility are so - called soft or hard docks. It is basically
@@ -6877,7 +7056,7 @@ supports both hard and soft docking.
 ### The Battle for the Starspear
 
 Once the characters managed to enter the Starspear the gloves will be
-off. It is their task to get a hold of the suitcase, Dao and in extend
+off. It is their task to get a hold of the suitcase, Dao, and in extend
 Dingerman. Dao will have realized that something is very wrong and may
 chat with the characters and make them an substantial offer for a
 retreat. This may take place over ship intercom while his IT Officer
@@ -6962,7 +7141,7 @@ well aware of his appearance and strives to keep it impregnable.
 
 Charles Dingerman is a professional freelancer for shady deals of all
 kinds. Outright wetwork is not his thing, he is more into transport,
-acquisition and invoicing. In these jobs, he is happy and efficient.
+acquisition, and invoicing. In these jobs, he is happy and efficient.
 
 Dingerman is always armed with a 9 mm pistol and wears a thin kevlar
 vest. He has a combat knife in an ankle holster.
@@ -7058,7 +7237,7 @@ cover. It is, in fact, just called "Of Angels and Demons". There is no
 print date or anything to be found, but the inside pages are printed in
 a simple and common font. There is a kind of introductory text by the
 author LudCrier, stating that he has found insight in the deserts of
-KaTha, he has been visited by the messengers of Love and Hate and these
+KaTha, he has been visited by the messengers of Love and Hate, and these
 are the writings of their communion.
 
 The book never feels cold to the touch, laying a hand on it lets one
@@ -7110,7 +7289,7 @@ Dao. For each Highlight each Haunt attacks with a Terror Value of 4.
 
 An elegant looking vessel, the Starspear is a utilitarian vessel suited
 for a multitude of roles. She is fitted with state-of-the-art equipment,
-giving her good capabilities in portal creation, energy management and
+giving her good capabilities in portal creation, energy management, and
 sensory input. Packing a little bit of a punch by carrying 5 medium
 range missiles, she can also fend for herself in unknown territory
 exploring the darker parts of the universe.
@@ -7118,7 +7297,7 @@ exploring the darker parts of the universe.
 She is almost unarmoured beyond the necessities of radiation shielding
 and micrometeor protection, and her innards are susceptible to damage by
 small arms fire or explosions. In critical areas like Bridge, Engine
-Room and Energy Control this may lead to problems with weapons packing a
+Room, and Energy Control this may lead to problems with weapons packing a
 Penetration Value of 10 and up.
 
 Communication throughout the vessel is by access points in every room
