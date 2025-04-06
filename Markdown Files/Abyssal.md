@@ -531,7 +531,6 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [Emergency Repairs](#emergency-repairs)
         * [System Isolation](#system-isolation)
         * [Power Rerouting](#power-rerouting)
-    * [Using Critical Hits in Gameplay](#using-critical-hits-in-gameplay)
     * [Sensor & Electronic Warfare](#sensor--electronic-warfare)
       * [EWAR against weapons](#ewar-against-weapons)
       * [Sensor Operations](#sensor-operations)
@@ -5949,7 +5948,7 @@ purpose are set. For a more comprehensive description look up
 
 Intents in space combat are plans by the combatants in a space combat
 for what they want to achieve. This can be very creative and should be
-handled by the suit on an individual basis. But as many plans recur many
+handled by the suit individually. But as many plans recur many
 times this rulebook will provide guides and considerations how to handle
 these. The following intents are by no means limiting, they just give
 common ground. These intents take the crew action categories as a basis
@@ -5963,7 +5962,7 @@ If there is more than open space at the engagement site and scale a
 pilot my use asteroids, structures, or even small moons to improve
 stealth or sensor avoidance. A \<Pilot\> check against a TN set by the
 GM based on the abundance of possibilities is rolled and the achieved
-marks add to the difficilty of sensor lock on.
+marks add to the difficulty of sensor lock on.
 
 #### Evasive Maneuvers
 
@@ -5985,7 +5984,7 @@ conserved where possible
 
 The pilot makes a \<Pilot\> check against a TN modified by current
 emissions and environmental conditions. Each mark achieved reduces the
-ship\'s Signal Rating (SiR) by 1 for the duration of the maneuver.
+ship\'s Signal Rating (SiR) by 1 for the duration of the manoeuvre.
 Success also allows for movement that could be mistaken for normal
 stellar drift or debris.
 
@@ -5999,6 +5998,119 @@ favourable location for portal generation must be found. Or it may be an
 emergency jump to get away from danger quickly. The calculations for a
 successful portal with the correct destination are done with
 \<Navigation/Jump Plotter\>.
+
+### Electronic Warfare
+
+Electronic warfare represents the invisible battlefield of signal manipulation,
+hacking, and system disruption that occurs alongside physical combat. 
+A skilled EWAR operator can disable enemy systems, protect allied vessels,
+and turn the tide of battle without firing a single physical weapon.
+
+#### Defensive Countermeasures
+
+Ships equipped with electronic warfare systems can deploy countermeasures against
+incoming weapons or hostile electronic attacks. This creates an electronic shield
+that confuses or disrupts enemy targeting and attack systems.
+
+The EWAR operator makes an opposed <Software/Electronic Warfare> check against
+the weapon's EWAR rating. Success means the incoming weapon misses completely or the
+electronic attack fails. Each mark beyond the minimum success can be stored for
+future electronic defence or used to launch a counter-attack.
+
+A vessel's EWDR (Electronic Warfare Defense Rating) provides a bonus to
+these defensive checks, representing the quality of its passive protective systems.
+
+**Spotlight Example:** *"As enemy missiles streak toward your vessel, Elara activates
+the EWS-CE2 countermeasures suite. Her fingers dance across the console
+as she generates false signatures and jamming signals. Make a Software check
+against the missiles' EWAR rating of 8."*
+
+#### Signal Disruption
+
+EWAR operators can target specific enemy systems to temporarily disable or degrade
+their functionality. This creates openings for other tactical actions and can 
+significantly reduce enemy combat effectiveness. The EWAR operator makes 
+a <Software/Electronic Warfare> check against the target's EWDR. Success 
+allows them to choose one of the following effects based on marks generated:
+
+- Interference (1 mark): Target system operates at reduced efficiency (+2 TN to related checks for one segment)
+- Blackout (2 marks): Target system temporarily fails (auto-fails related checks for one segment)
+- Cascade (3+ marks): Target suffers 1 ElE damage per mark beyond 2
+
+The target system must be specified before the check (sensors,
+weapons, navigation, or communications). Systems can be targeted
+individually or as a group with higher difficulty.
+
+**Spotlight Example:**  *"The enemy cruiser's weapons are charging. Morgan
+initiates a targeted disruption against their targeting computers. On success
+with 2 marks, their next weapon attack automatically fails as the targeting 
+solution dissolves into digital noise."*
+
+#### Electronic Infiltration
+
+More sophisticated than simple disruption, infiltration allows an EWAR operator
+to access enemy systems for surveillance or even control. This represents deeper
+hacking into the target vessel's computers.
+
+This requires an Ongoing <Software/Cyber Operations> check against a TN based
+on the target's security level (typically 10-16), with multiple successes
+required (typically 2-4). Each attempt takes one spotlight.
+
+Success allows one of the following, depending on marks accumulated:
+* Access sensor data (2 total marks)
+* Monitor communications (3 total marks)
+* Control a minor system (4 total marks)
+* Control a major system (5+ total marks)
+
+Control lasts for a number of segments equal to marks beyond the minimum
+required. The infiltration can be detected and countered with
+a successful opposed <Software> check.
+
+**Spotlight Example:** *"After two tense segments of digital infiltration,
+Kai finally breaks through the enemy's firewall. With 4 total marks
+accumulated, he gains temporary control of their auxiliary thrusters.
+'I'm going to fire them at precisely the wrong moment,' he says with a grim smile."*
+
+#### Signal Masking
+
+EWAR operators can reduce their own vessel's detectability by
+managing emissions and creating false signatures. This makes the ship
+harder to detect, target, or track accurately.
+
+The operator makes a <Software/Electronic Warfare> check against TN 8.
+Each mark reduces the ship's Signal Rating (SiR) by 1 for one segment. 
+The ship must maintain reduced power operations during this time, limiting
+acceleration and weapon use.
+
+**Spotlight Example:** *"As your ship approaches the asteroid field,
+Vex initiates emission control protocols. 'Going dark,' she announces, 
+as systems throughout the ship power down to minimal levels. Her Software
+check yields 3 marks, reducing your SiR from 9 to 6, making you much harder
+to detect among the asteroid's natural radiation signatures."*
+
+#### EMP Attacks
+
+Specialized EMP weapons can be deployed to directly attack a target's
+electronic systems. Unlike conventional weapons, EMPs bypass physical 
+armor but directly damage Electronic Endurance.
+
+The operator makes a <Software> check against the target's EWDR. Success
+inflicts ElE damage equal to the marks generated plus the weapon's damage
+modifier. This can quickly disable a ship without destroying it physically.
+
+Ships can defend against EMP attacks with opposed <Software/Electronic Warfare>
+checks, just as they would against conventional weapons.
+
+**Spotlight Example:** *"The pirate vessel refuses to surrender. 'Deploying Zeus,'
+announces Elara, activating the ship's EMP projector. A pulse of invisible
+energy washes over the target. On a successful check with 3 marks, the pirate 
+vessel's lights flicker and go dark as its systems crash, helpless but intact."*
+
+#### Electronic Warfare Consequences
+
+As a vessel's Electronic Endurance (ElE) decreases the the integrity of the systems suffer.
+At the point where the ElE reaches 0, the ship suffers a critical hit to its systems. 
+Handling critical hits is handled Spacecraft Critical Hit System section.
 
 ### Weapons Operations
 
@@ -6061,131 +6173,263 @@ can either withdraw from the battle, declaring their ship inoperable, and
 leaving themselves at the mercy of the enemy. Or they can choose to
 fight on. In this case, the Suit decides to apply a hampering effect.
 This could be the malfunction of a weapon or the loss of sensor
-information. Starting with the second critical hit, if you decide to
-stay in the fight, roll a D6. If the result is less than the number of
-critical hits, the ship will explode in time and has to be abandoned.
+information. 
 
-Critical hits on NPC ships are handled in the same way.
+# Spacecraft Critical Hit Systems
 
-## Space Vessel Critical Hit System
+In Abyssal, spacecraft have two primary endurance attributes: Structural Endurance (StE) and Electronic Endurance (ElE). When either attribute reaches zero, the ship suffers critical hits to the corresponding systems.
 
-When a ship suffers a critical hit follow these steps to determine the consequences.
+## Triggering Critical Hits
 
-### Step 1: Determine Location
-Roll a d20 to determine which system is affected:
+- **Structural Critical Hits**: Occur when a ship's Structural Endurance (StE) reaches zero
+- **Electronic Critical Hits**: Occur when a ship's Electronic Endurance (ElE) reaches zero
 
-| Roll  | System Affected          |
-|-------|--------------------------|
-| 1-3   | Sensors & Comms          |
-| 4-6   | Weapons Systems          |
-| 7-9   | Engine/Propulsion        |
-| 10-12 | IRHEC & Jump Systems     |
-| 13-15 | Power Distribution       |
-| 16-18 | Life Support             |
-| 19-20 | Control Systems          |
+## Critical Hit Resolution Process
+
+### Step 1: Determine System Location
+Roll a d20 and consult the appropriate table based on whether it's an StE or ElE critical hit.
 
 ### Step 2: Determine Severity
-Roll a d4 and add marks spent by the attacker (1 mark = +1 to the roll). 
-If the severity is 4 or higher the IRHEC also suffers a critical effect.
+Roll a d4 for base severity and add the following modifiers:
+- +1 for each mark spent by the attacker
+- +1 for each previous critical hit of the same type (StE or ElE) the ship has sustained
+
+### Step 3: Apply Effects
+Reference the appropriate critical hit effect table and apply the effect matching the severity level.
+
+### Step 4: Track and Update
+Record the critical hit on the ship's status sheet, noting:
+- The affected system
+- Severity level
+- Duration of effects
+- Any ongoing checks required
+
+## Interaction Between StE and ElE Critical Hits
+
+When a ship suffers both types of critical hits:
+
+1. **Independent Resolution**: Resolve each critical hit separately using the appropriate tables
+2. **Stacking Penalties**: If a ship has both StE and ElE critical hits affecting similar systems, apply both penalties
+3. **Complex Repairs**: When attempting to repair a system affected by both types of critical hits, add +2 to the repair TN
+
+## Structural Critical Hit (StE) System
+
+### StE Critical Hit Locations
+Roll d20 to determine which system is affected:
+
+| Roll  | System Affected    |
+|-------|--------------------|
+| 1-3   | Sensors & Comms    |
+| 4-6   | Weapons Systems    |
+| 7-9   | Engine/Propulsion  |
+| 10-12 | IRHEC System       |
+| 13-15 | Power Distribution |
+| 16-18 | Life Support       |
+| 19-20 | Control Systems    |
 
 **Special IRHEC Rule:** If the IRHEC system is hit, determine its charge level:
-- **Empty**: No energy stored means no effect.
+- **Empty**: No energy stored negates the critical hit
 - **Low Charge**: <33% capacity (+1 to severity)
 - **Medium Charge**: 33-66% capacity (+2 to severity)
 - **High Charge**: 67-100% capacity (+3 to severity)
 
-
-**Multiple Hits Rule:** Add +1 to severity for each previous critical hit the ship has sustained.
-
-### Critical Hit Effects By System
+### StE Critical Hit Effects
 
 #### Sensors & Comms (1-3)
 
-| Severity | Effect                                                                                                                                                               |
-|:--------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|    1     | **Signal Degradation**: +2 TN to all sensor checks. Communications limited to short-range.                                                                           |
-|    2     | **Targeting Disruption**: -1 to all weapon targeting checks. Enemy ships gain +1 to their EWDR.                                                                      |
-|    3     | **Scanner Failure**: Auto-fail passive scanning. Active scanning requires a Software check (TN 12) to temporarily restore function.                                  |
-|    4     | **Blackout**: All sensors offline. Communication systems completely disabled. Cannot detect targets beyond visual range.                                             |
-|    5     | **System Burnout**: All sensors and communications permanently disabled until repairs at a shipyard. Cannot perform any sensor or communication actions.             |
-|    6+    | **Cascade Failure**: Sensors explode, causing 2 additional damage to ElE and starting an electrical fire that causes 1 damage to StE per segment until extinguished. |
+| Severity | Effect                                                                                                                                                                                                                                                              |
+|:--------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Signal Interference**: Minor static in communications. +1 TN to sensor checks for 10 minutes.                                                                                                                                                                     |
+|    2     | **Signal Degradation**: +2 TN to all sensor checks. Communications limited to short-range for 30 minutes.                                                                                                                                                           |
+|    3     | **Targeting Disruption**: -1 to all weapon targeting checks. Enemy ships gain +1 to their EWDR for 1 hour.                                                                                                                                                          |
+|    4     | **Scanner Failure**: Auto-fail passive scanning. Active scanning requires a Hardware check (TN 12) to temporarily restore function for 5 minutes.                                                                                                                   |
+|    5     | **Blackout**: All sensors offline. Communication systems completely disabled for 2 hours. Cannot detect targets beyond visual range.                                                                                                                                |
+|    6     | **System Burnout**: All sensors and communications permanently disabled until major repairs are conducted (1 day at a proper facility).                                                                                                                             |
+|    7     | **Cascade Failure**: Sensors explode, causing 2 ElE damage and starting an electrical fire that must be extinguished with a Hardware check (TN 14) within 5 minutes or a new critical hit occurs.                                                                   |
+|    8     | **System Meltdown**: Catastrophic failure spreads through the sensor suite. Creates an ElE leak causing 1 ElE damage every 10 minutes until repaired (Hardware TN 16, 3 successes). Additionally, all navigation and targeting systems suffer +4 TN until repaired. |
 
 #### Weapons Systems (4-6)
 
-| Severity | Effect                                                                                                                                                |
-|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Targeting Glitch**: All weapon checks have their TN increased by 2.                                                                                 |
-|    2     | **Power Fluctuation**: One weapon system (attacker's choice) disabled until repaired with a Hardware check (TN 8).                                    |
-|    3     | **Ammunition Feed Failure**: Rate of fire reduced. Can only fire one weapon per segment.                                                              |
-|    4     | **Weapon Overload**: Random weapon system disabled. Attempting to use it causes 2 damage to ElE.                                                      |
-|    5     | **Critical Malfunction**: All weapons disabled. Any attempt to force-fire has a 50% chance of causing 2 StE damage to the ship.                       |
-|    6+    | **Catastrophic Detonation**: Weapons system explodes, causing d4 additional damage to StE and potentially igniting any loaded ammunition or missiles. |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Misalignment**: +1 TN to all weapon checks for 10 minutes. |
+| 2 | **Targeting Glitch**: All weapon checks have their TN increased by 2 for 30 minutes. |
+| 3 | **Power Fluctuation**: One weapon system (attacker's choice) disabled for 1 hour or until repaired with a Hardware check (TN 8). |
+| 4 | **Ammunition Feed Failure**: Rate of fire reduced. Can only fire one weapon per minute for 2 hours. |
+| 5 | **Weapon Overload**: Random weapon system disabled. Attempting to use it causes 2 ElE damage. Requires 4 hours of repairs to restore. |
+| 6 | **Critical Malfunction**: All weapons disabled for 6 hours. Any attempt to force-fire requires a Hardware check (TN 14) or causes ElE damage equal to the weapon's penetration value divided by 4. |
+| 7 | **Catastrophic Detonation**: Weapons system explodes, requiring all crew in that section to make a Nimbleness check (TN 14) or suffer 2d6 PhE damage. Weapons remain offline for 12 hours. |
+| 8 | **Ammunition Chain Reaction**: All loaded ammunition begins to detonate. Ship suffers a new critical hit every minute for 1d4 minutes. All weapons permanently disabled until docked at a repair facility. |
 
 #### Engine/Propulsion (7-9)
 
-| Severity | Effect                                                                                                                                                                        |
-|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Thruster Imbalance**: +2 TN to all pilot maneuver checks. Maximum acceleration reduced by 1G.                                                                               |
-|    2     | **Coolant Leak**: Engine efficiency reduced. Maximum acceleration reduced by 2G. Attempting to exceed causes 1 StE damage per segment.                                        |
-|    3     | **Drive Fluctuation**: Ship occasionally lurches unpredictably. All crew must make Nimbleness check (TN 8) when performing precise actions or be disrupted.                   |
-|    4     | **Critical Drive Failure**: Maximum acceleration reduced to 1G. Sudden maneuvers require a Hardware check (TN 10) or the engine stalls completely.                            |
-|    5     | **Engine Seizure**: Propulsion systems offline. Ship continues on current vector until repaired with an extended Hardware check (3 successes, TN 12).                         |
-|    6+    | **Core Breach**: Engine begins to overload. Ship will explode in d6 segments unless the engine is ejected or completely powered down (requiring 3 Hardware successes, TN 14). |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Thruster Imbalance**: +1 TN to all pilot maneuver checks for 10 minutes. |
+| 2 | **Thruster Imbalance**: +2 TN to all pilot maneuver checks. Maximum acceleration reduced by 1G for 30 minutes. |
+| 3 | **Coolant Leak**: Engine efficiency reduced. Maximum acceleration reduced by 2G for 1 hour. Attempting to exceed causes 1 ElE damage per minute. |
+| 4 | **Drive Fluctuation**: Ship occasionally lurches unpredictably for 2 hours. All crew must make Nimbleness check (TN 8) when performing precise actions or be disrupted. |
+| 5 | **Critical Drive Failure**: Maximum acceleration reduced to 1G for 4 hours. Sudden maneuvers require a Hardware check (TN 10) or the engine stalls for 1 minute. |
+| 6 | **Engine Seizure**: Propulsion systems offline for 6 hours. Ship continues on current vector until repaired with an extended Hardware check (3 successes, TN 12). |
+| 7 | **Core Breach Warning**: Engine begins to overheat. Ship must reduce acceleration to zero within 10 minutes or suffer a severity 8 critical hit. Requires 12 hours of repairs to fully restore. |
+| 8 | **Catastrophic Core Breach**: Engine suffers complete meltdown. Ship will explode in 5 minutes unless the engine is ejected or completely powered down (requiring 3 Hardware successes, TN 14). All occupants must evacuate or face certain death. |
 
-#### IRHEC & Jump Systems (10-12)
+#### IRHEC System (10-12)
 
-| Severity | Effect                                                                                                                                                                                                                                                                                                                       |
-|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Energy Fluctuation**: System diagnostics show instability. Jump calculations take 25% longer. Charge level drops by 10%.                                                                                                                                                                                                   |
-|    2     | **Containment Stress**: Energy containment fields experiencing strain. 20% chance per segment of discharging 1d6% of stored energy. Engineering crew feels static electricity in the air.                                                                                                                                    |
-|    3     | **Bleed Effect**: Energy bleeds into surrounding systems. Ship-wide electronics occasionally glitch. Anyone in the IRHEC chamber takes 1 PhE damage per minute from radiation. Charge level drops by 25%.                                                                                                                    |
-|    4     | **Partial Containment Breach**: IRHEC begins losing stability. Requires a Hardware check (TN 12) every segment or discharge 2d10% of stored energy. Each discharge causes 1 ElE damage.                                                                                                                                      |
-|    5     | **Major Containment Failure**: Energy discharges are visible throughout the ship. Emergency protocols automatically begin venting energy to prevent catastrophic failure. IRHEC loses 3d10% charge per segment and causes 1 StE damage per segment until stabilized (Hardware check TN 14, 2 successes) or fully discharged. |
-|    6     | **Critical Overload Warning**: IRHEC containment systems at breaking point. Ship AI initiates emergency venting. Unless manually overridden (Hardware TN 16), IRHEC will emergency discharge all energy in a controlled but wasteful process. If overridden, roll d6 each segment: on 1-2, IRHEC explodes (see severity 8+). |
-|    7     | **Imminent Catastrophic Failure**: IRHEC containment failing. Must be stabilized (Hardware TN 18, 3 successes) or jettisoned within d3 segments. If jettisoned, the IRHEC will explode outside the ship 1d6 segments later, damaging anything within near range.                                                             |
-|    8+    | **Catastrophic Energy Release**: The IRHEC explodes spectacularly. Ship suffers 3d6 StE and 3d6 ElE damage. Any nearby systems or ships (close quarter range) take 2d6 damage from the energy wave. All energy is lost.                                                                                                      |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Energy Fluctuation**: Jump calculations take 25% longer. Charge level drops by 5%. Effects last 10 minutes. |
+| 2 | **Energy Fluctuation**: System diagnostics show instability. Jump calculations take 25% longer. Charge level drops by 10%. Effects last 30 minutes. |
+| 3 | **Containment Stress**: Energy containment fields experiencing strain for 1 hour. 20% chance per minute of discharging 1d6% of stored energy. Engineering crew feels static electricity in the air. |
+| 4 | **Bleed Effect**: Energy bleeds into surrounding systems for 2 hours. Ship-wide electronics occasionally glitch. Anyone in the IRHEC chamber takes 1 PhE damage per minute from radiation. Charge level drops by 25%. |
+| 5 | **Partial Containment Breach**: IRHEC begins losing stability. Requires a Hardware check (TN 12) every 5 minutes for 1 hour or discharge 2d10% of stored energy. Each discharge causes 1 ElE damage. |
+| 6 | **Major Containment Failure**: Energy discharges are visible throughout the ship. Emergency protocols automatically begin venting energy to prevent catastrophic failure. IRHEC loses 3d10% charge per 10 minutes and causes 1 ElE damage per 10 minutes until stabilized (Hardware check TN 14, 2 successes) or fully discharged. |
+| 7 | **Critical Overload Warning**: IRHEC containment systems at breaking point. Ship AI initiates emergency venting. Unless manually overridden (Hardware TN 16), IRHEC will emergency discharge all energy in a controlled but wasteful process taking 30 minutes. If overridden, roll d6 every 5 minutes: on 1-2, IRHEC explodes (see severity 8). |
+| 8 | **Catastrophic Energy Release**: The IRHEC explodes spectacularly. Ship suffers 3d6 ElE damage. Any nearby systems or ships (close quarter range) take 2d6 ElE damage from the energy wave. All energy is lost and IRHEC is completely destroyed. |
 
 #### Power Distribution (13-15)
 
-| Severity | Effect                                                                                                                                                |
-|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Power Fluctuation**: Lights flicker. Random system temporarily powers down each segment.                                                            |
-|    2     | **Circuit Damage**: -1 to all ship action checks due to unreliable power. Non-essential systems automatically shut down.                              |
-|    3     | **Grid Failure**: Only critical systems operational. Secondary systems (including non-essential weapons) shut down.                                   |
-|    4     | **Overload Cascade**: Random critical system shuts down each segment. Requires a Hardware check (TN 10) to manually reroute power.                    |
-|    5     | **Core Shutdown**: Main power offline. Emergency systems only. Ship operates on battery backup with minimum life support for d6 hours.                |
-|    6+    | **Reactor Breach**: Power core begins to meltdown. Ship will lose all power in d4 segments, followed by catastrophic reactor breach if not contained. |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Power Fluctuation**: Lights flicker momentarily. Random non-essential system temporarily powers down for 1d4 minutes. |
+| 2 | **Power Fluctuation**: Lights flicker. Random system temporarily powers down every 10 minutes for 1 hour. |
+| 3 | **Circuit Damage**: -1 to all ship action checks due to unreliable power for 2 hours. Non-essential systems automatically shut down. |
+| 4 | **Grid Failure**: Only critical systems operational for 4 hours. Secondary systems (including non-essential weapons) shut down. |
+| 5 | **Overload Cascade**: Random critical system shuts down every 10 minutes for 6 hours. Requires a Hardware check (TN 10) to manually reroute power each time. |
+| 6 | **Core Shutdown**: Main power offline for 12 hours. Emergency systems only. Ship operates on battery backup with minimum life support for 24 hours. |
+| 7 | **Reactor Warning**: Power core begins to destabilize. Ship will lose all power in 2 hours unless the reactor is stabilized (Hardware TN 16, 3 successes). |
+| 8 | **Catastrophic Reactor Failure**: Power core suffers complete meltdown. All systems shut down immediately. Reactor will breach in 10 minutes, destroying the ship entirely unless emergency containment procedures are activated (Hardware TN 18, 4 successes). |
 
 #### Life Support (16-18)
 
-| Severity | Effect                                                                                                                                                                   |
-|:--------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Atmosphere Degradation**: Air quality declining. Extended exposure causes -1 to all checks after 4 hours.                                                              |
-|    2     | **Environmental Control Failure**: Temperature regulation failing. Crew suffers -2 to all checks due to extreme heat or cold.                                            |
-|    3     | **Toxic Contamination**: Harmful substances detected in air supply. All crew take 1 PhE damage every hour unless wearing enviro-suits.                                   |
-|    4     | **Critical Systems Failure**: Rapid atmospheric degradation. Crew takes 1 PhE damage every 10 minutes without protection. Zero-G in affected sections.                   |
-|    5     | **Catastrophic Decompression**: One ship section (Suit's choice) experiences explosive decompression. Anyone in that section without a vacuum suit takes 3d6 PhE damage. |
-|    6+    | **Cascading Breach**: Multiple hull breaches. Ship begins losing atmosphere shipwide. All crew must evacuate to survival suits or escape pods within d4 segments.        |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Atmospheric Disturbance**: Momentary pressure drop. No mechanical effect, but discomfort for 10 minutes. |
+| 2 | **Atmosphere Degradation**: Air quality declining. Extended exposure causes -1 to all checks after 4 hours, lasting until air is refreshed. |
+| 3 | **Environmental Control Failure**: Temperature regulation failing for 2 hours. Crew suffers -2 to all checks due to extreme heat or cold. |
+| 4 | **Toxic Contamination**: Harmful substances detected in air supply. All crew take 1 PhE damage every hour for 4 hours unless wearing enviro-suits. |
+| 5 | **Critical Systems Failure**: Rapid atmospheric degradation. Crew takes 1 PhE damage every 10 minutes for 2 hours without protection. Zero-G in affected sections. |
+| 6 | **Catastrophic Decompression**: One ship section (Suit's choice) experiences explosive decompression. Anyone in that section without a vacuum suit takes 3d6 PhE damage. Section remains decompressed until manually repaired (6 hours of work). |
+| 7 | **Life Support Collapse**: Environmental systems begin cascading failure. All crew must don survival suits within 30 minutes or begin taking 1 PhE damage every minute. Systems require 12 hours of repairs. |
+| 8 | **Cascading Breach**: Multiple hull breaches across the ship. Ship begins losing atmosphere shipwide at an alarming rate. All crew must evacuate to survival suits or escape pods within 5 minutes or face certain death. Ship is effectively disabled until major shipyard repairs. |
 
 #### Control Systems (19-20)
 
-| Severity | Effect                                                                                                                                                                       |
-|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Interface Glitch**: +3 TN to all piloting checks. Ship occasionally executes commands with a delay.                                                                        |
-|    2     | **Navigation Error**: Ship location data corrupted. +4 TN to all navigation checks. 25% chance of calculating incorrect jump coordinates.                                    |
-|    3     | **Control Lockout**: Random ship system becomes unresponsive each segment. Manual override requires a Hardware check (TN 10).                                                |
-|    4     | **System Corruption**: AI and automated systems begin to malfunction. Random system activates or deactivates each segment.                                                   |
-|    5     | **Complete Control Failure**: Bridge controls non-responsive. Ship can only be operated through direct hardware interface in engineering.                                    |
-|    6+    | **Catastrophic System Seizure**: All computerized systems lock up. Ship becomes completely unresponsive to commands and may execute random dangerous maneuvers each segment. |
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Minor Interface Glitch**: Controls respond sluggishly for 10 minutes. +1 TN to all piloting checks. |
+| 2 | **Interface Glitch**: +3 TN to all piloting checks for 30 minutes. Ship occasionally executes commands with a 5-second delay. |
+| 3 | **Navigation Error**: Ship location data corrupted for 1 hour. +4 TN to all navigation checks. 25% chance of calculating incorrect jump coordinates. |
+| 4 | **Control Lockout**: Random ship system becomes unresponsive every 10 minutes for 2 hours. Manual override requires a Hardware check (TN 10). |
+| 5 | **System Corruption**: AI and automated systems begin to malfunction for 4 hours. Random system activates or deactivates every 15 minutes. |
+| 6 | **Complete Control Failure**: Bridge controls non-responsive for 6 hours. Ship can only be operated through direct hardware interface in engineering. |
+| 7 | **Control System Collapse**: Advanced control systems shut down completely. All computerized systems revert to manual operation only for 12 hours, requiring a crew member's constant attention for each system. |
+| 8 | **Catastrophic System Seizure**: All computerized systems lock up completely. Ship becomes completely unresponsive to commands and may execute random dangerous maneuvers every minute. Only complete power shutdown will stop the system (Hardware TN 16). Ship requires major shipyard repairs before being operational again. |
 
-### Emergency Procedures
+## Electronic Critical Hit (ElE) System
+
+### ElE Critical Hit Locations
+Roll d20 to determine which electronic system is affected:
+
+| Roll  | System Affected            |
+|-------|----------------------------|
+| 1-4   | Navigation & Guidance      |
+| 5-8   | Weapons Control            |
+| 9-12  | Sensor & Communications    |
+| 13-16 | Life Support Controls      |
+| 17-18 | Power Management           |
+| 19-20 | IRHEC Containment Systems  |
+
+### ElE Critical Hit Effects
+
+#### Navigation & Guidance (1-4)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Navigation Lag**: +2 TN to all Navigation and Pilot checks for 10 minutes. Ship responds sluggishly to input. |
+| 2 | **Positioning Error**: Ship's position data becomes unreliable. +3 TN to all Navigation checks for 30 minutes. Any jump calculations have a 10% chance of minor error. |
+| 3 | **Autopilot Malfunction**: Automated navigation systems fail for 1 hour. All maneuvers must be performed manually with +2 TN to Pilot checks. |
+| 4 | **Coordinate System Failure**: Ship's navigational database corrupted for 2 hours. All jump calculations have a 25% chance of significant error. +4 TN to Navigation checks. |
+| 5 | **Thruster Control Fault**: Maneuvering thrusters fire randomly for 4 hours. Ship drifts off course by 1d6% per hour unless actively corrected. Requires Pilot check (TN 10) every 30 minutes to maintain course. |
+| 6 | **Jump Calculator Corruption**: Stellar projector jump calculations are impossible for 6 hours. Any emergency jumps have a 50% chance of sending the ship to a random location within 50% of the intended distance. |
+| 7 | **Navigational Blackout**: All navigational data lost for 12 hours. Ship must rely on visual navigation only. Jump plotting impossible without complete recalibration (Hardware TN 14, 3 successes). |
+| 8 | **Flight System Collapse**: Complete control system failure. Ship's thrusters may fire randomly, causing the vessel to tumble. Emergency stabilization requires Hardware check (TN 16) every 5 minutes until systems are reset (minimum 1 hour). 20% chance of progressing to StE critical hit as physical systems are damaged by erratic movement. |
+
+#### Weapons Control (5-8)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Targeting Interface Glitch**: +2 TN to all weapon targeting checks for 10 minutes. |
+| 2 | **Weapon Response Delay**: All weapons fire with a 1-2 second delay for 30 minutes. +3 TN to hit moving targets. |
+| 3 | **Targeting Computer Reset**: Automated targeting systems go offline for 1 hour. All targeting must be done manually at +3 TN. |
+| 4 | **Weapon System Lockout**: Random weapon system becomes unresponsive for 2 hours. Attempts to force fire require a Software check (TN 12) and have a 25% chance of causing feedback damage (1 ElE). |
+| 5 | **Ammunition Management Error**: Ammunition feed becomes unreliable for 4 hours. Each time weapons are fired, roll d6: on 1-2, weapon jams and requires a Hardware check (TN 10) to clear. |
+| 6 | **Friend/Foe Recognition Failure**: Targeting systems cannot distinguish friend from foe for 6 hours. Targeting allied vessels requires Software check (TN 8) to override safety protocols. 10% chance targeting friendly objects automatically. |
+| 7 | **Weapons Safety Protocol Malfunction**: All weapons either lock down completely OR fire uncontrollably (50% chance of either) for 12 hours. Regaining control requires Software check (TN 14, 3 successes). |
+| 8 | **Catastrophic Fire Control Failure**: Weapons may discharge randomly, targeting using corrupted algorithms. Each weapon has a 10% chance per hour of firing at a random target (friend or foe). Risk of ammunition detonation (25% chance of progressing to StE critical hit). Requires complete system reset (24 hours) to fix. |
+
+#### Sensor & Communications (9-12)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Sensor Noise**: Static interference on all sensor readouts. +2 TN to all sensor checks for 10 minutes. |
+| 2 | **Communications Disruption**: Short-range communications experience 30% signal loss for 30 minutes. Long-range communications require Software check (TN 8) to establish. |
+| 3 | **Data Interpretation Error**: Sensor data becomes unreliable for 1 hour. 20% chance of false positives/negatives on any scan. +3 TN to all sensor interpretation checks. |
+| 4 | **Communications Encryption Failure**: All communications are unsecured for 2 hours. Enemy EWAR has +2 to interception attempts. Secure communications require Software check (TN 12). |
+| 5 | **Sensor Array Reboot**: Primary sensor systems shut down for 4 hours. Ship relies on backup sensors with 50% reduced range and +4 TN to all sensor checks. |
+| 6 | **Communications Blackout**: All external communications impossible for 6 hours. Internal communications limited to hardwired systems only. |
+| 7 | **Holographic Systems Failure**: All display systems generate corrupted or hallucinatory data for 12 hours. Sensor interpretation requires Software check (TN 14) to distinguish reality from artifact. |
+| 8 | **Catastrophic Electronic Intelligence Failure**: Sensor systems go haywire, flooding crew with false data and triggering phantom alerts. Communications systems broadcast gibberish or classified data randomly. Recovery requires complete system reset (24 hours). 15% chance of progressing to StE critical hit as automated responses to phantom threats engage physical systems. |
+
+#### Life Support Controls (13-16)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Air Circulation Irregularity**: Ventilation systems function erratically for 10 minutes. No mechanical effect but causes discomfort. |
+| 2 | **Temperature Regulation Glitch**: Ship temperature fluctuates uncomfortably for 30 minutes. No mechanical penalty but crew is distracted. |
+| 3 | **Atmospheric Monitoring Failure**: Life support systems unable to detect atmospheric contaminants for 1 hour. Any actual contamination goes unnoticed unless obvious to human senses. |
+| 4 | **Gravity Control Fluctuation**: Artificial gravity fluctuates between 0.8-1.2G for 2 hours. All physical tasks suffer +2 TN due to disorientation. |
+| 5 | **Lighting Control Failure**: Ship lighting malfunctions for 4 hours, randomly dimming, brightening or changing color. All visual tasks suffer +2 TN penalty. |
+| 6 | **Pressurization Control Error**: Air pressure fluctuates within safe but uncomfortable levels for 6 hours. Crew suffers -1 to all checks due to discomfort and occasional vertigo. |
+| 7 | **Life Support Emergency Shutdown**: Life support systems enter emergency power-saving mode for 12 hours, reducing oxygen regeneration and temperature control to minimum levels. Extended operations require crew to wear survival suits or suffer 1 PhE damage per 4 hours. |
+| 8 | **Critical Life Support Failure**: All automated life support systems fail. Manual override required every hour (Hardware TN 14) to maintain habitable conditions. Without intervention, ship becomes uninhabitable within 4 hours. 30% chance of progressing to StE critical hit as physical systems (airlocks, pressure doors, etc.) malfunction. |
+
+#### Power Management (17-18)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Power Fluctuation**: Minor power surges for 10 minutes. Lights flicker occasionally. No mechanical effect. |
+| 2 | **Circuit Overload**: Random non-essential system shuts down every 30 minutes for 1 hour. Restart requires Software check (TN 6). |
+| 3 | **Power Regulation Failure**: All electronic systems draw 20% more power than normal for 1 hour. Non-essential systems automatically power down to compensate. |
+| 4 | **Grid Segmentation Error**: Power cannot be properly routed between ship sections for 2 hours. Each section operates on isolated power. Transfer of power between sections requires Hardware check (TN 10). |
+| 5 | **Emergency Power Mismanagement**: Emergency power systems fail to activate properly when needed for 4 hours. When main power fails, 1d4 minute delay before emergency power engages. |
+| 6 | **Power Surge Cascade**: Random power surges throughout the ship for 6 hours. Each hour, roll d6: on 1, a random electronic system suffers 1 ElE damage from surge. |
+| 7 | **Main Reactor Interface Failure**: Ship unable to properly regulate reactor output for 12 hours. Power levels fluctuate wildly. All electronic systems have a 20% chance of temporarily failing when used. |
+| 8 | **Catastrophic Power Management Failure**: Complete breakdown of power distribution systems. Ship experiences blackouts, surges, and dangerous feedback loops. Essential systems have emergency backup, but all non-essential systems fail. 40% chance of progressing to StE critical hit as power surges damage physical components. Requires 24 hours to completely rewire ship's power management. |
+
+#### IRHEC Containment Systems (19-20)
+
+| Severity | Effect |
+|:--------:|--------|
+| 1 | **Containment Field Fluctuation**: Minor instability in IRHEC containment for 10 minutes. Jump calculations take 10% longer. No immediate danger. |
+| 2 | **Monitoring System Failure**: IRHEC diagnostic systems provide unreliable data for 30 minutes. Engineers cannot accurately determine charge level or containment status without Hardware check (TN 8). |
+| 3 | **Containment Harmonics Disruption**: IRHEC containment field vibrates at irregular frequencies for 1 hour. 10% chance per hour of discharging 1d6% of stored energy. |
+| 4 | **Charge Management Failure**: IRHEC charge level becomes unstable for 2 hours. Charge level fluctuates ±10% randomly. Jump calculations have 25% chance of error unless recalibrated (Navigation TN 12). |
+| 5 | **Containment Safety Override**: Automated safety systems for IRHEC malfunction for 4 hours. Any emergency procedures require manual execution with Hardware check (TN 10). |
+| 6 | **Energy Bleed-Through**: Containment field develops microscopic breaches for 6 hours. IRHEC loses 2d6% charge per hour. Anyone in IRHEC chamber experiences mild radiation exposure (1 PhE damage per hour). |
+| 7 | **Critical Containment Algorithm Failure**: IRHEC containment field begins to destabilize for 12 hours. Without constant monitoring (Hardware check TN 14 every hour), 30% chance of severity 8 result. IRHEC cannot be safely charged above 50% capacity. |
+| 8 | **Catastrophic Containment Collapse**: IRHEC containment systems fail completely. Without immediate intervention (Hardware TN 16, 3 successes within 10 minutes), the IRHEC will discharge catastrophically. 75% chance of progressing to StE critical hit on the IRHEC System as stored energy is violently released. |
+
+## Emergency Procedures
+
+### StE Emergency Procedures
 
 #### IRHEC Emergency Options
 
 ##### Emergency Venting
 - **Action**: Engineer can initiate emergency venting procedure
 - **Check**: Hardware TN 12
-- **Effect**: Vents energy harmlessly over 1d6 segments
+- **Effect**: Vents energy harmlessly over 10-30 minutes
 - **Cost**: All stored energy is lost
 - **Benefit**: Prevents catastrophic failure
 
@@ -6231,215 +6475,32 @@ If the severity is 4 or higher the IRHEC also suffers a critical effect.
 - **Effect**: Maintains functionality of critical systems
 - **Risk**: Overloads may cause additional ElE damage
 
-### Sensor & Electronic Warfare
+### ElE Emergency Procedures
 
-#### EWAR against weapons
+#### System Reboot
+- **Action**: Engineer performs complete shutdown and restart of affected electronic system
+- **Check**: Software TN 10 + severity
+- **Effect**: Temporarily restores functionality for 10 minutes per success
+- **Limitation**: System will fail again after temporary restoration unless properly repaired
 
-As most, if not all systems depend on sensory data to to identify,
-track, and hit their target these systems can be fooled and attacked.
-Once the guiding and positioning systems are out of order the weapons
-are blind and will miss the target. Most weapons have an electronic
-warfare attack rating or EWAR.
+#### Electronic Isolation
+- **Action**: Engineer isolates corrupted electronic systems to prevent spread
+- **Check**: Software TN 12
+- **Effect**: Prevents cascade to other electronic systems
+- **Cost**: Isolated system remains non-functional until repaired
 
-The targeted vessel can try an opposed check \<Software/Electronic
-Warfare\> of the EW Operator against \<EWAR\> of the weapon. If the
-vessel succeds then the weapon misses its target.
+#### Data Reconstruction
+- **Action**: Engineer attempts to rebuild corrupted data or firmware
+- **Check**: Software TN 14, requires 2 successes for full recovery
+- **Effect**: Restores electronic systems to functional state
+- **Limitation**: Takes 1 hour per severity level
 
-The ship itself and its subcomponents can have an electronic warfare
-defence rating (EWDR) for passive.
-
-#### Sensor Operations
-
-Sensor operations in space combat are crucial for gaining battlefield
-awareness, identifying threats, and enabling successful engagement
-strategies. The sensor operator\'s role is to interpret and manipulate
-the ship\'s sensor suite, ensuring optimal detection and targeting
-capabilities. This process involves a combination of passive and active
-scanning methods, balancing the need for information with the risk of
-revealing the ship's position. Scanning operations can influence the
-entire course of a battle by detecting enemy ships, identifying
-weaknesses, and providing essential data for tactical decisions.
-
-##### Passive Scanning
-
-Passive scanning involves the detection and analysis of external signals
-without emitting any detectable radiation or energy, keeping the vessel
-hidden from enemy sensors. This method relies on the ship\'s ability to
-pick up and interpret various electromagnetic waves, thermal signatures,
-and other emissions from the surrounding environment.
-
-###### Initiating Passive Scan
-
-The sensor operator begins a passive scan by utilizing the ship's
-advanced sensor arrays to sift through ambient signals. This is done
-with a \<Software/Sensor Operations\> check, compared against the Signal
-Rating (SiR) of any potential targets. The difficulty of this check is
-influenced by the distance to the target and any environmental factors
-such as nebulae or asteroid fields.
-
-###### Outcome of Passive Scanning
-
-Successful passive scanning provides the ship with information about the
-general location, speed, and possible classification of other vessels or
-objects without giving away its position. However, the information
-gathered is less detailed than with active scanning. Passive scanning is
-ideal for maintaining stealth while gathering critical data at longer
-distances.
-
-###### Modifiers and Considerations
-
-Distance: The farther the target, the harder it is to gather detailed
-information. Use the established Space Range (SR) categories to adjust
-the TN for passive scans.
-
-Environment: Dense asteroid fields, nebulae, or debris can both hinder
-and aid passive scanning. The Suit may assign TN modifiers based on
-these conditions, making scans more challenging or easier depending on
-the circumstances.
-
-##### Active Scanning
-
-Active scanning involves emitting energy, such as radar or LIDAR pulses,
-to probe the surrounding space. This method is far more precise but
-comes with the risk of alerting enemies to the ship's presence and
-location.
-
-###### Initiating Active Scan
-
-The sensor operator performs an active scan by directing the ship's
-sensor systems to send out a pulse of energy and then analysing the
-returned signals. This requires a \<Software/Sensor Operations\> check,
-with the TN adjusted based on the ship's Signal Rating (SiR) and the
-target's defensive capabilities, such as sensor jamming or stealth
-technology.
-
-###### Outcome of Active Scanning
-
-Active scanning provides detailed information about the target,
-including exact location, velocity, and potentially even identifying
-weaknesses or specific systems. This level of detail is critical for
-precise targeting and tactical planning. However, using active scanning
-means the ship's position is likely to be revealed to any vessels within
-scanning range.
-
-###### Risk and Reward
-
-Active scanning dramatically increases the ship's SiR, making it easier
-for enemies to detect and engage. The Suit may set stakes where active
-scans result in the ship being automatically detected.
-
-##### Post-Scan Analysis
-
-After conducting a scan, the sensor operator may perform an additional
-\<Software/Sensor Operations\> check to refine the data, reducing
-uncertainties or identifying patterns that might not be immediately
-obvious. This can lead to bonuses on subsequent tactical or engagement
-checks, depending on the clarity and accuracy of the gathered
-information.
-
-##### Interpreting Data
-
-The data gathered from both passive and active scans must be interpreted
-and relayed to the crew, influencing decisions such as weapon
-deployment, maneuvering, or even retreat. The sensor operator plays a
-crucial role in this process, ensuring that the information is accurate
-and actionable.
-
-##### Tactical Application
-
-The results of scanning operations directly affect the ship\'s tactical
-decisions. Detailed scans can allow the crew to exploit weaknesses,
-avoid ambushes, or gain a critical advantage in positioning. Conversely,
-failed or ineffective scans might leave the vessel vulnerable to
-surprise attacks or strategic blunders.
-
-### Engineering and Damage Controll
-
-#### Emergency Repairs
-
-Most vessels are equipped with automated repair systems enabling
-prolonged survival on timeintensiv missions or in combat situations.
-These systems are controlled by an operator skilled in \<Hardware\>. He
-is overseeing the repair bots, priorisation, and execution of damage
-control. The Emergency Repair systems have a limit in how fast, how
-often ond how efficient they operate. A check is done with \<Hardware\>
-against a moderate difficulty (TN 6), all marks achieved may be added to
-StE up to its maximum value. Check upon your optional ship attributes
-for Emergency Repair Systems.
-
-Guardian SRU
-
-The guradian SRU (Structural Repair Unit) is able to autonomously repair
-damage to the vessels systems and structure. this is achieved over a
-diverse swarm of drones of various sizes that can be directed and
-orchestrated by a skilled engineer. It can repair 1 StE per mark
-achieved in a hardware test. This can be done every 10 minutes. A
-maximum of 10 StE can be repaired before the system has to be recharged,
-taking about a day to do.
-
-#### Emergency Power Rerouting
-
-During combat, an engineer can attempt to redirect power from
-non-essential systems to boost critical ones. This involves bypassing
-safety protocols and overloading power conduits to achieve temporary
-performance gains. The process puts significant strain on the ship\'s
-systems but can provide crucial advantages in desperate situations.
-
-The engineer makes a \<Hardware\> check against TN 8. Each mark achieved
-allows them to boost one ship system (weapons, sensors, or drives) for
-one combat segment, providing a +2 bonus to checks using that system.
-However, at the end of the segment, the ship takes 1 point of Electronic
-Endurance (ElE) damage per boosted system as circuits and power relays
-cool down.
-
-This power boost cannot be maintained indefinitely - repeated use on the
-same systems increases the TN by 2 each time until those systems have
-time to fully recover.
-
-#### System Stabilization
-
-When ship systems are under stress from combat damage or power
-fluctuations, an engineer can work to stabilize them before catastrophic
-failure occurs. This involves quickly diagnosing problems and
-implementing emergency protocols to prevent cascade failures.
-
-The engineer makes a \<Hardware\> check against TN 6. Success prevents
-the loss of 1 ElE or StE point (engineer\'s choice) that would otherwise
-occur this segment due to system stress or damage. Additional marks can
-be spent to stabilize additional points of endurance. This does not
-restore lost endurance but prevents further deterioration, giving the
-crew time to implement more permanent repairs.
-
-### Command and Coordination
-
-#### Ready vessel for combat
-
-There are some considerations for the crew of a vessel to prepare for
-combat. Most basic is the activation of the weapons protocols. This is
-readying the Point Defense Weapons to react on potential threats,
-activating missile targeting solutions. Nothing to sweat about.
-
-Deeper consideration should be given to three points.
-
-Decompression of the vessel makes it less prone to explosive
-decompression after taking a major hit. All the atmosphere will be
-pumped into high pressure tanks and stored. So unless these tanks take
-damage there is no danger. It requires the complete crew to done
-environmental suits. Some ships have the ability to to partial
-decompression.
-
-There are two sides to discharging IRHEC. On the one hand, the sheer
-amount of energy in the IRHEC and its susceptibility to damage makes it
-dangerous in a combat situation, sometimes leading to massive energy
-discharges that wipe out most of the ship. But it also means that there
-is no way to make an emergency jump using the stellar generator if the
-IRHEC is empty. So it is a compromise that needs to be planned for.
-
-Active and passive reconnaissance are necessary to gain battlefield
-awareness. Systems sending out electromagnetic radiation like radar will
-give away the presence and possible position, making it easier for enemy
-ships to pinpoint and engage the vessel. So it is a balance between
-stealth and awareness that can be taken.
+#### Emergency Override
+- **Action**: Engineer attempts to bypass electronic safety systems
+- **Check**: Hardware TN 12
+- **Effect**: Forces system to function despite electronic failure
+- **Risk**: 30% chance of causing 1 StE damage as physical systems operate outside safe parameters
+- **Limitation**: Only works for 10 minutes per success
 
 
 
@@ -7086,8 +7147,8 @@ get a feel for the ship.
 
 The time will come the characters will pin down Dao and his son
 Jonathan. Dao will try to interposition himself between the threat and
-his son. He will not go down without a fight and utilize his last line
-of defense, opening the Vial of bottled Darkness. Instantly the
+his son. He will not go down without a fight and use his last line
+of defence, opening the Vial of bottled Darkness. Instantly the
 temperature will drop and darkness decend like a night with a full moon.
 From the shadows nightmarish creatures emerge clawing their ways into
 the souls of all aboard the Starspear without protection, namely Dao and
@@ -7103,15 +7164,15 @@ boy behind?
 
 Having completed the mission the characters should return to their home
 base for debriefing. They are to hand over the suitcase and the captives
-Dao, Dingerman and, if aprehended, Jonathan Dao to the caring hands of
+Dao, Dingerman and, if apprehended, Jonathan Dao to the caring hands of
 their employer.
 
 It will be Mr. Uhl in the same little briefing room they started out
 where they will be interviewed about the actions taken on the way to
-acertain the mission goal.
+accertain the mission goal.
 
 There will be individual interviews later on regarding the circumstances
-on the Starspear and in paticular the decending Darkness of the Vial.
+on the Starspear and in particular the descending Darkness of the Vial.
 They will also explicitly asked if they opened the suitcase and
 inspected the contents. There will be reprimands if they did so.
 
@@ -7119,8 +7180,8 @@ inspected the contents. There will be reprimands if they did so.
 
 ## Isaac Fender
 
-Isaac Fender is a man in his middle 40s. He is a small person which is
-slightly overweight. His brittle hair starts to get lighter and is
+Isaac Fender is a man in his middle 40s. He is a person of small stature
+who is slightly overweight. His brittle hair starts to get lighter and is
 trimmed short. His features are homely and friendly, he himself has a
 high self-esteem.
 
