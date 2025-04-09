@@ -177,38 +177,6 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
   * [Handling Game Knowledge and Realism](#handling-game-knowledge-and-realism)
   * [Character Integration and Development](#character-integration-and-development)
   * [Respecting Player Sensitivities](#respecting-player-sensitivities)
-* [The Suits Secrets](#the-suits-secrets)
-  * [The Thing Between the Fabric](#the-thing-between-the-fabric)
-    * [Continuous Influence on Civilization](#continuous-influence-on-civilization)
-    * [The Stellar Projectors: Catalysts of Power](#the-stellar-projectors-catalysts-of-power)
-    * [Renaissance of the Occult](#renaissance-of-the-occult)
-    * [Religious Upheaval and Recognition](#religious-upheaval-and-recognition)
-    * [Corporate Ambition](#corporate-ambition)
-    * [Agents of Darkness](#agents-of-darkness)
-    * [The New Cosmic Order](#the-new-cosmic-order)
-  * [Cults](#cults)
-    * [Sisterhood of the Black Tongue](#sisterhood-of-the-black-tongue)
-  * [Themes of Horror](#themes-of-horror)
-    * [Terrifying Experiments](#terrifying-experiments)
-      * [Categories and Instances of Experiments](#categories-and-instances-of-experiments)
-        * [Hybridization of Human and Alien DNA](#hybridization-of-human-and-alien-dna)
-        * [Consciousness Transfer and Creation](#consciousness-transfer-and-creation)
-        * [Enhancement of Pain Tolerance](#enhancement-of-pain-tolerance)
-        * [Neural Manipulation and Domination](#neural-manipulation-and-domination)
-        * [Experiments in Dimensional Tearing](#experiments-in-dimensional-tearing)
-        * [Unleashing Latent Psychic Abilities](#unleashing-latent-psychic-abilities)
-        * [Conclusion](#conclusion-12)
-    * [Occult Experiments](#occult-experiments)
-      * [Diving into the Unknown: Types and Tales of Experiments](#diving-into-the-unknown-types-and-tales-of-experiments)
-        * [Ritualistic Research](#ritualistic-research)
-        * [Esoteric Bio-Engineering](#esoteric-bio-engineering)
-        * [Astral Projection Trials](#astral-projection-trials)
-        * [Occult-Driven AI Development](#occult-driven-ai-development)
-      * [Conclusion](#conclusion-13)
-  * [Dark Rituals](#dark-rituals)
-    * [The Atrum Echo](#the-atrum-echo)
-    * [The Withering](#the-withering)
-    * [Vial of bottled Darkness](#vial-of-bottled-darkness)
 * [Gear](#gear)
   * [General Gear](#general-gear)
       * [Advanced Mechanical Toolkit](#advanced-mechanical-toolkit)
@@ -566,6 +534,38 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
   * [Drug Treatment of Effects](#drug-treatment-of-effects)
   * [Recovering Mental Degradation](#recovering-mental-degradation)
   * [A Note on Mental Health](#a-note-on-mental-health)
+* [The Suits Secrets](#the-suits-secrets)
+  * [The Thing Between the Fabric](#the-thing-between-the-fabric)
+    * [Continuous Influence on Civilization](#continuous-influence-on-civilization)
+    * [The Stellar Projectors: Catalysts of Power](#the-stellar-projectors-catalysts-of-power)
+    * [Renaissance of the Occult](#renaissance-of-the-occult)
+    * [Religious Upheaval and Recognition](#religious-upheaval-and-recognition)
+    * [Corporate Ambition](#corporate-ambition)
+    * [Agents of Darkness](#agents-of-darkness)
+    * [The New Cosmic Order](#the-new-cosmic-order)
+  * [Cults](#cults)
+    * [Sisterhood of the Black Tongue](#sisterhood-of-the-black-tongue)
+  * [Themes of Horror](#themes-of-horror)
+    * [Terrifying Experiments](#terrifying-experiments)
+      * [Categories and Instances of Experiments](#categories-and-instances-of-experiments)
+        * [Hybridization of Human and Alien DNA](#hybridization-of-human-and-alien-dna)
+        * [Consciousness Transfer and Creation](#consciousness-transfer-and-creation)
+        * [Enhancement of Pain Tolerance](#enhancement-of-pain-tolerance)
+        * [Neural Manipulation and Domination](#neural-manipulation-and-domination)
+        * [Experiments in Dimensional Tearing](#experiments-in-dimensional-tearing)
+        * [Unleashing Latent Psychic Abilities](#unleashing-latent-psychic-abilities)
+        * [Conclusion](#conclusion-12)
+    * [Occult Experiments](#occult-experiments)
+      * [Diving into the Unknown: Types and Tales of Experiments](#diving-into-the-unknown-types-and-tales-of-experiments)
+        * [Ritualistic Research](#ritualistic-research)
+        * [Esoteric Bio-Engineering](#esoteric-bio-engineering)
+        * [Astral Projection Trials](#astral-projection-trials)
+        * [Occult-Driven AI Development](#occult-driven-ai-development)
+      * [Conclusion](#conclusion-13)
+  * [Dark Rituals](#dark-rituals)
+    * [The Atrum Echo](#the-atrum-echo)
+    * [The Withering](#the-withering)
+    * [Vial of bottled Darkness](#vial-of-bottled-darkness)
 * [Appendix of Tables](#appendix-of-tables)
   * [Weapons](#weapons-2)
     * [Ranged Weapons](#ranged-weapons)
@@ -2166,9 +2166,9 @@ densely travelled sectors, pinpointing specific jumps is challenging.
 Space vessels are the blood of the Abyssal universe. They keep the
 resources flowing and provide transportation through the boundless
 expanses of space. There is almost no end to the forms and functions
-of these vessels, from small hyper efficient race vessels to large deep
-space mining vessels and large, lavish yachts, everything can be found
-between the stars.
+of these vessels, from small hyper efficient race vessels to large
+deep space mining vessels and large, lavish yachts, everything can be
+found between the stars.
 
 In the following sections, we will look at different core components
 of a space vessel to understand their capabilities better.
@@ -2194,7 +2194,7 @@ energy over some time or they can be jettisoned in case of emergency.
 It takes about 3 days to charge up the IRHEC to full jump capacity for
 a medium-sized vessel. A jump drains an IRHEC completely regardless of
 the jump distance or portal opening time. Weirdly the portal sucks all
-energy. 
+energy.
 
 ### Artificial Gravity
 
@@ -2213,9 +2213,9 @@ The Kramer-PAD Drive is the propulsion powerhouse of these
 interstellar vessels. PAD stands for Particle acceleration drive. This
 fusion-based system is ingeniously designed to use plasma acceleration
 for space travel, setting new standards for efficiency and capability.
-With nearly inexhaustible energy from the fusion reactors and inexpensive
-and easy to store propulsion mass, it is possible to maintain high G
-acceleration over long periods of time.
+With nearly inexhaustible energy from the fusion reactors and
+inexpensive and easy to store propulsion mass, it is possible to
+maintain high G acceleration over long periods of time.
 
 For longer journeys nothing beats the stellar projectors, for
 manoeuvring and shorter trips near gravitation wells this drive is
@@ -2257,14 +2257,14 @@ structural damage.
 
 ### Fusion Reactor and Fuel
 
-Each vessel is equipped with a fusion reactor, an
-epitome of energy efficiency and sustainability. The reactor operates
-on a fuel mix of deuterium and tritium, isotopes readily obtainable
-from water reserves or mining operations. Tritium is usually
-stored as Lithium, from which Tritium is bred In the BU or Breeder
-Unit of the reactor. The fusion process is highly efficient, offering
-a long-term energy solution with minimal waste, crucial for the
-sustainability of extended space missions.
+Each vessel is equipped with a fusion reactor, an epitome of energy
+efficiency and sustainability. The reactor operates on a fuel mix of
+deuterium and tritium, isotopes readily obtainable from water reserves
+or mining operations. Tritium is usually stored as Lithium, from which
+Tritium is bred In the BU or Breeder Unit of the reactor. The fusion
+process is highly efficient, offering a long-term energy solution with
+minimal waste, crucial for the sustainability of extended space
+missions.
 
 ### Advanced Construction and Materials
 
@@ -2350,10 +2350,10 @@ adaptation unique to space warfare.
 
 In a universe where even a small breach can be fatal, close combat
 takes on a new dimension. Knives and short swords are common for their
-reliability and lack of risk to the ship's integrity. Stun guns,
-while effective against unarmoured targets, prove less useful against
-space suits, illustrating the technological limitations and the
-constant arms race between offensive and defensive technologies.
+reliability and lack of risk to the ship's integrity. Stun guns, while
+effective against unarmoured targets, prove less useful against space
+suits, illustrating the technological limitations and the constant
+arms race between offensive and defensive technologies.
 
 # Playing Abyssal
 
@@ -2448,411 +2448,6 @@ a blend of creativity, empathy, and strategic thinking. By following
 these practical strategies, The Suit can create a game that is not
 only enjoyable and challenging, but also a memorable journey for all
 involved.
-
-# The Suits Secrets
-
-If you are a player in the universe of Abyssal, just stop reading. A
-lot of fun in an RPG comes from exploring and venturing into the
-darkness without knowing what you might face. So if you take a peak,
-it may be a massive spoiler.
-
-If you are, on the other hand, the Suit, the following section might
-give you some ideas for scenarios. It is also a tool that you might
-use to get a feeling of what abyssal is about. The ideas listed here
-are by no means all there is. It is better to think of it as the tip
-of the iceberg.
-
-The vastness of space is crawling with the unknown, and darkness lurks
-behind every corner. So go on and arm yourself to give the players the
-shivers.
-
-## The Thing Between the Fabric
-
-In the vast between the crevices of time and space, an entity resides,
-a relic of primordial chaos and darkness. This force, ever-present and
-potent, has influenced the fabric of spacetime since the universe\'s
-inception. It is not just an embodiment of ancient evil but a
-fundamental cosmic principle, balancing creation with destruction,
-order with chaos, good and evil.
-
-### Continuous Influence on Civilization
-
-Throughout history, this entity has consistently influenced sentient
-life. It is the dark whisper in the shadows, the unseen hand shaping
-conflicts, empires, and revolutions. In every era, occultists and
-religious figures have sensed its presence, interpreting it as the
-ultimate adversary in their spiritual narratives.
-
-### The Stellar Projectors: Catalysts of Power
-
-The development of stellar projectors in 2367, intended for
-interstellar travel, unknowingly amplifies the entity\'s influence.
-These devices, manipulating spacetime, resonate with the dark energy
-of the entity, strengthening its grip on the physical realm. This
-inadvertent synergy between cutting-edge technology and ancient cosmic
-power marks a new era of occult potency.
-
-### Renaissance of the Occult
-
-The entity\'s amplified presence revitalizes occult and pagan
-practices across the human civilization. Rituals and spells, once
-considered mere relics of superstition, suddenly manifest tangible,
-potent results. Practitioners find themselves wielding unprecedented
-power, drawing directly from the entity\'s awakened strength.
-
-### Religious Upheaval and Recognition
-
-Major world religions experience a new surge in faithful followers as
-the fear of the unknown and the darkness creeps into the subconscious.
-The churches themselves preach the rise of the arch-enemy and
-fervently preach of a pious life. Zealots of the churches are on the
-move, bringing fire and death to the so called unfaithful.
-
-### Corporate Ambition
-
-Corporations, sensing opportunity, race to harness the powers of the
-occult. Their actions, driven by hubris and greed, further destabilize
-the cosmic balance, leading to unpredictable and often perilous
-consequences. Nobody has yet established a connection to the rips in
-spacetime created by the projector drives.
-
-### Agents of Darkness
-
-There appears to be no rhyme or rhythm to the darkness. Strange
-entities enter realty by calling or by chance, taking horrific forms
-of all kinds, all bent on tearing down the human psyche. It almost
-seems as if they are reflections of our collective nightmares, just a
-mirror of the darkness in our soul. So, yes there are things we would
-call Ghouls and Demons, Undead and Monsters. What they are in truth
-remains hidden from us, and that may be a blessing for us all.
-
-### The New Cosmic Order
-
-Until now, there is only an unease among the general population.
-Nobody really believes in the occult, but in hard science. The
-practice of the occult is done in secret, but it yields terrible and
-often uncontrollable results. Death cults and Devil worshippers roam
-in the dark corners of the galaxy looking for prey, feeding them to
-their newfound dark patrons. And it is getting worse.
-
-## Cults
-
-### Sisterhood of the Black Tongue
-
-The Sisterhood of the Black Tongue is one of the most influential
-occult societies known. Their beliefs circle around the black man,
-deeply rooted in witchcraft beliefs dating back hundreds of years to
-pre technical ages. The Sisterhood calls this figure the Father. Their
-current engagement has taken a darker turn, for some of the believers
-in modern witchcraft, their powers have returned for real, giving them
-unprecedented capabilities often not anticipated by their rivals. Most
-of the members of this secret society are just humans, albeit
-typically with a mind bend towards power and personal gain. The
-Sisterhood accepts only women into their ranks, letting them rise only
-for years of devout service and obedience.
-
-The overall goal of the Sisterhood is surely twofold. They are devout
-to the black man, a figure often believed as the devil himself. They
-think their power is granted to them through their initiation rites,
-giving away a part of their soul in return for their witchcraft. As
-mentioned above, that has started to work in earnest for some, those
-considered being blessed by darkness. These powers they are bound to
-use to further the perceived will of their master.
-
-Happily, for them, this includes amassing power for themselves and
-gaining influence in positions of power. Their occult abilities
-certainly help along the line. Through this they acquire resources,
-money, and influence that made the Sisterhood grow over the course of
-the centuries, building up a sizeable fortune to call upon.
-
-The Sisterhood is actually organized in covens, cells if you like,
-that operate independently. These are handled by a messenger, bringing
-the will of the Mother to individual cells. The leader of the coven
-reports back to this messenger. There is no other contact. This system
-really leads up to the leader of all Sisters, the mysterious figure
-known to the covens as the Mother.
-
-The actions of the covens differ wildly. Some of them have no occult
-powers at all, even if their rituals and sermons have all the bloody
-tools and symbols associated with it. They go about their goals in a
-more mundane way, hoping desperately for the Father to answer their
-sacrifices. Others really wield the dark arts, research them, and use
-them as tools to dominate their enemies.
-
-## Themes of Horror
-
-As Abyssal goes into the realm of Horror, we have to talk a bit about
-the different flavours and styles of horror. Most of the time the
-lines between them blur, but it is good to think about them. Not all
-of them are easy to play, as we will see later.
-
-The more visceral ones are easiest, as they can be described using the
-five senses we have. They are about the grotesque and the gory
-experiences. It is the shrieks and the groaning in the dark that
-rattles the nerves. Using sensory descriptions, you can go wild and
-create a rich tapestry in the mind of your players.
-
-The opposite of this happens in your mind. Paranoia and obsession, the
-inner fears that surface and drive the characters to the edge. Your
-task as a suit for this kind of horror is making the players insecure
-about their surroundings. Why is everybody smiling at you all of a
-sudden? Do they take pity on your sorry self? Maybe you can describe
-things that are only in the minds of the players. Or are they not?
-
-The vastness of space, with its inherent terror, evokes feelings of
-insignificance, helplessness, and incomprehension. Confronting things
-that move beyond any comprehensible logic, that care nothing for the
-life and feelings of the characters and their players.
-
-And this leads to survival. Going in, absolute sure of yourself with
-high moral and being slowly worn down by the surrounding and the
-strangeness will break down the players. When the time comes that the
-really dark things emerge and begin to hunt, you can be sure to have
-the players by their toes.
-
-In the following sections, we will explore a few more concrete things
-we can create our horror experience around. Stay tuned.
-
-### Terrifying Experiments
-
-In the sprawling universe of Abyssal, where corporate entities wield
-immense power, a series of unethical and clandestine experiments are
-conducted in the shadows. These sinister ventures, either under the
-auspices of powerful conglomerates or the direction of unhinged
-scientists, cross the boundaries of both science and morality.
-
-#### Categories and Instances of Experiments
-
-##### Hybridization of Human and Alien DNA
-
-Secret initiatives aim to fuse human genetics with extraterrestrial
-organisms, giving rise to grotesque, often tormented hybrids. Driven
-by ambitions to harness alien traits or mere scientific curiosity,
-these projects recklessly tamper with nature, with unpredictable
-consequences once these entities are unleashed.
-
-##### Consciousness Transfer and Creation
-
-Explorations in transposing human consciousness into machines or other
-entities, or in fabricating artificial consciousness. The
-ramifications are ethically profound, frequently leaving subjects
-irreversibly traumatized, estranged from themselves, and often
-psychopathic in nature. Whatever their nature is after undergoing this
-kind of treatment.
-
-##### Enhancement of Pain Tolerance
-
-Experiments designed to test the upper limits of human pain and
-endurance thresholds, potentially for creating enhanced soldiers. The
-inhumane techniques torment the mind and body of the victims, often
-resulting in death, insanity, or something even more sinister. It does
-not help that in this strait of research, most probands are
-\"willing\".
-
-##### Neural Manipulation and Domination
-
-Projects focused on altering or controlling the human brain, impacting
-memory, behaviour, or identity. Venturing into the realms of mind
-control, these experiments typically lead to a loss of self. The
-eerily quiet neighbour who suddenly went on a rampage during a
-high-profile event might be a chilling reminder of such experiments.
-
-##### Experiments in Dimensional Tearing
-
-Dangerously ambitious trials aiming to disturb the very fabric of
-reality. The goal is opening gateways to unknown realms or cause
-unpredictable anomalies. All this is done to get a glimpse behind the
-veil. These experiments are often linked to the research on stellar
-projectors.
-
-##### Unleashing Latent Psychic Abilities
-
-Attempts to unlock or intensify human psychic powers frequently result
-in mental breakdowns, loss of control, and in recent cases, drastic
-personality shifts, uncontrollable violence, and terrifying new powers
-following mind-altering procedures.
-
-##### Conclusion
-
-These various experiments provide players, or \'Suits\', with a
-multitude of narrative paths, including uncovering secrets,
-undertaking daring rescue operations, navigating moral dilemmas, and
-facing the nightmarish outcomes of these scientific horrors.
-
-### Occult Experiments
-
-In the vast, unforgiving cosmos, beneath the facade of corporate
-sleekness, sinister practises are at work. Powerful corporations,
-shrouded in secrecy, embark on ventures that blur the lines between
-arcane mysticism and technological advancement to further their own
-game. These enterprises, carried out in secluded spaces---be it on
-desolate space stations or forgotten outposts---meld the ancient rites
-of occultism with the forefront of technological innovation,
-challenging not just principles of ethics, but the very fabric of
-reality.
-
-#### Diving into the Unknown: Types and Tales of Experiments
-
-##### Ritualistic Research
-
-Imagine, if you will, the eerie silence of space, broken only by the
-chanting of age-old spells. In this void, occult rituals come to life,
-aiming to bend cosmic forces to their will or to contact things from
-realms beyond our own. The outcomes maybe more than the practitioners
-had hoped for.
-
-Arcane Knowledge Digitization
-
-Picture ancient texts and cryptic scrolls, their secrets being
-translated into the binary language of the digital age. The goal is to
-transfer the inherent powers of some scriptures into zeros and ones.
-Stored away in impenetrable data vaults, this knowledge sits at the
-crossroads of revolutionary and treacherously potent.
-
-##### Esoteric Bio-Engineering
-
-In the seclusion of isolated laboratories, a macabre dance of science
-and sorcery takes place. Here, the goal is to forge beings of
-unnatural prowess or to unearth latent human abilities. Without
-ethical boundaries or respect for the known laws of nature, it is
-humanities take at playing god.
-
-##### Astral Projection Trials
-
-Envision the quest to traverse the boundaries of physical and ethereal
-planes through astral projection. A pursuit fraught with peril and the
-ultimate goal of making distance irrelevant. The question remains,
-what can be found beyond the gates of space and time?
-
-##### Occult-Driven AI Development
-
-Consider the endeavour to craft advanced AI systems guided by arcane
-principles. The aim is to birth a consciousness that transcends human
-understanding, a venture as awe-inspiring as it is potentially
-harrowing. AI Systems capable of invoking devilish sorcery and
-wreaking havoc on their creators.
-
-#### Conclusion
-
-For the Suits navigating the \"Abyssal\" universe, these occult
-experiments open a treasure trove of narrative pathways. Imagine
-venturing into the silent halls of abandoned research stations,
-unearthing the remnants of dark practices, and grappling with the
-aftermath of these experiments bereft of any mercy. Picture
-encountering horrors born from the unholy marriage of science and the
-arcane, or stumbling upon knowledge so profound it defies human logic.
-
-Every corner of space holds secrets that dare you to uncover them, and
-every one of them will challenge the limits of your courage and mind.
-
-## Dark Rituals
-
-### The Atrum Echo
-
-"Out of the shadow of time I summon you, to give you life again. May
-you walk again under the suns of the living and deepen our
-understanding with your knowledge."
-
-The atrum echo is a disturbing ritual to summon the soul of a dead
-person. Not much is known about the special proceedings but the most
-gruesome and superficial details. A human victim is used, tied to a
-ritual stone, and a willow semen is placed in the chest cavity through
-surgery or more barbaric measures while it is still breathing. After
-touching the living heart, the transformation begins. Over the next
-seven days, under constant incantation of summoning chants, the semen
-cannibalizes the victim until only the outer hull remains. The newborn
-soul breaks out of this shell like out of a foul egg, looking and
-talking like the formerly departed.
-
-It has partial knowledge of the summoned departed, but there are
-significant gaps in these memories. The demeanour changes towards
-cruelness and intrigue. It will try to hide this, but will constantly
-fail in doing so. This soul is by no means really the deceased the
-ritual promised to bring back to live. It is more of a dark shadow,
-Atrum Echo.
-
-If left unchecked, the shadow will start to wreak havoc, sowing
-distrust and paranoia, destroying the lives of the people around it.
-Additionally, it will try to repeat the ritual as often as possible,
-drawing more of it\'s kind into our reality.
-
-This ritual, while a powerful tool for those seeking to exploit the
-knowledge of the dead, is fraught with danger---not just for the
-participants but for all of the society that might unwittingly welcome
-a monster into its midst. Such rituals are sought after by the
-desperate or the power-hungry, with no heed for the consequences.
-
-### The Withering
-
-"May corruption and death spread through your lineage, may the bloom
-wither and die out of this existence into the nether.\"
-
-The Withering has, through the ages, been a most terrible and
-disturbing curse, bestowed upon the enemies of nefarious sorcerers. It
-destroyed whole families clans and wiped them out of existence.
-
-To start the curse, the first victim has to be fed with a small,
-specially prepared ball of mould, tasting all wrong and foul. This
-mould seeps through every pore, leaving a taste rot and decay that
-lingers and can be smelled in the body odour of the victim.
-
-He has now become contagious, but only to his blood relatives.
-Touching the victim or smelling him will let the curse take hold in
-the newly doomed person, starting the cycle all over again.
-
-Once the curse progresses, rotting exanthema starts to appear that
-slowly spreads across the skin of the victim. The centre of this just
-dissipates into thin air as if no flesh ever existed. At the same
-time, people start to forget about the victim, starting with those
-most removed from it. After about two weeks, the victim has faded
-completely away under agony, forgotten by all.
-
-All blood relatives hear an eerie whisper in their minds, a whisper
-that becomes more insistent the closer they are to an infected victim.
-It is always on the edge, always raising doubts as to whether it
-really exists. But it does, and it tells tales of death and despair,
-driving the listener mad in time. The whispering stops when all the
-infected victims have died and the curse has run its course.
-
-This does not mean that there is no mention of him in medical records
-or business papers. It is just that no one can put a face to the
-written words any more, or remember ever speaking to the person. The
-victim is effectively wiped from remembrance.
-
-The withering curse is a terrible weapon as it spreads through the
-ones you most love and wipes them from existence, even the ones that
-survived and did hold you dear. But it comes at a cost for the
-occultist using it. For every victim taken by the curse, a bit of life
-is drained, making him weak and feeble over time. They never fully
-recover from this, and it is said that their life is significantly
-shortened.
-
-### Vial of bottled Darkness
-
-To create a vile of bottled darkness the occult practioner has to
-undergo painful and excrutiating procedures. In essence he harvests
-his nightmares, inducing them with a vile concoction of rare herbs and
-ingredients harvested from dead bodies.
-
-After enduring these nightmares and keeping the sanity intact the
-sorcerer opens puts a drop of his blood in a quartz crystal vial. This
-goes on for 14 days, the final day required to be in a solar
-occlusion. There are no additional requirements how to get such a
-thing. The final drop fills up the vial and it is closed.
-
-The next time anybody opens op the vial darkness is released, the
-condensed nightmares come to take their victims. The darkness looks
-like a night in silvery moonlight with harsh an pitchblack shadows.
-From these shadows emerge the haunts, mind rending apparitions spun
-from silver threads. They try to embrace and kiss their victims,
-tearing at them with claw like fingers. They are diven to consume the
-warmth and love and thereby destroying the sanity of those sucked and
-rended dry.
-
-Luckylie the creator of the vial is save from the haunts, as is
-everybody whose blood was added to the vial on creation. But they have
-paid their price enduring terrible the terrible nightmares and giving
-birth to the haunting terrors.
 
 # Gear
 
@@ -6574,6 +6169,411 @@ struggling with mental health issues. Remember, mental health is just
 as important as physical health, and there is strength in seeking
 support.
 
+# The Suits Secrets
+
+If you are a player in the universe of Abyssal, just stop reading. A
+lot of fun in an RPG comes from exploring and venturing into the
+darkness without knowing what you might face. So if you take a peak,
+it may be a massive spoiler.
+
+If you are, on the other hand, the Suit, the following section might
+give you some ideas for scenarios. It is also a tool that you might
+use to get a feeling of what abyssal is about. The ideas listed here
+are by no means all there is. It is better to think of it as the tip
+of the iceberg.
+
+The vastness of space is crawling with the unknown, and darkness lurks
+behind every corner. So go on and arm yourself to give the players the
+shivers.
+
+## The Thing Between the Fabric
+
+In the vast between the crevices of time and space, an entity resides,
+a relic of primordial chaos and darkness. This force, ever-present and
+potent, has influenced the fabric of spacetime since the universe\'s
+inception. It is not just an embodiment of ancient evil but a
+fundamental cosmic principle, balancing creation with destruction,
+order with chaos, good and evil.
+
+### Continuous Influence on Civilization
+
+Throughout history, this entity has consistently influenced sentient
+life. It is the dark whisper in the shadows, the unseen hand shaping
+conflicts, empires, and revolutions. In every era, occultists and
+religious figures have sensed its presence, interpreting it as the
+ultimate adversary in their spiritual narratives.
+
+### The Stellar Projectors: Catalysts of Power
+
+The development of stellar projectors in 2367, intended for
+interstellar travel, unknowingly amplifies the entity\'s influence.
+These devices, manipulating spacetime, resonate with the dark energy
+of the entity, strengthening its grip on the physical realm. This
+inadvertent synergy between cutting-edge technology and ancient cosmic
+power marks a new era of occult potency.
+
+### Renaissance of the Occult
+
+The entity\'s amplified presence revitalizes occult and pagan
+practices across the human civilization. Rituals and spells, once
+considered mere relics of superstition, suddenly manifest tangible,
+potent results. Practitioners find themselves wielding unprecedented
+power, drawing directly from the entity\'s awakened strength.
+
+### Religious Upheaval and Recognition
+
+Major world religions experience a new surge in faithful followers as
+the fear of the unknown and the darkness creeps into the subconscious.
+The churches themselves preach the rise of the arch-enemy and
+fervently preach of a pious life. Zealots of the churches are on the
+move, bringing fire and death to the so called unfaithful.
+
+### Corporate Ambition
+
+Corporations, sensing opportunity, race to harness the powers of the
+occult. Their actions, driven by hubris and greed, further destabilize
+the cosmic balance, leading to unpredictable and often perilous
+consequences. Nobody has yet established a connection to the rips in
+spacetime created by the projector drives.
+
+### Agents of Darkness
+
+There appears to be no rhyme or rhythm to the darkness. Strange
+entities enter realty by calling or by chance, taking horrific forms
+of all kinds, all bent on tearing down the human psyche. It almost
+seems as if they are reflections of our collective nightmares, just a
+mirror of the darkness in our soul. So, yes there are things we would
+call Ghouls and Demons, Undead and Monsters. What they are in truth
+remains hidden from us, and that may be a blessing for us all.
+
+### The New Cosmic Order
+
+Until now, there is only an unease among the general population.
+Nobody really believes in the occult, but in hard science. The
+practice of the occult is done in secret, but it yields terrible and
+often uncontrollable results. Death cults and Devil worshippers roam
+in the dark corners of the galaxy looking for prey, feeding them to
+their newfound dark patrons. And it is getting worse.
+
+## Cults
+
+### Sisterhood of the Black Tongue
+
+The Sisterhood of the Black Tongue is one of the most influential
+occult societies known. Their beliefs circle around the black man,
+deeply rooted in witchcraft beliefs dating back hundreds of years to
+pre technical ages. The Sisterhood calls this figure the Father. Their
+current engagement has taken a darker turn, for some of the believers
+in modern witchcraft, their powers have returned for real, giving them
+unprecedented capabilities often not anticipated by their rivals. Most
+of the members of this secret society are just humans, albeit
+typically with a mind bend towards power and personal gain. The
+Sisterhood accepts only women into their ranks, letting them rise only
+for years of devout service and obedience.
+
+The overall goal of the Sisterhood is surely twofold. They are devout
+to the black man, a figure often believed as the devil himself. They
+think their power is granted to them through their initiation rites,
+giving away a part of their soul in return for their witchcraft. As
+mentioned above, that has started to work in earnest for some, those
+considered being blessed by darkness. These powers they are bound to
+use to further the perceived will of their master.
+
+Happily, for them, this includes amassing power for themselves and
+gaining influence in positions of power. Their occult abilities
+certainly help along the line. Through this they acquire resources,
+money, and influence that made the Sisterhood grow over the course of
+the centuries, building up a sizeable fortune to call upon.
+
+The Sisterhood is actually organized in covens, cells if you like,
+that operate independently. These are handled by a messenger, bringing
+the will of the Mother to individual cells. The leader of the coven
+reports back to this messenger. There is no other contact. This system
+really leads up to the leader of all Sisters, the mysterious figure
+known to the covens as the Mother.
+
+The actions of the covens differ wildly. Some of them have no occult
+powers at all, even if their rituals and sermons have all the bloody
+tools and symbols associated with it. They go about their goals in a
+more mundane way, hoping desperately for the Father to answer their
+sacrifices. Others really wield the dark arts, research them, and use
+them as tools to dominate their enemies.
+
+## Themes of Horror
+
+As Abyssal goes into the realm of Horror, we have to talk a bit about
+the different flavours and styles of horror. Most of the time the
+lines between them blur, but it is good to think about them. Not all
+of them are easy to play, as we will see later.
+
+The more visceral ones are easiest, as they can be described using the
+five senses we have. They are about the grotesque and the gory
+experiences. It is the shrieks and the groaning in the dark that
+rattles the nerves. Using sensory descriptions, you can go wild and
+create a rich tapestry in the mind of your players.
+
+The opposite of this happens in your mind. Paranoia and obsession, the
+inner fears that surface and drive the characters to the edge. Your
+task as a suit for this kind of horror is making the players insecure
+about their surroundings. Why is everybody smiling at you all of a
+sudden? Do they take pity on your sorry self? Maybe you can describe
+things that are only in the minds of the players. Or are they not?
+
+The vastness of space, with its inherent terror, evokes feelings of
+insignificance, helplessness, and incomprehension. Confronting things
+that move beyond any comprehensible logic, that care nothing for the
+life and feelings of the characters and their players.
+
+And this leads to survival. Going in, absolute sure of yourself with
+high moral and being slowly worn down by the surrounding and the
+strangeness will break down the players. When the time comes that the
+really dark things emerge and begin to hunt, you can be sure to have
+the players by their toes.
+
+In the following sections, we will explore a few more concrete things
+we can create our horror experience around. Stay tuned.
+
+### Terrifying Experiments
+
+In the sprawling universe of Abyssal, where corporate entities wield
+immense power, a series of unethical and clandestine experiments are
+conducted in the shadows. These sinister ventures, either under the
+auspices of powerful conglomerates or the direction of unhinged
+scientists, cross the boundaries of both science and morality.
+
+#### Categories and Instances of Experiments
+
+##### Hybridization of Human and Alien DNA
+
+Secret initiatives aim to fuse human genetics with extraterrestrial
+organisms, giving rise to grotesque, often tormented hybrids. Driven
+by ambitions to harness alien traits or mere scientific curiosity,
+these projects recklessly tamper with nature, with unpredictable
+consequences once these entities are unleashed.
+
+##### Consciousness Transfer and Creation
+
+Explorations in transposing human consciousness into machines or other
+entities, or in fabricating artificial consciousness. The
+ramifications are ethically profound, frequently leaving subjects
+irreversibly traumatized, estranged from themselves, and often
+psychopathic in nature. Whatever their nature is after undergoing this
+kind of treatment.
+
+##### Enhancement of Pain Tolerance
+
+Experiments designed to test the upper limits of human pain and
+endurance thresholds, potentially for creating enhanced soldiers. The
+inhumane techniques torment the mind and body of the victims, often
+resulting in death, insanity, or something even more sinister. It does
+not help that in this strait of research, most probands are
+\"willing\".
+
+##### Neural Manipulation and Domination
+
+Projects focused on altering or controlling the human brain, impacting
+memory, behaviour, or identity. Venturing into the realms of mind
+control, these experiments typically lead to a loss of self. The
+eerily quiet neighbour who suddenly went on a rampage during a
+high-profile event might be a chilling reminder of such experiments.
+
+##### Experiments in Dimensional Tearing
+
+Dangerously ambitious trials aiming to disturb the very fabric of
+reality. The goal is opening gateways to unknown realms or cause
+unpredictable anomalies. All this is done to get a glimpse behind the
+veil. These experiments are often linked to the research on stellar
+projectors.
+
+##### Unleashing Latent Psychic Abilities
+
+Attempts to unlock or intensify human psychic powers frequently result
+in mental breakdowns, loss of control, and in recent cases, drastic
+personality shifts, uncontrollable violence, and terrifying new powers
+following mind-altering procedures.
+
+##### Conclusion
+
+These various experiments provide players, or \'Suits\', with a
+multitude of narrative paths, including uncovering secrets,
+undertaking daring rescue operations, navigating moral dilemmas, and
+facing the nightmarish outcomes of these scientific horrors.
+
+### Occult Experiments
+
+In the vast, unforgiving cosmos, beneath the facade of corporate
+sleekness, sinister practises are at work. Powerful corporations,
+shrouded in secrecy, embark on ventures that blur the lines between
+arcane mysticism and technological advancement to further their own
+game. These enterprises, carried out in secluded spaces---be it on
+desolate space stations or forgotten outposts---meld the ancient rites
+of occultism with the forefront of technological innovation,
+challenging not just principles of ethics, but the very fabric of
+reality.
+
+#### Diving into the Unknown: Types and Tales of Experiments
+
+##### Ritualistic Research
+
+Imagine, if you will, the eerie silence of space, broken only by the
+chanting of age-old spells. In this void, occult rituals come to life,
+aiming to bend cosmic forces to their will or to contact things from
+realms beyond our own. The outcomes maybe more than the practitioners
+had hoped for.
+
+Arcane Knowledge Digitization
+
+Picture ancient texts and cryptic scrolls, their secrets being
+translated into the binary language of the digital age. The goal is to
+transfer the inherent powers of some scriptures into zeros and ones.
+Stored away in impenetrable data vaults, this knowledge sits at the
+crossroads of revolutionary and treacherously potent.
+
+##### Esoteric Bio-Engineering
+
+In the seclusion of isolated laboratories, a macabre dance of science
+and sorcery takes place. Here, the goal is to forge beings of
+unnatural prowess or to unearth latent human abilities. Without
+ethical boundaries or respect for the known laws of nature, it is
+humanities take at playing god.
+
+##### Astral Projection Trials
+
+Envision the quest to traverse the boundaries of physical and ethereal
+planes through astral projection. A pursuit fraught with peril and the
+ultimate goal of making distance irrelevant. The question remains,
+what can be found beyond the gates of space and time?
+
+##### Occult-Driven AI Development
+
+Consider the endeavour to craft advanced AI systems guided by arcane
+principles. The aim is to birth a consciousness that transcends human
+understanding, a venture as awe-inspiring as it is potentially
+harrowing. AI Systems capable of invoking devilish sorcery and
+wreaking havoc on their creators.
+
+#### Conclusion
+
+For the Suits navigating the \"Abyssal\" universe, these occult
+experiments open a treasure trove of narrative pathways. Imagine
+venturing into the silent halls of abandoned research stations,
+unearthing the remnants of dark practices, and grappling with the
+aftermath of these experiments bereft of any mercy. Picture
+encountering horrors born from the unholy marriage of science and the
+arcane, or stumbling upon knowledge so profound it defies human logic.
+
+Every corner of space holds secrets that dare you to uncover them, and
+every one of them will challenge the limits of your courage and mind.
+
+## Dark Rituals
+
+### The Atrum Echo
+
+"Out of the shadow of time I summon you, to give you life again. May
+you walk again under the suns of the living and deepen our
+understanding with your knowledge."
+
+The atrum echo is a disturbing ritual to summon the soul of a dead
+person. Not much is known about the special proceedings but the most
+gruesome and superficial details. A human victim is used, tied to a
+ritual stone, and a willow semen is placed in the chest cavity through
+surgery or more barbaric measures while it is still breathing. After
+touching the living heart, the transformation begins. Over the next
+seven days, under constant incantation of summoning chants, the semen
+cannibalizes the victim until only the outer hull remains. The newborn
+soul breaks out of this shell like out of a foul egg, looking and
+talking like the formerly departed.
+
+It has partial knowledge of the summoned departed, but there are
+significant gaps in these memories. The demeanour changes towards
+cruelness and intrigue. It will try to hide this, but will constantly
+fail in doing so. This soul is by no means really the deceased the
+ritual promised to bring back to live. It is more of a dark shadow,
+Atrum Echo.
+
+If left unchecked, the shadow will start to wreak havoc, sowing
+distrust and paranoia, destroying the lives of the people around it.
+Additionally, it will try to repeat the ritual as often as possible,
+drawing more of it\'s kind into our reality.
+
+This ritual, while a powerful tool for those seeking to exploit the
+knowledge of the dead, is fraught with danger---not just for the
+participants but for all of the society that might unwittingly welcome
+a monster into its midst. Such rituals are sought after by the
+desperate or the power-hungry, with no heed for the consequences.
+
+### The Withering
+
+"May corruption and death spread through your lineage, may the bloom
+wither and die out of this existence into the nether.\"
+
+The Withering has, through the ages, been a most terrible and
+disturbing curse, bestowed upon the enemies of nefarious sorcerers. It
+destroyed whole families clans and wiped them out of existence.
+
+To start the curse, the first victim has to be fed with a small,
+specially prepared ball of mould, tasting all wrong and foul. This
+mould seeps through every pore, leaving a taste rot and decay that
+lingers and can be smelled in the body odour of the victim.
+
+He has now become contagious, but only to his blood relatives.
+Touching the victim or smelling him will let the curse take hold in
+the newly doomed person, starting the cycle all over again.
+
+Once the curse progresses, rotting exanthema starts to appear that
+slowly spreads across the skin of the victim. The centre of this just
+dissipates into thin air as if no flesh ever existed. At the same
+time, people start to forget about the victim, starting with those
+most removed from it. After about two weeks, the victim has faded
+completely away under agony, forgotten by all.
+
+All blood relatives hear an eerie whisper in their minds, a whisper
+that becomes more insistent the closer they are to an infected victim.
+It is always on the edge, always raising doubts as to whether it
+really exists. But it does, and it tells tales of death and despair,
+driving the listener mad in time. The whispering stops when all the
+infected victims have died and the curse has run its course.
+
+This does not mean that there is no mention of him in medical records
+or business papers. It is just that no one can put a face to the
+written words any more, or remember ever speaking to the person. The
+victim is effectively wiped from remembrance.
+
+The withering curse is a terrible weapon as it spreads through the
+ones you most love and wipes them from existence, even the ones that
+survived and did hold you dear. But it comes at a cost for the
+occultist using it. For every victim taken by the curse, a bit of life
+is drained, making him weak and feeble over time. They never fully
+recover from this, and it is said that their life is significantly
+shortened.
+
+### Vial of bottled Darkness
+
+To create a vile of bottled darkness the occult practioner has to
+undergo painful and excrutiating procedures. In essence he harvests
+his nightmares, inducing them with a vile concoction of rare herbs and
+ingredients harvested from dead bodies.
+
+After enduring these nightmares and keeping the sanity intact the
+sorcerer opens puts a drop of his blood in a quartz crystal vial. This
+goes on for 14 days, the final day required to be in a solar
+occlusion. There are no additional requirements how to get such a
+thing. The final drop fills up the vial and it is closed.
+
+The next time anybody opens op the vial darkness is released, the
+condensed nightmares come to take their victims. The darkness looks
+like a night in silvery moonlight with harsh an pitchblack shadows.
+From these shadows emerge the haunts, mind rending apparitions spun
+from silver threads. They try to embrace and kiss their victims,
+tearing at them with claw like fingers. They are diven to consume the
+warmth and love and thereby destroying the sanity of those sucked and
+rended dry.
+
+Luckylie the creator of the vial is save from the haunts, as is
+everybody whose blood was added to the vial on creation. But they have
+paid their price enduring terrible the terrible nightmares and giving
+birth to the haunting terrors.
+
 # Appendix of Tables
 
 ## Weapons
@@ -6607,15 +6607,19 @@ support.
 
 ### Personal Armour
 
-| Type                       | Protection | Full enclosure | Bypass Mod |
-  |----------------------------|------------|----------------|------------|
-| Light Bulletproof Vest     | 8          | n              | +4         |
-| Combat Armour              | 12         | n              | +6         |
-| Reinforced Combat Armour   | 14         | n              | +8         |
-| Heavy Exo Armour           | 18         | n              | +10        |
-| Military Force Armour      | 24         | y              | -          |
-| Light Space Combat Armour  | 14         | y              | -          |
-| Medium Space Combat Armour | 16         | y              | -          |
+| Type                        | Protection | Full enclosure | Bypass Mod |
+|-----------------------------|------------|----------------|------------|
+| Light Bulletproof Vest      | 8          | n              | +4         |
+| Combat Armour               | 12         | n              | +6         |
+| Reinforced Combat Armour    | 14         | n              | +8         |
+| Heavy Exo Armour            | 18         | n              | +10        |
+| Military Force Armour       | 24         | y              | -          |
+| Light Space Combat Armour   | 14         | y              | -          |
+| Medium Space Combat Armour  | 16         | y              | -          |
+| Civillian Space Vessle Hull | 14         | y              | -          |
+| Military Space Vessel Hull  | 20         | y              | -          |
+| Civillian Bulkhead          | 8          | y              | -          |
+| Military Bulkhead           | 12         | y              | -          |
 
 ## Spaceship Components
 
@@ -7351,7 +7355,7 @@ Legend
 
 5. Back Corridor Section
 
-6. Missile Magazin
+6. Missile Magazine
 
 7. Crew and Detail Sleep Quarter
 
