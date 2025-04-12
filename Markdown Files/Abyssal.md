@@ -2369,7 +2369,7 @@ assumptions about the characters in Abyssal and the role of the Suit.
 ## The Goal of the Game
 
 Foremost, the goal of the game is to have fun together as a group.
-It\'s crucial that everyone enjoy the gameplay within a dark,
+It's crucial that everyone enjoy the gameplay within a dark,
 unforgiving sci-fi horror setting, a world where doom and despair may
 befall the characters created by the players. There will be triumph,
 too. But perhaps not for every character.
@@ -2377,7 +2377,7 @@ too. But perhaps not for every character.
 ## Role and Responsibilities of The Suit
 
 How should the Suit go about leading the game? The Suit is responsible
-for crafting the players\' experience. In this capacity, he has much
+for crafting the players experience. In this capacity, he has much
 influence on the overall experience of the game, so there are some
 hints to make it a bit easier.
 
@@ -2388,7 +2388,8 @@ have good ideas, go with them. If something they want to do does not
 fit in your story, do not say no; guide them to the alternatives. If
 they fail, do not set up a roadblock. Try to give them alternatives to
 keep the story flowing and listen to their decision making. It is best
-imagined as the "Yes, but..." rule.
+imagined as the "Yes, but..." rule. Also think along the lines of 
+"Yes, and...". This will help you to keep the story flowing.
 
 ## Decision-Making and Consistency
 
@@ -2712,7 +2713,7 @@ them ideal for close-quarters combat and as secondary weapons. Their
 effectiveness remains consistent in both atmospheric and vacuum
 conditions. However, they face limitations in terms of range and
 stopping power, especially when compared to larger firearms, and they
-are generally less effective against armored targets.
+are generally less effective against armoured targets.
 
 #### *Submachinegun*
 
