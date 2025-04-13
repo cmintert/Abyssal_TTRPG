@@ -95,35 +95,71 @@ class OrbitComponent(Component):
 
     def calculate_position(self, time: float) -> Tuple[float, float, float]:
         """
-        Calculate the position in the orbital plane at a given time.
-
-        This is a simplified implementation. A real one would solve Kepler's equation
-        and perform the necessary coordinate transformations.
+        Calculate position using a parametric approximation that accounts for orbital shape
+        and approximates speed variations.
 
         Args:
-            time: Time since epoch
+            time: Time since simulation start (in arbitrary time units)
 
         Returns:
             Tuple of (x, y, z) coordinates in AU
         """
-        # This would normally implement Kepler's equation solution
-        # For now, we'll return a simple circular approximation
+        # Calculate orbital period using Kepler's third law
+        # For this to be accurate, we assume time units where G*M_central = 1
+        # For the Solar System with time in years, this works naturally
+        period = 2 * math.pi * math.sqrt(self.semi_major_axis ** 3)
 
-        # Mean motion (radians per time unit)
-        mean_motion = 2 * math.pi / (self.semi_major_axis ** 1.5)
+        # Calculate elapsed time since epoch
+        elapsed_time = time - self.epoch
 
-        # Current angle in orbit
-        angle = math.radians(self.mean_anomaly_at_epoch) + mean_motion * (
-                    time - self.epoch)
+        # Calculate a parameter that increases linearly with time (0 to 2π over one period)
+        # We use modulo to handle multiple orbits
+        parameter = ((elapsed_time % period) / period) * 2 * math.pi
 
-        # Simple circular approximation
-        x = self.semi_major_axis * math.cos(angle)
-        y = self.semi_major_axis * math.sin(angle) * math.cos(
-            math.radians(self.inclination))
-        z = self.semi_major_axis * math.sin(angle) * math.sin(
-            math.radians(self.inclination))
+        # Add initial position offset from mean_anomaly_at_epoch
+        parameter += math.radians(self.mean_anomaly_at_epoch)
 
-        return x, y, z
+        # Apply a simple correction to approximate speed variations
+        # Objects move faster near periapsis (when parameter ≈ 0) and slower near apoapsis
+        if self.eccentricity > 0.1:  # Only apply for noticeable eccentricities
+            # This correction factor approximates some of the behavior of Kepler's equation
+            # without requiring an iterative solution
+            correction = 0.5 * self.eccentricity * math.sin(parameter)
+            parameter += correction
+
+        # Calculate semi-minor axis
+        semi_minor_axis = self.semi_major_axis * math.sqrt(
+            1 - self.eccentricity ** 2)
+
+        # Calculate position in orbital plane using parametric form of ellipse
+        # This places the central body at one focus of the ellipse
+        x_orbital = self.semi_major_axis * math.cos(
+            parameter) - self.eccentricity * self.semi_major_axis
+        y_orbital = semi_minor_axis * math.sin(parameter)
+
+        # Convert angles from degrees to radians for the rotation calculations
+        incl = math.radians(self.inclination)
+        node = math.radians(self.longitude_of_ascending_node)
+        arg_peri = math.radians(self.argument_of_periapsis)
+
+        # Perform the rotation transformations to convert from orbital plane to reference plane
+
+        # First, rotate by argument of periapsis in orbital plane
+        x_temp = x_orbital * math.cos(arg_peri) - y_orbital * math.sin(arg_peri)
+        y_temp = x_orbital * math.sin(arg_peri) + y_orbital * math.cos(arg_peri)
+        z_temp = 0
+
+        # Then, rotate by inclination around the x-axis
+        x_incl = x_temp
+        y_incl = y_temp * math.cos(incl)
+        z_incl = y_temp * math.sin(incl)
+
+        # Finally, rotate by longitude of ascending node around the z-axis
+        x = x_incl * math.cos(node) - y_incl * math.sin(node)
+        y = x_incl * math.sin(node) + y_incl * math.cos(node)
+        z = z_incl
+
+        return (x, y, z)
 
 
 @dataclass
