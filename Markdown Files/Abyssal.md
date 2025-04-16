@@ -651,7 +651,7 @@ fortitude.
 
 Welcome to Abyssal.
 
-# Why should I play Abyssal?
+# What is Abyssal about ?
 
 Abyssal is a game about a tight-knit group of covert operatives
 working in corporate espionage. Armed with a spaceship and high-tech
@@ -2454,12 +2454,12 @@ involved.
 
 # Gear
 
-The following section about gear is not exhaustive. It is meant
-to give you an overview over the different types of gear available 
-in the Abyssal universe. Within the following list we can establish a 
-common sense of what is available and technical possible. You can 
-use this as a starting point when creating additional gear. More 
-tangible game info can be found in the Appendix of tables.
+The following section about gear is not exhaustive. It is meant to
+give you an overview over the different types of gear available in the
+Abyssal universe. Within the following list we can establish a common
+sense of what is available and technical possible. You can use this as
+a starting point when creating additional gear. More tangible game
+info can be found in the Appendix of tables.
 
 ## General Gear
 
@@ -2753,8 +2753,8 @@ effective.
 These weapons excel in terms of velocity and accuracy, particularly in
 zero-gravity environments, and are capable of penetrating heavy
 armour. The main drawbacks of long barrelled coil guns include their
-larger size and heavier weight, requiring more expertise for
-effective operation.
+larger size and heavier weight, requiring more expertise for effective
+operation.
 
 #### Grenade Launchers
 
@@ -2862,8 +2862,8 @@ of hull penetration.
 A single, large projectile designed for increased accuracy and impact
 at longer ranges compared to buckshot. In vacuum, slugs maintain a
 straight trajectory and high impact force, making them effective for
-breaching operations or against armoured targets. However, they 
-carry a significant risk of hull breach.
+breaching operations or against armoured targets. However, they carry
+a significant risk of hull breach.
 
 #### Rubber Buckshot
 
@@ -2964,8 +2964,8 @@ Description: The Eclipse SR-7 is a high-precision sniper rifle,
 designed for long-range engagements. It features an advanced
 stabilization system and a powerful telescopic sight for pinpoint
 accuracy. The rifle's carbon-fibre body makes it lightweight and easy
-to manoeuvre, while its adaptive camouflage helps it blend into various
-environments.
+to manoeuvre, while its adaptive camouflage helps it blend into
+various environments.
 
 Stats:
 
@@ -3136,8 +3136,8 @@ dice show the same value remove one of them.
 > value is 5
 
 By walking through these examples, you can see how each roll is
-handled. Whether you're adding, subtracting, multiplying, dividing,
-or playing with dice pools, you can now do with confidence.
+handled. Whether you're adding, subtracting, multiplying, dividing, or
+playing with dice collections, you can now do with confidence.
 
 Remember, the essence of these rules is not just in the numbers, but
 in how they bring your tabletop adventures to life. So, roll those
@@ -3169,10 +3169,10 @@ a TN is the number that a player needs to meet or exceed with their
 skill check roll in order to succeed at a task or action.
 
 Each TN is associated with a level of difficulty, from trivial tasks
-that are almost always achieved without effort, to nearly
-impossible feats that only the most skilled or fortunate could
-achieve. The higher the TN, the more difficult the task, and
-therefore, the greater the skill or luck required to succeed.
+that are almost always achieved without effort, to nearly impossible
+feats that only the most skilled or fortunate could achieve. The
+higher the TN, the more difficult the task, and therefore, the greater
+the skill or luck required to succeed.
 
 Below is a proper Markdown table based on the provided selection:
 
@@ -3271,11 +3271,13 @@ is repeated.
 >
 > Varik aims to slip undetected past a cybernetic sentinel patrolling
 > the dark corridors of an interstellar trade freighter. His Expertise
-> Area Level in <Stealth> is 5, while the sentinel's skill in <Surveillance>
+> Area Level in <Stealth> is 5, while the sentinel's skill
+> in <Surveillance>
 > is 7. Varik rolls a {10,6,15} for his stealth attempt. The middle of
 > the three values is 10, which is equal to the base, so no
 > modification is made to his <Stealth> score of 5. The sentinel, with
-> its advanced detection algorithms, rolls {3,7,18} for surveillance. The
+> its advanced detection algorithms, rolls {3,7,18} for surveillance.
+> The
 > middle value is 7, which is 3 less than the base of 10, reducing its
 > effective <Surveillance> score to 4. With Varik's stealth
 > outmaneuvering the sentinel's detection, he successfully navigates
@@ -3317,7 +3319,8 @@ give a +1 bonus and to buy one success at the same time.
 > provides a +9 bonus to his Expertise Area Level, culminating in
 > a 17. This not only grants him another success but also earns
 > him 2 marks for the quality of his result. Realizing the urgency and
-> nearing the breakthrough, Kael chooses to spend one mark to secure the final
+> nearing the breakthrough, Kael chooses to spend one mark to secure
+> the final
 > success, cracking the encryption wide open. Just about an hour has
 > passed, and the once inscrutable message now lays bare
 
@@ -3344,7 +3347,8 @@ their actions.
 > matrix to access a sealed section of an abandoned orbital research
 > facility. Jaxon's expertise is in <Cryptanalysis> with a
 > Expertise Area Level of 6, while Lyra is proficient in <Data
-> Patterns>, holding a Expertise Area Level of 5. The game master sets the
+> Patterns>, holding a Expertise Area Level of 5. The game master sets
+> the
 > decryption's target number at 15.
 >
 > Lyra's Support Roll:
@@ -3363,26 +3367,29 @@ their actions.
 > Jaxon is reduced, making his new target number 13. He delves into
 > the arcane symbols and abstract data structures, rolling {5, 11,
 > 16}.
-> The data coalesces at a middle value of 11. With this, he adjusts his
+> The data coalesces at a middle value of 11. With this, he adjusts
+> his
 > <Cryptanalysis> approach, adding 1 to his Expertise Area Level for
 > a total of 7 . Despite their collaborative effort and Lyra's
-> precise support, the result falls short of the necessary 13. The door
+> precise support, the result falls short of the necessary 13. The
+> door
 > remains sealed, its secrets tightly locked away.
 
 ### Temptation Dice
 
 If you really want to succeed at a check you may choose to take the
 highest instead of the middle value. The choice is made before an
-actual roll.
+actual roll. It will significantly increase your chances but also
+increases the risk of failure. This is called tempting fate.
 
-After that roll a d4 is added to the temptation dice collection. These
-d4 are called Temptation Dice.
+After tempting fate a d4 is added to the temptation dice collection.
+These d4 are called Temptation Dice.
 
-As long as this pool has at least one dice it is rolled alongside the
-{3D20} rolls. Whenever one of those d4 shows a 4 the lowest of the
-{3D20} is chosen, even if fate was tempted at that roll. If any d4
-resulted in a 4, one d4 will be removed from the temptation dice
-collection.
+As long as this collection has at least one dice it is rolled
+alongside the {3D20} rolls. Whenever one of those d4 shows a 4 the
+lowest of the {3D20} is chosen, even if fate was tempted at that roll.
+If any d4 resulted in a 4, one d4 will be removed from the temptation
+dice collection.
 
 Up to 4d4 can be gathered in the Temptation dice collection, after
 that you can not tempt fate and take the highest dice until a slot has
@@ -3390,9 +3397,13 @@ freed up in the Temptation dice collection.
 
 #### Reducing the Temptation Dice Collection
 
-The temptation dice pool is reduced by 1d4 by resting for an hour and
-passing a successful Mind check with a TN of 5. The test is made after
-resting. It represents the character calming down and regaining focus.
+The temptation dice collection is reduced by 1d4 by resting for an
+hour and passing a successful Mind check with a TN of 5. The test is
+made after resting. It represents the character calming down and
+regaining focus.
+
+One temptation dice is also removed from the collection if a 4 is
+rolled on on a check.
 
 ### Marks
 
@@ -3400,7 +3411,8 @@ Marks are used to measure the level of success or failure that was
 achieved with a check. A success earns a mark. For every full 3 that
 your result surpasses the target number, another mark is gained.
 
-Marks can also be used to activate special effects.
+Marks can be used to activate special effects or provide bonuses to
+checks. This will be discussed at the apropiate places in the rules.
 
 #### Storing Marks
 
@@ -3409,13 +3421,13 @@ used in a later check.
 
 These stored marks can be invested before a check is made to gain a +1
 bonus per Mark used. After they are invested, they are lost to the
-player and have to be earned anew.
-
-Players keep their marks until they are invested, even carrying over
-to the next session.
+player and have to be earned anew. Players keep their marks until they
+are invested, even carrying over to the next session.
 
 Only 3 marks can be stored this way. A check can yield more than 3
 marks and all of them can be used in addition to the 3 stored marks.
+It is advisable to use coins or other small denominations for storage
+of marks. This way you can keep track of the marks and their use.
 
 ## Creating Character and Crew
 
@@ -3438,13 +3450,13 @@ violence is to be expected.
 ### The Crew
 
 Characters in Abyssal do not act alone. They are part of a crew in the
-employment of a powerful Force, usually one of the Big 12
-Corporations. Basically, every kind of organization can be this Force,
-given it has the resources to grant equipment, a ship, and a home base
-to the characters.
+employment of a powerful Patreon, usually one of the Big 12
+Corporations. Basically, every kind of organization can be this
+Patreon, given it has the resources to grant equipment, a ship, and a
+home base to the characters.
 
 At the start of your your journey, all players and the Suit should
-talk about the governing force and the crew. Either all of you agree
+talk about the governing Patreon and the crew. Either all of you agree
 on one, or the Suit has prepared an employer with all the intricate
 backstories for the players.
 
@@ -3475,15 +3487,24 @@ story.
 
 Every character should have some personal relationships, be it a loved
 one, a spouse, or someone they care about somewhere. These
-relationships should not tie the character down, no, they are
+relationships should not tie the character down, no, these are
 operatives who are often away on extended missions. These people the
 characters care about are the anchors they think about and feel
 emotionally attached to. If the players agree, there can also be a
-pre-established relationship between two characters, making social
-interaction more interesting. These kinds of relationships will also
-emerge during the game, you can be sure of that.
+pre-established relationship between two characters, which makes the
+social interaction more interesting. These kinds of relationships will
+also emerge during the game, you can be sure of that.
 
 ### Character Archetypes and Backgrounds
+
+Each an every character has a special role to fulfill in the crew.
+They are not just interchangeable faces, they are individuals with
+their own strengths and weaknesses. A well balanced team has to be
+able to face a myriad of challenges the universe throws at them. The
+character chooses one of the following archetypes. This is not a class
+system, but an initial guideline to help you create a character that
+fits into the team. Beyond the character creation the character can
+develop in every direction the player envisions for him.
 
 #### Intelligence Analyst
 
@@ -3524,7 +3545,7 @@ Their expertise extends to disguise and mimicry, blending seamlessly
 into various environments. They excel in electronic and physical
 surveillance, adept at gathering intel without detection and employing
 counter-surveillance to remain concealed. Despite their focus on
-stealth, these operatives are proficient in self-defense and starship
+stealth, these operatives are proficient in self-defence and starship
 piloting, emphasizing covert insertions and extractions in enemy
 territories.
 
@@ -3553,7 +3574,7 @@ training includes combat triage, enabling quick decision-making under
 fire. Despite their medical focus, Medics are skilled in defensive
 combat and proficient in piloting for medical evacuations, crucial for
 team extraction from high-risk zones. Additionally, their expertise in
-psychological first aid maintains the team\'s mental resilience.
+psychological first aid maintains the team's mental resilience.
 
 #### IT Specialist
 
@@ -3574,9 +3595,9 @@ Diplomatic Strategy and Conflict Resolution
 
 Negotiators excel in diplomacy, employing skills in de-escalation and
 persuasive communication. Their knowledge in cultural anthropology and
-behavioral psychology allows them to navigate complex social and
+behavioural psychology allows them to navigate complex social and
 political landscapes, forging alliances and resolving conflicts
-without violence. Trained in self-defense and discreet piloting, they
+without violence. Trained in self-defence and discreet piloting, they
 are equipped for sensitive diplomatic missions. Their strategic
 influence and psychological insight play a pivotal role in operations
 requiring nuanced approaches to complex interstellar relations.
@@ -3602,7 +3623,7 @@ create a crippled team. The characters should form a highly performant
 crew their employers trust in at the beginning of the game. They are
 the ones that are trusted with classified information regarding their
 missions. Not all of it of course, but a great deal of. This crew
-should be a mission ready one.
+should be mission ready.
 
 ### Deciding on the Attributes
 
@@ -3616,9 +3637,9 @@ Dedication, and Mind.
 Characters are defined by their attributes, which represent different
 aspects of their abilities and characteristics. There are four core
 attributes, divided between two physical and two mental attributes,
-which are used as the foundation for the character\'s capabilities.
+which are used as the foundation for the character's capabilities.
 These core attributes are then used to determine derived attributes
-which further define the character\'s abilities and limitations.
+which further define the character's abilities and limitations.
 
 Understanding the attributes is crucial for players when creating and
 developing their characters, as well as during game play when making
@@ -3636,7 +3657,7 @@ character generation.
 
 ###### Force (For)
 
-Force represents a character\'s physical strength, toughness, and
+Force represents a character's physical strength, toughness, and
 resilience. A character with high Force is capable of carrying heavy
 loads, breaking through obstacles, and enduring harsh conditions. This
 attribute is essential for characters who rely on melee combat or need
@@ -3644,15 +3665,15 @@ to perform physically demanding tasks, such as climbing or swimming.
 
 ###### Nimbleness (Nim)
 
-Nimbleness represents a character\'s agility, speed, and flexibility.
-A character with high Nimbleness is quick on their feet, able to dodge
+Nimbleness represents a character's agility, speed, and flexibility. A
+character with high Nimbleness is quick on their feet, able to dodge
 attacks, and move with precision. This attribute is essential for
 characters who rely on ranged combat or need to perform acrobatic
 feats, such as jumping or balancing.
 
 ###### Dedication (Ded)
 
-Dedication represents a character\'s concentration, focus, and mental
+Dedication represents a character's concentration, focus, and mental
 endurance. A character with high Dedication can maintain their focus
 on a task for extended periods and resist distractions and mental
 fatigue. This attribute is essential for characters who rely on
@@ -3661,9 +3682,9 @@ deciphering codes or solving puzzles.
 
 ###### Mind (Mnd)
 
-Mind represents a character\'s intelligence and the ability to grasp
+Mind represents a character's intelligence and the ability to grasp
 complex thought structures. A character with a high Mind is capable of
-understanding intricate concepts, analyzing situations, and making
+understanding intricate concepts, analysing situations, and making
 informed decisions. This attribute is essential for characters who
 rely on knowledge-based skills or need to solve problems creatively.
 
@@ -3703,58 +3724,62 @@ can be reduced due to mind-shattering experiences, bad odds, and other
 sources. If the MeE remains above zero, no further problems will
 arise. Zero or less is bad news for the character.
 
-#### Allocate Points
+#### Allocate Points on Attributes
 
-You have a total of 24 points to distribute among these four
-attributes. Each attribute must have a minimum value of 4 and a
-maximum value of 8 at this stage.
+Among these four attributes 24 points are distributed. Each attribute
+must have a minimum value of 4 and a maximum value of 8 at this stage.
 
 ### Calculate Derived Attributes
 
 After setting your core attributes, proceed to calculate your derived
 attributes like Physical Endurance, Mental Endurance, and Speed. These
 are based on formulas involving your core attributes and provide
-additional information about your character\'s capabilities.
+additional information about your character's capabilities.
 
 ### Finalize Attributes
 
 Double-check your numbers and consider how they align with your
-character\'s backstory and motivations. Make any last-minute
-adjustments, and you\'re set to work on your Expertise Areas and
-Specialisations.
+character's backstory and motivations. Make any last-minute
+adjustments, and you're set to work on your Expertise Areas and
+Specializations.
 
-### Deciding on Skills
+### Deciding on Expertise Areas
 
-Skills in Abyssal are represented by Expertise Areas. You can buy a
-value within these. Further down in the hierarchy are the
+Expertise Areas in Abyssal represent the proficiencies the characters
+have mastered. The expertise areas have levels that represent the
+skill in the Expertise Area. Further down in the hierarchy are the
 Specializations, representing further training in special aspects of
-an Expertise Area. Here\'s how to go about selecting and upgrading
+an Expertise Area. Here's how to go about selecting and upgrading
 them.
 
 #### Calculate Mastery Gate
 
 Before diving into Expertise Areas, figure out your Mastery Gate for
-each one you\'re interested in. Mastery Gate is influenced by your
-attributes and represents an aptitude for a Expertise Area. The
-attributes associated with a skill are listed in the in the
+each one you're interested in. The mastery gate is best described as
+the aptitude for an expertise area. Up to the Mastery Gate it is
+easier to learn a new level, but once you reach or exceed it, the cost
+to learn a new level increases.
+
+Mastery Gate is influenced by your attributes. The attributes
+associated with an Expertise Area are listed in the in the
 corresponding Area.
 
 #### Skill Selection
 
-Choose the skills that fit your character\'s background, role, and the
-needs of your adventuring party. Do you require a diplomat, a scout,
+Choose the skills that fit your character's background, role, and the
+needs of your crew. Do you require a diplomat, a scout,
 or perhaps a jack-of-all-trades? Talk with your fellow group about
 this and ensure that everything fits well. Always remember you are a
 curated team, put together by your corp as a functioning unit. The
-chosen archetype reflects the initial skills.
+chosen archetype dictates the initial skills.
 
 You get to distribute additional 5 Progression Points in Expertise
 Area Levels. The cost for advancing an Expertise Area Level is
-discussed further below under "Skill cost".
+discussed further below under "Expertise Area Level cost".
 
-During Character Creation, skills can\'t be risen higher than their
+During Character Creation, skills can't be risen higher than their
 Mastery gate. Even if an Archetype has a higher Expertise Area value.
-In that case, the value offered from the Archtype is capped.
+In that case, the value offered from the Archetype is capped.
 
 #### Skill Packs for Archtypes
 
@@ -3796,35 +3821,40 @@ for the intended plot.
 
 **Expertise Area Progression Cost Table**
 
-| EAL/MG | <=4 | 5-6 | 7-8 | >=9 |
-|--------|-----|-----|-----|-----|
-| 1      | 1   | 1   | 1   | 1   |
-| 2      | 1   | 1   | 1   | 1   |
-| 3      | 1   | 1   | 1   | 1   |
-| 4      | 1   | 1   | 1   | 1   |
-| 5      | 2   | 1   | 1   | 1   |
-| 6      | 2   | 1   | 1   | 1   |
-| 7      | 2   | 2   | 1   | 1   |
-| 8      | 2   | 2   | 1   | 1   |
-| 9      | 4   | 2   | 2   | 1   |
-| 10     | 4   | 2   | 2   | 1   |
-| 11     | 4   | 4   | 2   | 2   |
-| 12     | 5   | 4   | 2   | 2   |
-| 13     | 5   | 4   | 4   | 2   |
-| 14     | 5   | 5   | 4   | 2   |
-| 15     | 6   | 5   | 4   | 4   |
-| 16     | 6   | 5   | 5   | 4   |
+|   EAL/MG   |  <=4  |  5-6  |  7-8  |  >=9  |
+|:----------:|:-----:|:-----:|:-----:|:-----:|
+|     1      |   1   |   1   |   1   |   1   |
+|     2      |   1   |   1   |   1   |   1   |
+|     3      |   1   |   1   |   1   |   1   |
+|     4      |   1   |   1   |   1   |   1   |
+|     5      |   2   |   1   |   1   |   1   |
+|     6      |   2   |   1   |   1   |   1   |
+|     7      |   2   |   2   |   1   |   1   |
+|     8      |   2   |   2   |   1   |   1   |
+|     9      |   4   |   2   |   2   |   1   |
+|     10     |   4   |   2   |   2   |   1   |
+|     11     |   4   |   4   |   2   |   2   |
+|     12     |   5   |   4   |   2   |   2   |
+|     13     |   5   |   4   |   4   |   2   |
+|     14     |   5   |   5   |   4   |   2   |
+|     15     |   6   |   5   |   4   |   4   |
+|     16     |   6   |   5   |   5   |   4   |
 
 #### Choose Specializations
 
-You may choose two specializations under an Expertise Area with a
-value of at least 7.
+To further the individualization of the character, the player can choose
+a specialization for each Expertise Area. This specialization is a
+specific subtask contained within the larger Expertise Area. These
+specializations can either provide a bonus to a check to which they
+apply, or can be a requirement for certain task. To choose a 
+specialisation the governing Expertise Area Level has to be at 
+least 7.
 
 #### Finalize Expertise Areas
 
-Once you\'ve allocated your points in Expertise Areas and chosen your
+Once you've allocated your points in Expertise Areas and chosen your
 Specializations, take a step back to see how your choices integrate
-with your character\'s overall concept and backstory. Make any
+with your character's overall concept and backstory. Make any
 necessary adjustments and move on to the final steps in character and
 crew creation.
 
@@ -3846,6 +3876,8 @@ the kind of missions the characters are trained for. No use for a
 hyper stealth torpedo vessel in a diplomatic mission with interests.
 So communication is key.
 
+[//]: # (TODO: Provide ships until we have a ship book)
+
 ## Expertise Areas
 
 Skills in the Abyssal are grouped into Expertise Area. Below these
@@ -3862,9 +3894,9 @@ Abyssal are considered to be trained operatives, capable of facing
 dire threats and missions, they have received a diverse education that
 gives them a broad overview in a thematic Expertise Area. This is what
 a Expertise Area represents. A technically versatile operative might
-repair the group\'s ships\' air scrubbers or try to short-circuit a
+repair the group's ships' air scrubbers or try to short-circuit a
 simple magnetic lock. The entire Expertise Area has a value used by
-the character during Skill Checks.
+the character during Checks.
 
 ### Expertise Area Progression
 
@@ -3891,9 +3923,14 @@ To become a Apprentice, Journeyman ,or Master you need a Expertise
 Area value of 4, 8, or 12 in the Expertise Area governing the
 Specialization.
 
-For some Problems you need a certain Level in a specialization. Each
-specialization level gives you a +2 bonus on applicable tasks. The
+Each specialization level gives you a +2 bonus on applicable tasks. The
 final arbiter of this is the Suit.
+
+For some Problems you need a certain Level in a specialization as 
+the tasks are so specialized that a character with basic training 
+simply can not cope with the task. Each Expertise Area Level 
+features a few specializations, but the players may invent some on 
+their own.
 
 #### Custom Specializations
 
