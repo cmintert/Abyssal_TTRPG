@@ -3903,7 +3903,7 @@ the character during Checks.
 Expertise Areas are divided into levels. The higher the level, the
 more skilled the character is in that Expertise Area. The better they
 get they more they benefit from success of a check. Once they reach
-level 4 they gain an additional mark on success. At level 8 easy
+level 4 they gain an additional Mark on success. At level 8 easy
 tasks (TN 4) are automatically passed. At level 12 Moderate tasks
 (TN 8) are automatically passed.
 
@@ -3923,8 +3923,10 @@ To become a Apprentice, Journeyman ,or Master you need a Expertise
 Area value of 4, 8, or 12 in the Expertise Area governing the
 Specialization.
 
-Each specialization level gives you a +2 bonus on applicable tasks. The
-final arbiter of this is the Suit.
+Each specialization level gives you a +2 bonus on applicable tasks.
+The final arbiter of this is the Suit. Only one specialization can be
+used at a time.
+
 
 For some Problems you need a certain Level in a specialization as 
 the tasks are so specialized that a character with basic training 
@@ -3950,9 +3952,9 @@ Avoid overloading the specializations.
 Masterygate For/Ded
 
 The Combat Area is an essential aspect of any operative, highlighting
-a character\'s ability in physical confrontation and tactical
+a character's ability in physical confrontation and tactical
 skirmishes. It represents a wide range of skills from basic
-self-defence to advanced combat tactics, reflecting the character\'s
+self-defence to advanced combat tactics, reflecting the character's
 training, reflexes, and physical conditioning. This skill set is
 essential for characters who find themselves in frequent combat
 situations, or any situation where tactical thinking is advantageous.
@@ -3988,7 +3990,7 @@ hindering enemy movements.
 
 ###### Tactical Maneuvering
 
-Centers on strategic movement in combat scenarios. Specialists in this
+Centres on strategic movement in combat scenarios. Specialists in this
 area are skilled in flanking, using cover, and coordinating movements
 to effectively approach, engage, and disengage enemy forces while
 minimizing risks.
@@ -4009,7 +4011,7 @@ undercover, and manipulate situations to their advantage.
 
 It embodies a range of skills necessary for covert operations,
 intelligence gathering, and subtle manipulation, reflecting a
-character\'s cunning and mental agility. This skill set is
+character's cunning and mental agility. This skill set is
 particularly important for characters involved in surveillance,
 undercover missions, or any situation that requires a discreet
 approach and careful planning.
@@ -4040,7 +4042,7 @@ members of the own peer group.
 
 The modern world relies on encryption of digital documents. In the
 analogue world this is a completely different thing. The cypher
-specialisation is used to encrypt and decrypt messages using
+specialization is used to encrypt and decrypt messages using
 non-electronic means. It is about understanding and creating code
 languages.
 
@@ -4050,7 +4052,7 @@ Masterygate Nim/Ded
 
 The Hardware Expertise Area is crucial for characters involved in
 technology, such as vehicle maintenance, system repair, or machine
-innovation. It reflects a character\'s technical acumen and practical
+innovation. It reflects a character's technical acumen and practical
 experience. These skills include diagnosing malfunctions, improving
 equipment functionality, and creating gadgets, requiring a deep
 understanding of systems from simple locks to complex engines.
@@ -4092,7 +4094,7 @@ Mastery gate Ded/Mnd
 
 The Knowledge Expertise Area gives the character intellectual
 knowledge, historical insight, and the understanding of complex
-phenomena. It represents a character\'s intellectual breadth and
+phenomena. It represents a character's intellectual breadth and
 depth, covering disciplines such as history, science, and to some
 extent, occult hearsay.
 
@@ -4124,8 +4126,11 @@ Science character a jack-of-all-trades.
 ###### Occultism
 
 Occult knowledge is a tricky one. It mostly involves knowledge of the
-\"real world\" occult, not necessarily the one that has started
-working so eerily again. But the two are often very close.
+"real world" occult, not necessarily the one that has started working
+so eerily again. But the two are often very close. So this is not
+about supernatural knowledge, more myths and legends from folklore and
+the like.
+
 
 #### Medical
 
@@ -4225,7 +4230,7 @@ exploration, tactical retreats, or high-speed pursuits. They ensure
 that the team\'s movements are efficient, safe, and strategically
 sound. Orientation allows characters to determine positions and plan
 routes. It involves finding the most advantageous routes, avoiding
-natural hazards, and minimising travel time. It means that movement is
+natural hazards, and minimizing travel time. It means that movement is
 a tactical advantage rather than a liability.
 
 ##### Specializations
@@ -4239,22 +4244,25 @@ direction when electronic devices cannot be used.
 ###### Coordination
 
 Coordination comes into play when estimating travel times based on
-available information. This can be very important when coordinating
-strike teams and planning arrival times.
+available information. This can be crucial when coordinating strike
+teams and planning arrival times.
 
 ###### Jump Plotter
 
-This stellar travel specialisation comes into play when a stellar
+This stellar travel specialization comes into play when a stellar
 projector needs to be programmed for a specific destination. It
-provides
+provides a quick and accurate way to plot a course through the stars,
+avoiding hazards and ensuring a safe arrival. Jump plotters also
+factor in gravitational forces and other celestial bodies that may
+affect the projector and its arrival precision.
 
 #### Physicality
 
 Masterygate For/Nim
 
-The Physicality Expertise Area represents a character\'s physical
+The Physicality Expertise Area represents a character's physical
 strength, endurance, and agility. It includes skills that increase a
-character\'s stamina, brute strength, and flexibility, allowing them
+character's stamina, brute strength, and flexibility, allowing them
 to perform feats of athleticism, withstand strenuous activities, and
 manoeuvre through obstacles. Characters with Physicality are resilient
 and versatile, able to push their bodies beyond normal limits.
@@ -4270,19 +4278,19 @@ horseback riding also fall under this broad area.
 ###### Climbing
 
 Vertical movement is the name of the game. Be it a mountain, a
-skyscraper, or whatever else this specialisation covers. Characters
+skyscraper, or whatever else this specialization covers. Characters
 can secure people and items and bivouac in vertical space.
 
 ###### Swimming
 
 Swimming allows the character to cover more distance and generally
 become more adept at moving through water. The use of scuba gear and
-diving are included in the Swimming specialisation.
+diving are included in the Swimming specialization.
 
-###### Parcour
+###### Parkour
 
 Movement in spaces filled with obstacles, drops, and short climbs is
-the domain of Parcour. It is extremely useful in pursuit situations,
+the domain of Parkour. It is extremely useful in pursuit situations,
 making the terrain much more manageable.
 
 #### Pilot
@@ -4309,7 +4317,7 @@ and strategic positioning.
 
 ###### Aircraft
 
-This specialisation covers flying vehicles. This includes ultralights
+This specialization covers flying vehicles. This includes ultralights
 and other aircraft of various sizes. Pre-flight procedures, necessary
 communications, and handling of extreme situations.
 
@@ -4317,11 +4325,11 @@ communications, and handling of extreme situations.
 
 The handling of various types of watercraft in all situations and the
 knowledge of the movement of water bodies required for piloting the
-craft are part of the specialisation.
+craft are part of the specialization.
 
 ###### Spacecraft
 
-This specialisation provides the knowledge to handle and manoeuvre a
+This specialization provides the knowledge to handle and manoeuvre a
 spacecraft. Initialising projector jumps and preparing for high-G
 manoeuvres are covered. Preparing a ship for all kinds of manoeuvres
 and movements.
@@ -4339,10 +4347,10 @@ information, sway opinions, and apply psychological pressure to
 influence outcomes.
 
 Proficiency in Psych Ops encompasses the use of psychological tactics
-to navigate intricate interactions and subtly achieve objectives.
-These abilities are crucial in negotiations, covert operations, and
+to navigate intricate interactions and subtly achieve goals. These
+abilities are crucial in negotiations, covert operations, and
 situations where strategy is more important than physical
-confrontation. Skilled operatives utilise Psych Ops to exert influence
+confrontation. Skilled operatives utilize Psych Ops to exert influence
 and control, mastering the unseen battle in their pursuit of
 objectives.
 
@@ -4356,10 +4364,10 @@ stress induction to get confessions or secrets. They understand body
 language, verbal cues, and the psychological principles behind
 truth-telling and deception.
 
-###### Behavioral Profiling
+###### Behavioural Profiling
 
-Involves analyzing individuals or groups to predict or manipulate
-their behavior. Specialists in this area are adept at identifying
+Involves analysing individuals or groups to predict or manipulate
+their behaviour. Specialists in this area are adept at identifying
 patterns, motivations, and vulnerabilities. They use this knowledge to
 anticipate actions, exploit weaknesses, or devise strategies for
 influencing or controlling targets.
@@ -4376,27 +4384,27 @@ resilience or enemies for doubt.
 
 Masterygate Ded/Mnd
 
-The Resources skill set is crucial to optimising the use of resources
-in gameplay, as it directly affects the team\'s equipment maintenance
+The Resources skill set is crucial to optimizing the use of resources
+in gameplay, as it directly affects the team's equipment maintenance
 and supply efficiency. Characters skilled in Resource Management can
 stretch supplies, repair equipment with fewer materials, and negotiate
 effectively for resources, making them invaluable in resource-poor
 environments.
 
 Allocation allows for optimal resource distribution, acquisition to
-obtain new materials, and conservation to minimise waste. In tactical
+obtain new materials, and conservation to minimize waste. In tactical
 scenarios, skilled resource managers ensure team readiness and
 resilience, significantly impacting overall mission success. This
 skill is essential for strategic planning and maintaining operational
 efficiency in challenging missions.
 
-##### Specialisations
+##### Specializations
 
 ###### Supply Negotiation
 
 Focuses on acquiring resources at the best possible value. Specialists
 are skilled in bargaining, trade, and procurement strategies. This can
-be used to gain access to more advanced or specialised equipment for a
+be used to gain access to more advanced or specialized equipment for a
 mission from the corp.
 
 ###### Logistics
@@ -4409,7 +4417,7 @@ materials and personnel are where they need to be.
 ###### Crisis Organisation
 
 Procurement of needed material in times of need, fast. Skilled
-personel in this specialistaion is able to talk to the right persons
+personel in this specialization is able to talk to the right persons
 in the right places to make dire needed equipment available.
 
 #### Software
@@ -4429,9 +4437,9 @@ into systems to gather data, create distractions, or sabotage
 operations. Mastery of software turns the digital landscape into a
 tactical advantage, making these skills essential in a
 technology-driven environment. Their ability to manipulate the digital
-realm is a powerful asset in any team\'s arsenal.
+realm is a powerful asset in any team's arsenal.
 
-##### Specialisations
+##### Specializations
 
 ###### Cyber Operations
 
@@ -4439,14 +4447,14 @@ Focuses on both defending against and exploiting digital threats.
 Specialists are skilled in both protecting systems using encryption
 and firewalls, and attacking with hacking techniques like phishing and
 exploiting vulnerabilities. They understand network and system
-infrastructures. This specialistaion combines proactive defense with
-aggressive offense to ensure digital security and superiority.
+infrastructures. This specialization combines proactive defence with
+aggressive offence to ensure digital security and superiority.
 
 ###### Software Development
 
 Centers on creating, testing, and improving software applications.
 This specialization involves coding, debugging, and reverse
-engeneering. Specialists are enabled to create custom software
+engineering. Specialists are enabled to create custom software
 solutions for unique challenges or missions.
 
 ###### Data Analytics
@@ -4469,9 +4477,9 @@ attacks undetected.
 Strong stealth skills allow agents to evade sentries, avoid traps and
 gain strategic positions that are crucial for ambushes or covert
 missions. Mastery involves understanding the environment and how to
-behave in order to remain unseen. Stealth can be used to operate from
-the shadows, making it invaluable for operations that require finesse
-and discretion.
+behave to remain unseen. Stealth can be used to operate from the
+shadows, making it invaluable for operations that require finesse and
+discretion.
 
 ##### Specializations
 
@@ -4494,8 +4502,8 @@ in a variety of environments. Specialists in Shadow Movement are
 trained to minimize noise and visibility, understand the use of light
 and shadow, and move with the utmost discretion. They are adept at
 blending into their surroundings, be it urban landscapes or natural
-terrain. This specialization is essential for carrying out tasks in
-close proximity to unsuspecting adversaries.
+terrain. This specialization is essential for carrying out tasks 
+close to unsuspecting adversaries.
 
 ###### Camouflage and Disguise
 
@@ -4527,7 +4535,7 @@ about understanding the environment and using it effectively.
 Skilled survivalists are prepared for the unexpected and turn dire
 situations into opportunities. Their adaptability and perseverance are
 important assets that ensure the continuation of the mission even in
-the most difficult circumstances.
+the most challenging circumstances.
 
 ##### Specializations
 
@@ -4548,7 +4556,7 @@ inhabitants.
 
 ###### Extreme Condition Adaptation
 
-Centers on survival techniques specific to harsh conditions such as
+Centres on survival techniques specific to harsh conditions such as
 arctic cold, desert heat, or even high radiation. Specialists are
 knowledgeable about appropriate shelter, clothing, and activity to
 maintain body temperature and hydration. They are also skilled in
