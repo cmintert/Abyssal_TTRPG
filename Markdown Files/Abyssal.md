@@ -3182,7 +3182,7 @@ Below is a proper Markdown table based on the provided selection:
 | Easy              | 4   | These tasks pose a minor challenge for untrained characters but are usually straightforward for those with even a small amount of training or aptitude.                |
 | Moderate          | 8   | These tasks are typically challenging for beginners but manageable for those with some experience or training.                                                         |
 | Difficult         | 12  | These tasks pose a serious challenge and often require a good amount of training or experience to succeed.                                                             |
-| Very difficult    | 16  | These tasks are extremely challenging and require a high level of skill to overcome. Even those with significant training or experience can struggle with these tasks. |
+| Challenging       | 16  | These tasks are extremely challenging and require a high level of skill to overcome. Even those with significant training or experience can struggle with these tasks. |
 | Nearly impossible | 18+ | Nearly Impossible - These tasks are at the limit of what is possible. Only those with exceptional skill and experience have any hope of succeeding.                    |
 
 #### Anatomy of a Check
@@ -4722,15 +4722,14 @@ digital. This tracking is only done to support the narrative and keep
 things consistent. Characters have a move range to give an estimate of
 their ability to cross distances. Distances are given in descriptive
 terms in the following order: "close quarter" → "near" → "middle
-range"
-→ "long range". Again, this should be intuitive.
+range" → "long range". Again, this should be intuitive.
 
 ## Intents
 
 ### Deal damage
 
 During combat one of the most common intents is dealing damage to an
-oponent with a weapon. This can be broken down into three parts.
+opponent with a weapon. This can be broken down into three parts.
 
 #### Hitting a target
 
@@ -4745,6 +4744,57 @@ Hitting with a ranged weapon is done with a simple Combat check. If
 the check is successful, the target is hit and damage is dealt based
 on the Marks achieved and the protection or resistance of the target.
 Marks used to deal damage are considered to be spent.
+
+Examples of different difficulties hitting a target with a ranged
+weapon:
+
+Trivial (TN 2)
+
+- Shooting a stationary target at point-blank range Firing at a large
+- storage container from 10 meters away Hitting an immobile drone
+- hovering directly in front of you
+
+Easy (TN 4)
+
+- Hitting a humanoid target standing still at close range (15-20
+  meters)
+- Shooting a slow-moving maintenance bot in a well-lit corridor Firing
+- at a door control panel from across a small room
+
+Moderate (TN 8)
+
+- Hitting a moving target at middle range Shooting through light
+  cover (like thin wall panels or foliage)
+- Firing at a target during a ship's minimal gravity fluctuation
+- Taking a shot while under mild stress (such as after running)
+
+Difficult (TN 12)
+
+- Hitting a target partially concealed behind cover Shooting at an
+  opponent who's actively dodging
+- Firing accurately during a firefight with multiple distractions
+  Making a shot in low visibility conditions (fog, smoke, dim
+  lighting)
+- Targeting a specific limb or non-center mass area
+
+Challenging (TN 16)
+
+- Hitting a small, fast-moving target at long range Shooting through a
+  narrow gap or firing port
+- Making a shot while the character is in rapid motion (hanging from a
+  moving vehicle)
+- Firing accurately during extreme environmental conditions (heavy
+  rain, strong winds)
+
+Nearly Impossible (TN 18+)
+
+- Making a precision shot through multiple layers of moving obstacles
+- Hitting a target during zero-G combat while spinning uncontrollably
+  Shooting a specific small component (like a power cell) on a moving
+  target
+- Making a shot while heavily wounded and experiencing severe pain
+  Hitting a target in near-complete darkness without specialized
+  equipment
 
 ##### Close Combat Weapon
 
@@ -4813,7 +4863,7 @@ establishes if the wound is fatal instantaneous.
 All existing serious wounds increase the TN of these checks by 2.
 
 For Non-Player Characters the Suit can automatically decide upon their
-death or use the opponent\'s wound track.
+death or use the opponent's wound track.
 
 #### Serious Wound Location and Effects (Optional)
 
@@ -4821,14 +4871,14 @@ If the Suit wants to add more depth to the combat, he can assign a
 location to the serious wound. This can be done by rolling a d20 and
 looking up the result in the table below.
 
-| Roll  | Location  |
-|-------|-----------|
-| 1-3   | Head      |
-| 4-8   | Torso     |
-| 9-11  | Left Arm  |
-| 12-14 | Right Arm |
-| 15-17 | Right Leg |
-| 18-20 | Left Leg  |
+| Roll   | Location   |
+|:-------|:-----------|
+| 1-3    | Head       |
+| 4-8    | Torso      |
+| 9-11   | Left Arm   |
+| 12-14  | Right Arm  |
+| 15-17  | Right Leg  |
+| 18-20  | Left Leg   |
 
 After determining the location roll a D4 to determine severity. The
 attacker can spend marks to increase the severity roll (1 mark = +1 to
@@ -4907,7 +4957,7 @@ like the first one.
 At their core, we can describe ships based on their technical stats,
 such as attributes and derived attributes of a character. These
 numbers are one thing, it is important to get a feel for the ship,
-especially if it is the character\'s one provided by their Patreon. We
+especially if it is the character's one provided by their Patreon. We
 should be thinking about quirks, colour, internal appearance, and
 those sorts of things that are not reflected in the rules but are
 influential nonetheless. It will further the immersion and attachment
@@ -4933,7 +4983,7 @@ the need for shuttles, small cargo transfer haulers, and small patrol
 vessels going to anchor after a successful shift. But those are mostly
 orbit bound ships.
 
-The character\'s ship should be around the size of 1000 GST. To bring
+The character's ship should be around the size of 1000 GST. To bring
 this into perspective, it would be around 38m long and roughly 10m
 wide and 8m high, being in a roughly boxy shape. That is a sizeable
 ship equipped for many tasks and able to carry a punch.
@@ -4983,13 +5033,13 @@ extreme radiation.
 ### Signal Rating (SiR)
 
 This is an important consideration for combat in Space. Every space
-vessel has a signature strength, representing it´s emmision of energy
-over a multispectral field. It´s the emmision of heat, gravimetric
+vessel has a signature strength, representing it´s emission of energy
+over a multispectral field. It´s the emission of heat, gravimetric
 waves, and other electromagnetic radiation. The more of these
-emmisions take place the bigger is the signature of the vessel,
-meassured in the Signature Rating (SiR). This is what scanners try to
+emissions take place the bigger is the signature of the vessel,
+measured in the Signature Rating (SiR). This is what scanners try to
 detect and is influenced by many factors. These are in general the
-size, the energy emmited, and the distance to the scanner. To keep it
+size, the energy emitted, and the distance to the scanner. To keep it
 easy the SiR is measured as a target number (TN) that is to be met by
 checks made by sensors and electronic warfare.
 
@@ -5005,17 +5055,17 @@ five main components to a vessel.
 
 ### Armour
 
-This represents the durability and resistance of the vessel\'s hull.
+This represents the durability and resistance of the vessel's hull.
 The higher this value goes, the more the hull can withstand damage
 from various sources. This can be weapon damage, micrometeors among
 other things.
 
-Armour is represented by deducting marks from a successful hit,
-thereby reducing the damage.
+Armour is a value compared to the penetration of a hit. The higher the
+value, the more damage can be absorbed.
 
 ### Drive
 
-The Drive Attribute represents the ships\' acceleration. With the
+The Drive Attribute represents the ships' acceleration. With the
 K-Pad Drives, fuel is no limiting factor for continuous acceleration
 anymore, giving ships enormous speeds. The limiting factor is the hull
 and strengthening of the drives to cope with possible G forces putting
@@ -5023,15 +5073,16 @@ strain on the structure. The people inside the ship are the most
 limiting factor, but pulling high G manoeuvres also leads to high
 maintenance needs and costs.
 
-Drive is given in three values, Cruise/March/Max. Up to max, all
-accelerations are possible, but further rules will reference these
-three values.
+Drive is given in three values, Cruise/March/Max and measured in G. Up
+to max, all accelerations are possible, but further rules will
+reference these three values.
 
 ### Cargo
 
 How much space does the vessel posses to transport cargo and to
 possibly fit with modular and special equipment. It actually
-represents space to be used as deemed fit.
+represents space to be used as deemed fit. Cargo is measured in 
+Gross Space Tonnage or just GST.
 
 ### Sensors
 
@@ -5052,8 +5103,8 @@ otherwise not available, that is marked with an X.
 
 EWF gives the vessel abilities to conduct electronic attacks against
 enemy weapons and ships. These are systems to be operated by personnel
-or a character with the Expertise Area \<Software\>, the
-Specialisation \<Cyber Operations\> may be a perquisite for more
+or a character with the Expertise Area <Software>, the
+Specialisation <Cyber Operations> may be a perquisite for more
 advanced systems and is definitely relevant to EWF.
 
 The Value is represented as a modifier to the checks. The value can be
@@ -5062,26 +5113,26 @@ positive or negative, depending on the quality. A zero is a quality.
 ### Weapons
 
 Under weapons the different offensive systems are filed and listed.
-These can be different self porpelled munition, mines, drones, and
+These can be different self propelled munition, mines, drones, and
 projectile weapons.
 
 ### Emergency Repair Systems
 
 In case of damage to a vessel it can be equipped with emergency repair
 systems. These systems are things like automatic puncture sealing,
-repair drones, redundancy systems, fire controll, and a multitude of
+repair drones, redundancy systems, fire control, and a multitude of
 other components offering added security for the vessels inhabitants.
 
 These systems are not without limits. They have a certain amount of
-replacement parts and bots, limitis on reaction speed.
+replacement parts and bots, limits on reaction speed.
 
 So a Emergency Repair system has three parameters.
 
-The first is the number of StE Points it can repair bofore needing to
+The first is the number of StE Points it can repair before needing to
 be refilled and maintained.
 
 The second is the efficiency using a modifier on the needed
-\<Hardware\> check. This can be positive or negative.
+<Hardware> check. This can be positive or negative.
 
 The third is the speed of the system, limiting the number of StE that
 can be repaired in a single Check.
@@ -5092,11 +5143,11 @@ can be repaired in a single Check.
 
 #### Torpedos
 
-Torpedoes are specialized munitions designed to deliver devastating
+Torpedoes are specialised munitions designed to deliver devastating
 payloads over long distances. They have advanced sensor arrays to to
-track their targets and initiate evasive maneuers against the target's
-countermeasures. Torpedos come with Kramer PAD Drives. Often equipped
-with powerful warheads, torpedoes are capable of inflicting
+track their targets and initiate evasive manoeuvres against the
+target's countermeasures. Torpedos come with Kramer PAD Drives. Often
+equipped with powerful warheads, torpedoes are capable of inflicting
 significant damage to enemy ships, making them a formidable weapon at
 long distances. Torpedos are huge, expensive weapons.
 
@@ -5122,32 +5173,32 @@ a distance to engage targets beyond visual range. These missiles are
 equipped with advanced guidance systems, allowing them to track and
 intercept enemy vessels with precision.
 
-> Hades 5 Missile
->
->Description: The Hades 5 is a standard missile in the Paladium
+> HADES 5 MISSILE
+> 
+> Description: The Hades 5 is a standard missile in the Paladium
 > Tactics
 > Corp. arsenal. It is equipped with a small Sensor array
 > incorporating
-> Thermal and Visual Reckognition, Ready to receive targeting
+> Thermal and Visual Recognition, Ready to receive targeting
 > information
 > from the firing vessel. Designed for medium range it packs an
-> intense 8g
+> intense 8G
 > acceleration rate for 5 minutes, only being able to make inbound
 > course
 > corrections and defensive manoeuvres after that. This would hit a
 > target
 > at 10,000 km in about 10 minutes causing serious damage
 
-#### Near Range Missiles
+#### Short Range Missiles
 
-Near-range missiles are close-quarters weapons designed for
+Short-range missiles are close-quarters weapons designed for
 engagements at relatively short distances. Despite their limited
 range, short-range missiles pack a powerful punch, making them ideal
 for rapid, close-range combat encounters.
 
 > HYDRA INTERCEPTOR MISSILE
 >
->The Hydra is a near range defence missile usually deployed against
+>The Hydra is a short range defence missile usually deployed against
 > incoming ordnance, speak torpedoes, medium range missiles, or
 > drones.
 > Hydra is lightweight, concentrating on speed and relying on target
@@ -5174,12 +5225,12 @@ Systems with small calibres and high rates of fire.
 > Utilizing electromagnetic acceleration, it can fire projectiles at
 > extremely high velocities with pinpoint accuracy. Designed for
 > close-Quarter to near space engagements, the Vulcan is capable of
-> delivering a relentless barrage, overwhelming enemy defenses. With a
+> delivering a relentless barrage, overwhelming enemy defences. With a
 > firing rate of 1200 rounds per minute, it excels in both offensive
 > and
 > defensive roles, making it a staple for any well-equipped vessel.
 
-#### Convetional Projectile Weapons
+#### Conventional Projectile Weapons
 
 Conventional projectile weapons encompass a wide range of firearms and
 cannons that use chemical propellants to launch projectiles. While not
@@ -5191,9 +5242,9 @@ to move the targeting machinery.
 
 > THUNDERSTRIKE ARTILLERY
 >
->The Thunderstrike Artillery system is a robust, high-caliber
+>The Thunderstrike Artillery system is a robust, high-calibre
 > conventional cannon. Using chemical propellants, it launches heavy
-> projectiles capable of breaching the thickest armor. Ideal for
+> projectiles capable of breaching the thickest armour. Ideal for
 > long-range bombardments, the Thunderstrike combines reliability with
 > devastating firepower. It is especially useful when electronic
 > warfare
@@ -5260,7 +5311,7 @@ stationary or slow moving targets as they mostly lack KPAD Drives.
 > critical data on enemy positions and movements. The Raven is an
 > invaluable asset for tactical planning and situational awareness.
 
-# Space Combat (SpCo)
+# Space Combat
 
 During their missions, the characters will surely come into conflict
 in the depths of space. They will come upon hostile vessels with ill
