@@ -3846,9 +3846,8 @@ To further the individualization of the character, the player can choose
 a specialization for each Expertise Area. This specialization is a
 specific subtask contained within the larger Expertise Area. These
 specializations can either provide a bonus to a check to which they
-apply, or can be a requirement for certain task. To choose a 
-specialisation the governing Expertise Area Level has to be at 
-least 7.
+apply, or can be a requirement for certain task. The specializations
+chosen starts at the Apprentice level.
 
 #### Finalize Expertise Areas
 
@@ -3881,10 +3880,20 @@ So communication is key.
 ## Expertise Areas
 
 Skills in the Abyssal are grouped into Expertise Area. Below these
-Expertise Areas are Specializations. These Specializations give the
-character an advantage if the Specialization applies to the check
-required for the task at hand. Sometimes the Specialization is a
-prerequisite for being able to tackle a problem at all.
+Expertise Areas are Specializations.
+
+Expertise Areas have a numerical value and a rank name. EA with a
+value above 4 are called Apprentice, above 8 are called Journeyman,
+and above 12 are called Master. The rank name is used to describe the
+level of expertise a character has in a specific area.
+
+Specializations give the character an advantage if the Specialization
+applies to the check required for the task at hand. Sometimes the
+Specialization is a prerequisite for being able to tackle a problem at
+all. Specializations do not have a numerical value, but they are
+ranked as well. The rank names are Apprentice, Journeyman, and Master.
+The rank name is used to describe the level of expertise a character
+has in a specific specialization.
 
 ### Expertise Area
 
@@ -3900,12 +3909,12 @@ the character during Checks.
 
 ### Expertise Area Progression
 
-Expertise Areas are divided into levels. The higher the level, the
-more skilled the character is in that Expertise Area. The better they
-get they more they benefit from success of a check. Once they reach
-level 4 they gain an additional Mark on success. At level 8 easy
-tasks (TN 4) are automatically passed. At level 12 Moderate tasks
-(TN 8) are automatically passed.
+Three levels of proficiency can be reached in an Expertise Area. They
+are Apprenti at EAL 4, Journeyman at EAL 8, and Master at EAL 12.
+The better they get they more they benefit from success of a check.
+Once they reach Apprentice they gain an additional Mark on success. At
+Journeyman level easy tasks (TN 4) are automatically passed. As a 
+Master Moderate tasks (TN 8) are automatically passed.
 
 [//]: # (TODO: check if this is to powerful)
 
@@ -3916,8 +3925,8 @@ subtasks contained within the larger Expertise Area. These
 specializations can either provide a bonus to a check to which they
 apply, or can be a requirement. Certain types of equipment or
 exceptional tasks contain these perquisites in their description.
-Specializations can have different levels , Apprentice, Journeyman,
-and Master.
+Specializations can have different levels as do Expertise areas 
+themselves, Apprentice, Journeyman, and Master.
 
 To become a Apprentice, Journeyman ,or Master you need a Expertise
 Area value of 4, 8, or 12 in the Expertise Area governing the
@@ -3926,7 +3935,6 @@ Specialization.
 Each specialization level gives you a +2 bonus on applicable tasks.
 The final arbiter of this is the Suit. Only one specialization can be
 used at a time.
-
 
 For some Problems you need a certain Level in a specialization as 
 the tasks are so specialized that a character with basic training 
@@ -4574,10 +4582,13 @@ the players. These can be used to buy new Expertise Area Levels (EAL)
 or Specializations.
 
 To further Expertise Areas refer to the EAL Table to look up the cost
-PP for the new EAL.. Remember to consider the Mastery Gate. The
-possibility to unlock Specializations come at the governing EAL. Of 4,
-8, and 12. Each Specialization Level costs 3 PP, opening up new
-possibilities and boni for certain tasks.
+PP for the new EAL. Remember to consider the Mastery Gate. 
+
+To get a new specialization costs 3 PP. This makes the player an 
+Apprentice at the specialization. Advancing the specialization to 
+Journeyman or Master costs 3 PP each. The player most have an 
+equal level in the governing Expertise Area to be able to advance the
+specialization.
 
 PP will be awarded after each session, usually around 2. This may be
 modified depending on various conditions. The characters my have
