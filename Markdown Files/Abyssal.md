@@ -4830,8 +4830,8 @@ looking up the result in the table below.
 
 After determining the location roll a D4 to determine severity. The
 attacker can spend marks to increase the severity roll (1 mark = +1 to
-the roll). Effects are cumulative - higher severity includes all
-effects from lower severity levels.
+the roll). Each previous serious injury in the same location also 
+increases the severity roll by 1.
 
 ##### Head
 
