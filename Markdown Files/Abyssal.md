@@ -3375,12 +3375,14 @@ their actions.
 > door
 > remains sealed, its secrets tightly locked away.
 
-### Temptation Dice
+### Tempting fate
 
 If you really want to succeed at a check you may choose to take the
-highest instead of the middle value. The choice is made before an
-actual roll. It will significantly increase your chances but also
-increases the risk of failure. This is called tempting fate.
+highest instead of the middle value in a roll. This choice is made
+before an actual roll. It will significantly increase your chances but
+also increases the risk of failure. This is called tempting fate.
+
+### Temptation Dice
 
 After tempting fate a d4 is added to the temptation dice collection.
 These d4 are called Temptation Dice.
