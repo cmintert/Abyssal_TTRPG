@@ -5342,7 +5342,7 @@ started in earnest.
 
 ## Combat Segments and Spotlights
 
-Space combat unfolds in segments -- abstract units of time
+Space combat unfolds in segments - abstract units of time
 representing focused periods of action. The main system to order and
 track time is the spotlight, emphasizing individual crew members and
 their contributions to the battle.
@@ -5353,7 +5353,7 @@ A Spotlight is a focused moment for a player to direct their character
 and their assigned role on their vessel. During their Spotlight, a
 player:
 
-- **Declares their character\'s intent:**States the overall goal for
+- **Declares their character's intent:**States the overall goal for
   their actions this Spotlight.
 
 - **Details their actions:**Describes the specific maneuvers,
@@ -5369,19 +5369,19 @@ dynamic and often chaotic nature of space engagements.
 
 #### Spotlight Order and Narrative Priority
 
-Spotlight order in Abyssal Space Combat is determined by**Narrative
+Spotlight order in Abyssal Space Combat is determined by **Narrative
 Priority**, granting the Suit flexibility to manage combat flow and
 heighten drama. The Suit dictates the Spotlight resolution order
 within each segment based on:
 
-- **Dramatic Flow:**Prioritizing actions that create compelling
+- **Dramatic Flow:** Prioritizing actions that create compelling
   narrative developments and heighten tension.
 
-- **Logical Consequence:**Respecting cause and effect, ensuring
+- **Logical Consequence:** Respecting cause and effect, ensuring
   actions resolve in a sensible sequence (e.g., sensor scans before
   weapon targeting).
 
-- **Pacing and Balance:**Distributing Spotlight opportunities
+- **Pacing and Balance:** Distributing Spotlight opportunities
   reasonably among players throughout the engagement, ensuring all
   players contribute meaningfully.
 
@@ -5407,8 +5407,8 @@ ensure narrative coherence.
 
 ## Intent Categories in Space Combat
 
-Abyssal Space Combat is structured around five key**Intent Categories
-**, reflecting the core functions of a vessel\'s crew in battle. In
+Abyssal Space Combat is structured around five key **Intent Categories
+**, reflecting the core functions of a vessel's crew in battle. In
 each combat segment, players typically focus their actions within one
 or more of these categories, utilizing their character's skills and
 expertise. This structure is only relevant to give some common ground
@@ -5416,7 +5416,7 @@ for the statement of intent.
 
 ### Piloting & Ship Manoeuvring
 
-Piloting encompasses all actions related to controlling the vessel\'s
+Piloting encompasses all actions related to controlling the vessel's
 movement, positioning, and spatial awareness. A skilled pilot is
 crucial for survival, utilizing Jump Generators, Kramer-PAD Drives and
 manoeuvring jets to evade enemy fire and gain tactical advantages.
@@ -5459,11 +5459,12 @@ hand, it relies much on scanners and predictive targeting, the enemy
 being able to dodge more easily on long-range engagements. As with
 ground combat, we keep the distances a bit more abstract defining the
 following. Distances are given in descriptive terms in the following
-order: "close quarter" →
-"near" → "middle range" → "long-range" → "extreme range". As we do not
-have an intuitive feeling for range in space there is the following
-definition of ranges. As there are also ranges in ground combat we
-will use the abbreviation SR (Space Range).
+order: "close quarter" → "near" → "middle range" → "long-range" → 
+"extreme range". 
+
+As we do not have an intuitive feeling for range in
+space there is the following definition of ranges. As there are also
+ranges in ground combat we will use the abbreviation SR (Space Range).
 
 #### Close Quarter -- SR
 
@@ -5504,15 +5505,15 @@ The speed in space combat has two components that can be accounted
 for, the absolute speed and the acceleration. Acceleration is set by
 by mass of the vessel and the capabilities of the KPAD Drive. The
 absolute speed can be vast with no resistance in deep space
-whatsoever, lightspeed beeing the obvious limit. Acceleration is an
+whatsoever, lightspeed being the obvious limit. Acceleration is an
 interesting factor in combination with distance if you can outrun
 missile weapons. Or at least buy some time. Course changes also depend
 on absolute speed. As always in Abyssal this is handled narratively
 without exact calculations. Just something to keep in mind.
 
-For those interested the formula for the turn rate is r=v\^2/a. r is
-the turn radius in meters, v is the absolute velocity, and a lateral
-acceleration.
+> For those interested the formula for the turn rate is r=v\^2/a. The
+> variable r is the turn radius in meters, v is the absolute velocity,
+> and a lateral acceleration.
 
 The facing of a space vessel is achieved with manoeuvring jets turning
 it on the spot. This is used for firing weapons in arbitrary
@@ -5543,16 +5544,16 @@ basis for ordering.
 
 If there is more than open space at the engagement site and scale a
 pilot my use asteroids, structures, or even small moons to improve
-stealth or sensor avoidance. A \<Pilot\> check against a TN set by the
+stealth or sensor avoidance. A <Pilot> check against a TN set by the
 GM based on the abundance of possibilities is rolled and the achieved
 marks add to the difficulty of sensor lock on.
 
 #### Evasive Maneuvers
 
 The pilot attempts to evade incoming fire and disrupt targeting
-solutions, pushing the ship to its limits. The pilot makes a \<Pilot\>
+solutions, pushing the ship to its limits. The pilot makes a <Pilot>
 check, TN modified by threat, enemy skill, vessel agility, and
-environment. Success raises the ship\'s EWDR by the number of marks.
+environment. Success raises the ship's EWDR by the number of marks.
 The ship may undergo tremendous structural stress and take damage to
 the StE.
 
@@ -5565,22 +5566,22 @@ systems. This approach is particularly useful when trying to avoid
 detection during surveillance or approaching a target unobserved.
 Energy has to be conserved where possible
 
-The pilot makes a \<Pilot\> check against a TN modified by current
+The pilot makes a <Pilot> check against a TN modified by current
 emissions and environmental conditions. Each mark achieved reduces the
-ship\'s Signal Rating (SiR) by 1 for the duration of the manoeuvre.
+ship's Signal Rating (SiR) by 1 for the duration of the manoeuvre.
 Success also allows for movement that could be mistaken for normal
 stellar drift or debris.
 
 #### Jump Navigation
 
-It may be necessary to use the ship\'s stellar projectors to gain an
+It may be necessary to use the ship's stellar projectors to gain an
 advantage over the enemy in a combat situation. As the use of these
 devices is highly dependent on gravitational forces, the projector
 must be calibrated to calculate a target location, and in some cases a
 favourable location for portal generation must be found. Or it may be
 an emergency jump to get away from danger quickly. The calculations
 for a successful portal with the correct destination are done with
-\<Navigation/Jump Plotter\>.
+<Navigation/Jump Plotter>.
 
 ### Electronic Warfare
 
