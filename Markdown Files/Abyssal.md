@@ -5675,7 +5675,7 @@ emissions and creating false signatures. This makes the ship harder to
 detect, target, or track accurately.
 
 The operator makes a <Software/Electronic Warfare> check against TN 8.
-Each mark reduces the ship's Signal Rating (SiR) by 1 for one segment.
+Each mark reduces the ship's Signal Rating (SiR).
 The ship must maintain reduced power operations during this time,
 limiting acceleration and weapon use.
 
@@ -5690,7 +5690,7 @@ signatures."*
 
 Specialized EMP weapons can be deployed to directly attack a target's
 electronic systems. Unlike conventional weapons, EMPs bypass physical
-armor but directly damage Electronic Endurance.
+armour but directly damage Electronic Endurance.
 
 The operator makes a <Software> check against the target's EWDR.
 Success inflicts ElE damage equal to the marks generated plus the
@@ -5727,7 +5727,7 @@ of a space vessel. These are set upon the tactical analysis and sensor
 data received about the enemy. So to deploy a weapon system we need
 data and a tactic.
 
-The success of an attack is based upon an Opposed <Software\> check
+The success of an attack is based upon an Opposed <Software> check
 against the SiR of the enemy.
 
 The marks achieved by this test can be used in two ways. Either they
@@ -5764,9 +5764,9 @@ during the check to hit the target
 The weapon itself has a damage modifier added to the damage. Even if
 the damage is reduced below 1 during this step it is always at least
 
-1. If the StE stays above 0 everything is working fine. This
-   represents several things like glancing hits, damage to secondary
-   systems, and general strain on the structure.
+If the StE stays above 0 everything is working fine. This represents
+several things like glancing hits, damage to secondary systems, and
+general strain on the structure.
 
 If the StE drops below 0 critical hits are suffered.
 
@@ -5775,9 +5775,8 @@ If the StE drops below 0 critical hits are suffered.
 When a ship suffers a critical hit, its crew must make a choice. They
 can either withdraw from the battle, declaring their ship inoperable,
 and leaving themselves at the mercy of the enemy. Or they can choose
-to fight on. In this case, the Suit decides to apply a hampering
-effect. This could be the malfunction of a weapon or the loss of
-sensor information.
+to fight on. In this case, the Spacecraft Critical Hit System is
+activated.
 
 # Spacecraft Critical Hit Systems
 
