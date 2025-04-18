@@ -3867,7 +3867,7 @@ here, not mission specific one. It is military graded, not some junk
 but not cutting edge. There is no monetary limitation, just some
 common sense.
 
-The space vessel has to accommodates 5--10 people, equipped with a
+The space vessel has to accommodates 5-10 people, equipped with a
 good Kramer PAD and an intermediate stellar projector. The characters
 have to speak with their Suit about their preferences, so the
 corporation will provide a suitable vessel. This is also dependent on
@@ -4640,6 +4640,18 @@ with a lot of freedom.
 
 These stakes are called "Engagement Stakes".
 
+## Spotlights
+
+The combat system is based on the concept of "spotlights". The 
+spotlight is the time a character has to act. The Suit will call out
+the spotlight of a character, and the player will describe what his
+character is doing. The Suit will then set the stakes for the
+spotlight, and the player will roll the dice. The outcome of the
+roll will determine the success or failure of the action, and the
+suit will narrate the consequences of the action. A spotlight has 
+no fixed duration. A spotlight can simply be the continuation of an
+action already started.
+
 ## Time in Combat
 
 Time in combat is fluid. From a narrative perspective, the measurement
@@ -4662,9 +4674,10 @@ the higher the faster. The time combat starts, the Suit resolves the
 spotlights down from the highest to the lowest result of the
 Nimbleness check. Once every combatant had its spotlight, the segment
 is over and a new one starts. Sometimes the spotlight of a combatant
-is to wait for something to happen. The suit can let the combatant be
-faster automatically or can let him make a Nimbleness simple check to
-see if he actually intercepts the "something".
+is to wait for something to happen or continuing an action. The suit
+can let the combatant be faster automatically or can let him make a
+Nimbleness simple check to see if he actually intercepts the "
+something".
 
 ## Resolving of a spotlight
 
