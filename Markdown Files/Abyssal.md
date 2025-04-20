@@ -20,7 +20,7 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
 
 * [Contents](#contents)
 * [ABYSSAL](#abyssal)
-* [Why should I play Abyssal?](#why-should-i-play-abyssal)
+* [What is Abyssal about ?](#what-is-abyssal-about-)
 * [What is a Roleplaying Game](#what-is-a-roleplaying-game)
 * [Setting Overview of Abyssal](#setting-overview-of-abyssal)
     * [The Universe of Abyssal](#the-universe-of-abyssal)
@@ -104,21 +104,21 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [Conclusion](#conclusion-8)
     * [Shinsei Genomics](#shinsei-genomics)
         * [History and Rise to Prominence](#history-and-rise-to-prominence-7)
-        * [Specialisation and Services](#specialisation-and-services)
+        * [Specialization and Services](#specialization-and-services-7)
         * [Corporate Culture and Ethics](#corporate-culture-and-ethics-8)
         * [Leadership and Figureheads](#leadership-and-figureheads-7)
         * [Economic strategies and growth](#economic-strategies-and-growth-3)
         * [Conclusion](#conclusion-9)
     * [TerraVor](#terravor)
         * [History and Rise to Prominence](#history-and-rise-to-prominence-8)
-        * [Specialization and Services](#specialization-and-services-7)
+        * [Specialization and Services](#specialization-and-services-8)
         * [Corporate Culture and Ethics](#corporate-culture-and-ethics-9)
         * [Leadership and Figureheads](#leadership-and-figureheads-8)
         * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-4)
         * [Conclusion](#conclusion-10)
     * [Zenith Habitation](#zenith-habitation)
         * [History and Rise to Prominence](#history-and-rise-to-prominence-9)
-        * [Specialization and Services](#specialization-and-services-8)
+        * [Specialization and Services](#specialization-and-services-9)
         * [Corporate Culture and Leadership](#corporate-culture-and-leadership)
         * [Economic Strategies and Galactic Influence](#economic-strategies-and-galactic-influence-5)
         * [Conclusion](#conclusion-11)
@@ -205,24 +205,25 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [Emergency Breathing Apparatus](#emergency-breathing-apparatus)
         * [Portable Shelter Module](#portable-shelter-module)
     * [Medical and Survival Gear](#medical-and-survival-gear)
-        * [*Compact Medical Kit*](#compact-medical-kit)
-        * [*Auto-Injector MedPacks*](#auto-injector-medpacks)
-        * [*Personal Health Monitor*](#personal-health-monitor)
-        * [*Portable Hydration System*](#portable-hydration-system)
-        * [*Nutrient Concentrates*](#nutrient-concentrates)
-        * [*Survival Multi-Tool*](#survival-multi-tool)
-        * [*Thermal Emergency Blanket*](#thermal-emergency-blanket)
-        * [*Personal Distress Beacon*](#personal-distress-beacon)
-        * [*Anti-Radiation Pills*](#anti-radiation-pills)
-        * [*Synthetic Skin Spray*](#synthetic-skin-spray)
+        * [Compact Medical Kit](#compact-medical-kit)
+        * [Auto-Injector MedPacks](#auto-injector-medpacks)
+        * [Personal Health Monitor](#personal-health-monitor)
+        * [Emergency Trauma Foam](#emergency-trauma-foam)
+        * [Portable Hydration System](#portable-hydration-system)
+        * [Nutrient Concentrates](#nutrient-concentrates)
+        * [Survival Multi-Tool](#survival-multi-tool)
+        * [Thermal Emergency Blanket](#thermal-emergency-blanket)
+        * [Personal Distress Beacon](#personal-distress-beacon)
+        * [Anti-Radiation Pills](#anti-radiation-pills)
+        * [Synthetic Skin Spray](#synthetic-skin-spray)
         * [Psychoactive Drugs](#psychoactive-drugs)
     * [Weapons](#weapons)
-        * [*Pistol*](#pistol)
-        * [*Submachinegun*](#submachinegun)
-        * [*Assault Rifles*](#assault-rifles)
-        * [*Sniper Rifles*](#sniper-rifles)
-        * [*Longbarreled Coil Guns*](#longbarreled-coil-guns)
-        * [*Grenade Launchers*](#grenade-launchers)
+        * [Pistol](#pistol)
+        * [Submachinegun](#submachinegun)
+        * [Assault Rifles](#assault-rifles)
+        * [Sniper Rifles](#sniper-rifles)
+        * [Long Barrelled Coil Guns](#long-barrelled-coil-guns)
+        * [Grenade Launchers](#grenade-launchers)
         * [Shotguns (Double-Action/Automatic)](#shotguns-double-actionautomatic)
     * [Ammunition](#ammunition)
         * [Standard Projectile Ammunition](#standard-projectile-ammunition)
@@ -269,6 +270,7 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [Opposed Checks](#opposed-checks)
         * [Ongoing check](#ongoing-check)
         * [Cooperative check](#cooperative-check)
+        * [Tempting fate](#tempting-fate)
         * [Temptation Dice](#temptation-dice)
             * [Reducing the Temptation Dice Collection](#reducing-the-temptation-dice-collection)
         * [Marks](#marks)
@@ -297,10 +299,10 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
                     * [Speed (Spd)](#speed-spd)
                     * [Physical Endurance (PhE)](#physical-endurance-phe)
                     * [Mental Endurance (MeE)](#mental-endurance-mee)
-            * [Allocate Points](#allocate-points)
+            * [Allocate Points on Attributes](#allocate-points-on-attributes)
         * [Calculate Derived Attributes](#calculate-derived-attributes)
         * [Finalize Attributes](#finalize-attributes)
-        * [Deciding on Skills](#deciding-on-skills)
+        * [Deciding on Expertise Areas](#deciding-on-expertise-areas)
             * [Calculate Mastery Gate](#calculate-mastery-gate)
             * [Skill Selection](#skill-selection)
             * [Skill Packs for Archtypes](#skill-packs-for-archtypes)
@@ -339,17 +341,17 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
                     * [Modification](#modification)
                     * [Fabrication](#fabrication)
             * [Knowledge](#knowledge)
-                * [Specialisation](#specialisation)
+                * [Specialization](#specialization)
                     * [History](#history)
                     * [Natural Science](#natural-science)
                     * [Occultism](#occultism)
             * [Medical](#medical)
-                * [Specialisation](#specialisation-1)
+                * [Specialization](#specialization-1)
                     * [Trauma Surgery](#trauma-surgery)
                     * [Field Medic](#field-medic)
                     * [Internal Medicine](#internal-medicine)
             * [Negotiation](#negotiation)
-                * [Specialisation](#specialisation-2)
+                * [Specialization](#specialization-2)
                     * [Bartering](#bartering)
                     * [Diplomacy](#diplomacy)
                     * [Intimidation](#intimidation)
@@ -359,43 +361,44 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
                     * [Coordination](#coordination)
                     * [Jump Plotter](#jump-plotter)
             * [Physicality](#physicality)
-                * [Specialisation](#specialisation-3)
+                * [Specialization](#specialization-3)
                     * [Climbing](#climbing)
                     * [Swimming](#swimming)
-                    * [Parcour](#parcour)
+                    * [Parkour](#parkour)
             * [Pilot](#pilot)
-                * [Specialisation](#specialisation-4)
+                * [Specialization](#specialization-4)
                     * [Aircraft](#aircraft)
                     * [Water](#water)
                     * [Spacecraft](#spacecraft)
             * [PsychOps](#psychops)
-                * [Specialisation](#specialisation-5)
+                * [Specialization](#specialization-5)
                     * [Interrogation Techniques](#interrogation-techniques)
-                    * [Behavioral Profiling](#behavioral-profiling)
+                    * [Behavioural Profiling](#behavioural-profiling)
                     * [Conditioning](#conditioning)
             * [Resources](#resources)
-                * [Specialisations](#specialisations)
+                * [Specializations](#specializations-5)
                     * [Supply Negotiation](#supply-negotiation)
                     * [Logistics](#logistics)
                     * [Crisis Organisation](#crisis-organisation)
             * [Software](#software)
-                * [Specialisations](#specialisations-1)
+                * [Specializations](#specializations-6)
                     * [Cyber Operations](#cyber-operations)
                     * [Software Development](#software-development)
                     * [Data Analytics](#data-analytics)
             * [Stealth](#stealth)
-                * [Specializations](#specializations-5)
+                * [Specializations](#specializations-7)
                     * [Infiltration Tactics](#infiltration-tactics)
                     * [Shadow Movement](#shadow-movement)
                     * [Camouflage and Disguise](#camouflage-and-disguise)
             * [Survival](#survival)
-                * [Specializations](#specializations-6)
+                * [Specializations](#specializations-8)
                     * [Wilderness Survival](#wilderness-survival)
                     * [Urban Survival](#urban-survival)
                     * [Extreme Condition Adaptation](#extreme-condition-adaptation)
     * [Character Progression](#character-progression)
 * [Combat](#combat-1)
     * [Engagement Stakes](#engagement-stakes)
+    * [Spotlights](#spotlights)
     * [Time in Combat](#time-in-combat)
     * [Order of combat](#order-of-combat)
     * [Resolving of a spotlight](#resolving-of-a-spotlight)
@@ -433,20 +436,20 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [Cargo](#cargo)
         * [Sensors](#sensors)
     * [Optional Component Attributes](#optional-component-attributes)
-        * [Electronic Warfare (EWF)](#electronic-warfare-ewf)
+        * [Electronic Warfare (EWAR)](#electronic-warfare-ewar)
         * [Weapons](#weapons-1)
         * [Emergency Repair Systems](#emergency-repair-systems)
     * [Spaceship Components](#spaceship-components)
         * [Weaponsystems](#weaponsystems)
             * [Torpedos](#torpedos)
             * [Medium Range missiles](#medium-range-missiles)
-            * [Near Range Missiles](#near-range-missiles)
+            * [Short Range Missiles](#short-range-missiles)
             * [Gauss Weapons](#gauss-weapons)
-            * [Convetional Projectile Weapons](#convetional-projectile-weapons)
+            * [Conventional Projectile Weapons](#conventional-projectile-weapons)
             * [Loitering Munition](#loitering-munition)
             * [EMP Weapons](#emp-weapons)
             * [Drones](#drones)
-* [Space Combat (SpCo)](#space-combat-spco)
+* [Space Combat](#space-combat)
     * [Initiating Space Combat](#initiating-space-combat)
     * [Combat Segments and Spotlights](#combat-segments-and-spotlights)
         * [Spotlights in Space Combat](#spotlights-in-space-combat)
@@ -511,22 +514,22 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
             * [Life Support Controls (13-16)](#life-support-controls-13-16)
             * [Power Management (17-18)](#power-management-17-18)
             * [IRHEC Containment Systems (19-20)](#irhec-containment-systems-19-20)
-    * [Emergency Procedures](#emergency-procedures)
-        * [StE Emergency Procedures](#ste-emergency-procedures)
-            * [IRHEC Emergency Options](#irhec-emergency-options)
-                * [Emergency Venting](#emergency-venting)
-                * [Emergency Jettison](#emergency-jettison)
-                * [Emergency Containment](#emergency-containment)
-                * [Emergency Jump](#emergency-jump)
-            * [General Damage Control](#general-damage-control)
-                * [Emergency Repairs](#emergency-repairs)
-                * [System Isolation](#system-isolation)
-                * [Power Rerouting](#power-rerouting)
-        * [ElE Emergency Procedures](#ele-emergency-procedures)
-            * [System Reboot](#system-reboot)
-            * [Electronic Isolation](#electronic-isolation)
-            * [Data Reconstruction](#data-reconstruction)
-            * [Emergency Override](#emergency-override)
+* [Emergency Procedures](#emergency-procedures)
+    * [StE Emergency Procedures](#ste-emergency-procedures)
+        * [IRHEC Emergency Options](#irhec-emergency-options)
+            * [Emergency Venting](#emergency-venting)
+            * [Emergency Jettison](#emergency-jettison)
+            * [Emergency Containment](#emergency-containment)
+            * [Emergency Jump](#emergency-jump)
+        * [General Damage Control](#general-damage-control)
+            * [Emergency Repairs](#emergency-repairs)
+            * [System Isolation](#system-isolation)
+            * [Power Rerouting](#power-rerouting)
+    * [ElE Electronic Emergency Procedures](#ele-electronic-emergency-procedures)
+        * [System Reboot](#system-reboot)
+        * [Electronic Isolation](#electronic-isolation)
+        * [Data Reconstruction](#data-reconstruction)
+        * [Emergency Override](#emergency-override)
 * [Terror, Fear, and Morale](#terror-fear-and-morale)
     * [Regeneration of Mental Endurance](#regeneration-of-mental-endurance)
     * [Mental Degradation](#mental-degradation)
@@ -567,6 +570,8 @@ http://creativecommons.org/licenses/by-nc-nd/4.0
         * [The Atrum Echo](#the-atrum-echo)
         * [The Withering](#the-withering)
         * [Vial of bottled Darkness](#vial-of-bottled-darkness)
+    * [Terror Values](#terror-values)
+    * [Application Guidelines](#application-guidelines)
 * [Appendix of Tables](#appendix-of-tables)
     * [Weapons](#weapons-2)
         * [Ranged Weapons](#ranged-weapons)
@@ -1054,9 +1059,10 @@ and stability among the stars.
 
 Black Hawk's journey from a band of mercenaries to a cornerstone of
 galactic security epitomizes its unwavering commitment to excellence,
-strategic prowess, and the relentless pursuit of securing the future of
-civilization. Standing ready to meet the challenges of tomorrow, Black
-Hawk remains a beacon of stability in the chaotic vastness of space.
+strategic prowess, and the relentless pursuit of securing the future
+of civilization. Standing ready to meet the challenges of tomorrow,
+Black Hawk remains a beacon of stability in the chaotic vastness of
+space.
 
 ## CosmoNav
 
@@ -1431,9 +1437,9 @@ fair treatment of employees are hallmarks of their corporate culture.
 
 Quantum Nova is led by CEO Ulf Sigurdson, a charismatic leader who
 climbed the corporate ladder through skill and vision. His enigmatic
-persona adds a layer of intrigue to Quantum Nova\'s image.
-Sigurdson\'s leadership has been instrumental in steering the company
-towards its current status as a technological powerhouse.
+persona adds a layer of intrigue to Quantum Nova's image. Sigurdson's
+leadership has been instrumental in steering the company towards its
+current status as a technological powerhouse.
 
 ### Economic Strategies and Galactic Influence
 
@@ -1549,7 +1555,7 @@ Genomics dictates the direction of research and holds sway over the
 supply chains for critical medical supplies, impacting the health and
 well-being of countless systems.
 
-### Specialisation and Services
+### Specialization and Services
 
 At the heart of Shinsei Genomics are its gene therapies, offering
 solutions that extend lifespan, improve quality of life, and cure a
@@ -3148,7 +3154,7 @@ dice with confidence and let the story unfold!
 Playing an RPG you need a mechanic to resolve conflict, to determine
 if a character has succeeded a task or if he terribly failed. These
 things are resolved by rolling dice, representatives of the fickle
-gods of fate. Abyssal uses {3D20} to determine the outcome of a task.
+gods of fate. Abyssal uses {3d20} to determine the outcome of a task.
 
 Most tests have an active and a passive party. Someone climbing a wall
 is the active part whilst the wall opposes passively. These are
@@ -3164,9 +3170,10 @@ amount of tests have been passed.
 #### Target Number
 
 Target Numbers (TN) are a fundamental concept in our Dice mechanic,
-acting as benchmarks for skill checks and ability tests. Essentially,
-a TN is the number that a player needs to meet or exceed with their
-skill check roll in order to succeed at a task or action.
+acting as benchmarks for Expertise Area checks and ability tests.
+Essentially, a TN is the number that a player needs to meet or exceed
+with their Expertise Area check roll in order to succeed at a task or
+action.
 
 Each TN is associated with a level of difficulty, from trivial tasks
 that are almost always achieved without effort, to nearly impossible
@@ -3190,7 +3197,7 @@ Below is a proper Markdown table based on the provided selection:
 So let us take a roll and establish a clear nomenclature for all the
 components.
 
-Basically we start rolling {3D20}. From this COLLECTION we choose a
+Basically we start rolling {3d20}. From this COLLECTION we choose a
 VALUE. Usually it is the MIDDEL VALUE, but it can also be the HIGHEST
 VALUE or lowest VALUE. Then we deduct 10 the get the ADJUSTMENT.
 
@@ -3236,11 +3243,11 @@ for the characters that creates tension and drives the story forward.
 
 #### Simple Check
 
-A simple check is done by rolling {3D20} and keeping the middle value.
-Everything above 10 is added to a corresponding attribute or skill,
-everything below is subtracted. The result is compared to a target
-number. If the result is equal to or above the target number, the
-check is passed. Otherwise, it has failed.
+A simple check is done by rolling {3d20} and keeping the middle value.
+Everything above 10 is added to a corresponding attribute or Expertise
+Area, everything below is subtracted. The result is compared to a
+target number. If the result is equal to or above the target number,
+the check is passed. Otherwise, it has failed.
 
 > Example
 >
@@ -3271,7 +3278,7 @@ is repeated.
 >
 > Varik aims to slip undetected past a cybernetic sentinel patrolling
 > the dark corridors of an interstellar trade freighter. His Expertise
-> Area Level in <Stealth> is 5, while the sentinel's skill
+> Area Level in <Stealth> is 5, while the sentinel's Expertise Area
 > in <Surveillance>
 > is 7. Varik rolls a {10,6,15} for his stealth attempt. The middle of
 > the three values is 10, which is equal to the base, so no
@@ -3388,8 +3395,8 @@ After tempting fate a d4 is added to the temptation dice collection.
 These d4 are called Temptation Dice.
 
 As long as this collection has at least one dice it is rolled
-alongside the {3D20} rolls. Whenever one of those d4 shows a 4 the
-lowest of the {3D20} is chosen, even if fate was tempted at that roll.
+alongside the {3d20} rolls. Whenever one of those d4 shows a 4 the
+lowest of the {3d20} is chosen, even if fate was tempted at that roll.
 If any d4 resulted in a 4, one d4 will be removed from the temptation
 dice collection.
 
@@ -3690,6 +3697,20 @@ understanding intricate concepts, analysing situations, and making
 informed decisions. This attribute is essential for characters who
 rely on knowledge-based skills or need to solve problems creatively.
 
+#### Mastery Gate
+
+The Mastery Gate represents a character's natural aptitude in an
+Expertise Area, calculated from the average of two governing
+attributes specific to that area. During character creation, a
+character cannot raise an Expertise Area higher than its Mastery Gate
+value, creating a ceiling based on natural talent. Beyond character
+creation, the Mastery Gate serves as a threshold where skill
+advancement becomes more costly – skills below the Mastery Gate are
+learned more easily, while those at or above it require greater
+investment. This system ensures characters develop along paths aligned
+with their innate abilities while still allowing for growth in any
+direction with sufficient dedication and experience.
+
 ##### Derived Attributes
 
 Derived attributes are dependent on the core attributes.
@@ -3757,10 +3778,9 @@ them.
 #### Calculate Mastery Gate
 
 Before diving into Expertise Areas, figure out your Mastery Gate for
-each one you're interested in. The mastery gate is best described as
-the aptitude for an expertise area. Up to the Mastery Gate it is
-easier to learn a new level, but once you reach or exceed it, the cost
-to learn a new level increases.
+each one you're interested in. Up to the Mastery Gate it is easier to
+learn a new level, but once you reach or exceed it, the cost to learn
+a new level increases.
 
 Mastery Gate is influenced by your attributes. The attributes
 associated with an Expertise Area are listed in the in the
@@ -3769,21 +3789,21 @@ corresponding Area.
 #### Skill Selection
 
 Choose the skills that fit your character's background, role, and the
-needs of your crew. Do you require a diplomat, a scout,
-or perhaps a jack-of-all-trades? Talk with your fellow group about
-this and ensure that everything fits well. Always remember you are a
-curated team, put together by your corp as a functioning unit. The
-chosen archetype dictates the initial skills.
+needs of your crew. Do you require a diplomat, a scout, or perhaps a
+jack-of-all-trades? Talk with your fellow group about this and ensure
+that everything fits well. Always remember you are a curated team, put
+together by your corp as a functioning unit. The chosen archetype
+dictates the initial skills.
 
 You get to distribute additional 5 Progression Points in Expertise
 Area Levels. The cost for advancing an Expertise Area Level is
 discussed further below under "Expertise Area Level cost".
 
-During Character Creation, skills can't be risen higher than their
-Mastery gate. Even if an Archetype has a higher Expertise Area value.
-In that case, the value offered from the Archetype is capped.
+During Character Creation, Expertise Areas can't be risen higher than
+their Mastery gate. Even if an Archetype has a higher Expertise Area
+value. In that case, the value offered from the Archetype is capped.
 
-#### Skill Packs for Archtypes
+#### Expertise Area Packs for Archtypes
 
 ##### Intelligence Analyst
 
@@ -3816,40 +3836,40 @@ Negotiation 6, PsychOps 5, Knowledge 5, Combat 4, Pilot 5
 #### Expertise Area Cost
 
 Refer to the Expertise Area Progression Cost Table to see how much it
-costs to advance. Remember, the cost is per skill level, so plan
-wisely. As the number of skill points for Character building, this can
-be modified by the Suit based on the experience the group should have
-for the intended plot.
+costs to advance. Remember, the cost is per Expertise Area level, so
+plan wisely. As the number of Expertise Area points for Character
+building, this can be modified by the Suit based on the experience the
+group should have for the intended plot.
 
 **Expertise Area Progression Cost Table**
 
-|   EAL/MG   |  <=4  |  5-6  |  7-8  |  >=9  |
-|:----------:|:-----:|:-----:|:-----:|:-----:|
-|     1      |   1   |   1   |   1   |   1   |
-|     2      |   1   |   1   |   1   |   1   |
-|     3      |   1   |   1   |   1   |   1   |
-|     4      |   1   |   1   |   1   |   1   |
-|     5      |   2   |   1   |   1   |   1   |
-|     6      |   2   |   1   |   1   |   1   |
-|     7      |   2   |   2   |   1   |   1   |
-|     8      |   2   |   2   |   1   |   1   |
-|     9      |   4   |   2   |   2   |   1   |
-|     10     |   4   |   2   |   2   |   1   |
-|     11     |   4   |   4   |   2   |   2   |
-|     12     |   5   |   4   |   2   |   2   |
-|     13     |   5   |   4   |   4   |   2   |
-|     14     |   5   |   5   |   4   |   2   |
-|     15     |   6   |   5   |   4   |   4   |
-|     16     |   6   |   5   |   5   |   4   |
+| EAL/MG | <=4 | 5-6 | 7-8 | >=9 |
+|:------:|:---:|:---:|:---:|:---:|
+|   1    |  1  |  1  |  1  |  1  |
+|   2    |  1  |  1  |  1  |  1  |
+|   3    |  1  |  1  |  1  |  1  |
+|   4    |  1  |  1  |  1  |  1  |
+|   5    |  2  |  1  |  1  |  1  |
+|   6    |  2  |  1  |  1  |  1  |
+|   7    |  2  |  2  |  1  |  1  |
+|   8    |  2  |  2  |  1  |  1  |
+|   9    |  4  |  2  |  2  |  1  |
+|   10   |  4  |  2  |  2  |  1  |
+|   11   |  4  |  4  |  2  |  2  |
+|   12   |  5  |  4  |  2  |  2  |
+|   13   |  5  |  4  |  4  |  2  |
+|   14   |  5  |  5  |  4  |  2  |
+|   15   |  6  |  5  |  4  |  4  |
+|   16   |  6  |  5  |  5  |  4  |
 
 #### Choose Specializations
 
-To further the individualization of the character, the player can choose
-a specialization for each Expertise Area. This specialization is a
-specific subtask contained within the larger Expertise Area. These
-specializations can either provide a bonus to a check to which they
-apply, or can be a requirement for certain task. The specializations
-chosen starts at the Apprentice level.
+To further the individualization of the character, the player can
+choose a specialization for each Expertise Area. This specialization
+is a specific subtask contained within the larger Expertise Area.
+These specializations can either provide a bonus to a check to which
+they apply, or can be a requirement for certain task. The
+specializations chosen starts at the Apprentice level.
 
 #### Finalize Expertise Areas
 
@@ -3869,13 +3889,13 @@ here, not mission specific one. It is military graded, not some junk
 but not cutting edge. There is no monetary limitation, just some
 common sense.
 
-The space vessel has to accommodates 5-10 people, equipped with a
-good Kramer PAD and an intermediate stellar projector. The characters
-have to speak with their Suit about their preferences, so the
-corporation will provide a suitable vessel. This is also dependent on
-the kind of missions the characters are trained for. No use for a
-hyper stealth torpedo vessel in a diplomatic mission with interests.
-So communication is key.
+The space vessel has to accommodates 5-10 people, equipped with a good
+Kramer PAD and an intermediate stellar projector. The characters have
+to speak with their Suit about their preferences, so the corporation
+will provide a suitable vessel. This is also dependent on the kind of
+missions the characters are trained for. No use for a hyper stealth
+torpedo vessel in a diplomatic mission with interests. So
+communication is key.
 
 [//]: # (TODO: Provide ships until we have a ship book)
 
@@ -3912,23 +3932,23 @@ the character during Checks.
 ### Expertise Area Progression
 
 Three levels of proficiency can be reached in an Expertise Area. They
-are Apprenti at EAL 4, Journeyman at EAL 8, and Master at EAL 12.
-The better they get they more they benefit from success of a check.
-Once they reach Apprentice they gain an additional Mark on success. At
-Journeyman level easy tasks (TN 4) are automatically passed. As a 
+are Apprenti at EAL 4, Journeyman at EAL 8, and Master at EAL 12. The
+better they get they more they benefit from success of a check. Once
+they reach Apprentice they gain an additional Mark on success. At
+Journeyman level easy tasks (TN 4) are automatically passed. As a
 Master Moderate tasks (TN 8) are automatically passed.
 
 [//]: # (TODO: check if this is to powerful)
 
 ### Specializations
 
-Expertise Areas contain skill specializations. These are specific
-subtasks contained within the larger Expertise Area. These
-specializations can either provide a bonus to a check to which they
-apply, or can be a requirement. Certain types of equipment or
-exceptional tasks contain these perquisites in their description.
-Specializations can have different levels as do Expertise areas 
-themselves, Apprentice, Journeyman, and Master.
+Expertise Areas contain specializations. These are specific subtasks
+contained within the larger Expertise Area. These specializations can
+either provide a bonus to a check to which they apply, or can be a
+requirement. Certain types of equipment or exceptional tasks contain
+these perquisites in their description. Specializations can have
+different levels as do Expertise areas themselves, Apprentice,
+Journeyman, and Master.
 
 To become a Apprentice, Journeyman ,or Master you need a Expertise
 Area value of 4, 8, or 12 in the Expertise Area governing the
@@ -3938,11 +3958,10 @@ Each specialization level gives you a +2 bonus on applicable tasks.
 The final arbiter of this is the Suit. Only one specialization can be
 used at a time.
 
-For some Problems you need a certain Level in a specialization as 
-the tasks are so specialized that a character with basic training 
-simply can not cope with the task. Each Expertise Area Level 
-features a few specializations, but the players may invent some on 
-their own.
+For some Problems you need a certain Level in a specialization as the
+tasks are so specialized that a character with basic training simply
+can not cope with the task. Each Expertise Area Level features a few
+specializations, but the players may invent some on their own.
 
 #### Custom Specializations
 
@@ -3965,8 +3984,8 @@ The Combat Area is an essential aspect of any operative, highlighting
 a character's ability in physical confrontation and tactical
 skirmishes. It represents a wide range of skills from basic
 self-defence to advanced combat tactics, reflecting the character's
-training, reflexes, and physical conditioning. This skill set is
-essential for characters who find themselves in frequent combat
+training, reflexes, and physical conditioning. This Expertise Area set
+is essential for characters who find themselves in frequent combat
 situations, or any situation where tactical thinking is advantageous.
 
 It includes understanding and using different weapons, mastering
@@ -4021,7 +4040,7 @@ undercover, and manipulate situations to their advantage.
 
 It embodies a range of skills necessary for covert operations,
 intelligence gathering, and subtle manipulation, reflecting a
-character's cunning and mental agility. This skill set is
+character's cunning and mental agility. This Expertise Area set is
 particularly important for characters involved in surveillance,
 undercover missions, or any situation that requires a discreet
 approach and careful planning.
@@ -4104,9 +4123,9 @@ Mastery gate Ded/Mnd
 
 The Knowledge Expertise Area gives the character intellectual
 knowledge, historical insight, and the understanding of complex
-phenomena. It represents a character's intellectual breadth and
-depth, covering disciplines such as history, science, and to some
-extent, occult hearsay.
+phenomena. It represents a character's intellectual breadth and depth,
+covering disciplines such as history, science, and to some extent,
+occult hearsay.
 
 Characters with high scores in this area are the thinkers and
 scientists who are crucial to understanding complex issues,
@@ -4119,7 +4138,7 @@ well-rounded perspective that allows them to make informed decisions
 and outwit challenges. They can predict outcomes and uncover hidden
 secrets, using information as a tool for success and survival.
 
-##### Specialisation
+##### Specialization
 
 ###### History
 
@@ -4141,7 +4160,6 @@ so eerily again. But the two are often very close. So this is not
 about supernatural knowledge, more myths and legends from folklore and
 the like.
 
-
 #### Medical
 
 Masterygate Nim/Mnd
@@ -4160,10 +4178,10 @@ wounds; they ensure the psychological readiness of their team,
 maintaining the overall health and combat effectiveness of their unit.
 
 In any high-risk operation, skilled medics are as critical as
-combatants, making Medicine a fundamental skill for survival and
-mission success.
+combatants, making Medicine a fundamental Expertise Area for survival
+and mission success.
 
-##### Specialisation
+##### Specialization
 
 ###### Trauma Surgery
 
@@ -4202,7 +4220,7 @@ communication, using their understanding of motivations and needs.
 Mastery of negotiation means achieving goals through eloquence and an
 understanding of human behaviour.
 
-##### Specialisation
+##### Specialization
 
 ###### Bartering
 
@@ -4227,8 +4245,8 @@ weaknesses.
 
 Masterygate Ded/Mnd
 
-The Navigation skill set is for characters who have been trained in
-orientation, piloting, and pathfinding. This Expertise Area
+The Navigation Expertise Area set is for characters who have been
+trained in orientation, piloting, and pathfinding. This Expertise Area
 encompasses the skills required to successfully navigate varied and
 often treacherous terrain, whether in space, in the air, or on the
 ground. Individuals with navigation skills are adept at plotting
@@ -4272,18 +4290,18 @@ Masterygate For/Nim
 
 The Physicality Expertise Area represents a character's physical
 strength, endurance, and agility. It includes skills that increase a
-character's stamina, brute strength, and flexibility, allowing them
-to perform feats of athleticism, withstand strenuous activities, and
+character's stamina, brute strength, and flexibility, allowing them to
+perform feats of athleticism, withstand strenuous activities, and
 manoeuvre through obstacles. Characters with Physicality are resilient
 and versatile, able to push their bodies beyond normal limits.
 
-This skill is crucial for characters engaged in direct combat,
-exploration, or any activity that requires intense physical exertion.
-The Physicality area also includes activities such as swimming,
-running and climbing. Low-tech activities such as parachuting or
-horseback riding also fall under this broad area.
+This Expertise Area is crucial for characters engaged in direct
+combat, exploration, or any activity that requires intense physical
+exertion. The Physicality area also includes activities such as
+swimming, running and climbing. Low-tech activities such as
+parachuting or horseback riding also fall under this broad area.
 
-##### Specialisation
+##### Specialization
 
 ###### Climbing
 
@@ -4307,8 +4325,8 @@ making the terrain much more manageable.
 
 Masterygate Nim/Ded
 
-The Pilot skill set is crucial for characters who specialise in
-navigating different vehicles through different environments. It
+The Pilot Expertise Area set is crucial for characters who specialise
+in navigating different vehicles through different environments. It
 encompasses the operation of air, space, and ground vehicles, making
 characters proficient in aircraft, spacecraft, and land vehicles.
 These pilots are essential for transport, tactical manoeuvres,
@@ -4323,7 +4341,7 @@ knowledge of vehicle systems, making them skilled in movement and
 combat support. This gives the team an advantage in speed, mobility,
 and strategic positioning.
 
-##### Specialisation
+##### Specialization
 
 ###### Aircraft
 
@@ -4364,7 +4382,7 @@ confrontation. Skilled operatives utilize Psych Ops to exert influence
 and control, mastering the unseen battle in their pursuit of
 objectives.
 
-##### Specialisation
+##### Specialization
 
 ###### Interrogation Techniques
 
@@ -4394,19 +4412,19 @@ resilience or enemies for doubt.
 
 Masterygate Ded/Mnd
 
-The Resources skill set is crucial to optimizing the use of resources
-in gameplay, as it directly affects the team's equipment maintenance
-and supply efficiency. Characters skilled in Resource Management can
-stretch supplies, repair equipment with fewer materials, and negotiate
-effectively for resources, making them invaluable in resource-poor
-environments.
+The Resources Expertise Area set is crucial to optimizing the use of
+resources in gameplay, as it directly affects the team's equipment
+maintenance and supply efficiency. Characters skilled in Resource
+Management can stretch supplies, repair equipment with fewer
+materials, and negotiate effectively for resources, making them
+invaluable in resource-poor environments.
 
 Allocation allows for optimal resource distribution, acquisition to
 obtain new materials, and conservation to minimize waste. In tactical
 scenarios, skilled resource managers ensure team readiness and
 resilience, significantly impacting overall mission success. This
-skill is essential for strategic planning and maintaining operational
-efficiency in challenging missions.
+Expertise Area is essential for strategic planning and maintaining
+operational efficiency in challenging missions.
 
 ##### Specializations
 
@@ -4434,18 +4452,18 @@ in the right places to make dire needed equipment available.
 
 Masterygate Ded/Mnd
 
-The Software skill set is critical for characters involved in digital
-manipulation and cybersecurity. It includes hacking, programming, and
-cyber warfare skills that allow characters to bypass security, control
-technology, and launch digital attacks. Strong software skills allow
-characters to access critical information, disable enemy defences, or
-take control of drones and other systems, affecting combat and
-exploration scenarios.
+The Software Expertise Area set is critical for characters involved in
+digital manipulation and cybersecurity. It includes hacking,
+programming, and cyber warfare skills that allow characters to bypass
+security, control technology, and launch digital attacks. Strong
+software skills allow characters to access critical information,
+disable enemy defences, or take control of drones and other systems,
+affecting combat and exploration scenarios.
 
-Characters with this skill can significantly alter missions by hacking
-into systems to gather data, create distractions, or sabotage
-operations. Mastery of software turns the digital landscape into a
-tactical advantage, making these skills essential in a
+Characters with this Expertise Area can significantly alter missions
+by hacking into systems to gather data, create distractions, or
+sabotage operations. Mastery of software turns the digital landscape
+into a tactical advantage, making these skills essential in a
 technology-driven environment. Their ability to manipulate the digital
 realm is a powerful asset in any team's arsenal.
 
@@ -4478,11 +4496,11 @@ through informed analysis.
 
 Masterygate Nim/Ded
 
-The Stealth skill set allows the character to move undetected and
-conduct covert operations. It includes evasion and infiltration skills
-that allow agents to avoid detection and gather information in secret.
-Skilled characters can navigate enemy territory and launch surprise
-attacks undetected.
+The Stealth Expertise Area set allows the character to move undetected
+and conduct covert operations. It includes evasion and infiltration
+skills that allow agents to avoid detection and gather information in
+secret. Skilled characters can navigate enemy territory and launch
+surprise attacks undetected.
 
 Strong stealth skills allow agents to evade sentries, avoid traps and
 gain strategic positions that are crucial for ambushes or covert
@@ -4501,9 +4519,9 @@ advanced security measures such as surveillance systems and guard
 patrols. Practitioners are adept at finding and exploiting weaknesses
 in security layouts, using both technological tools and physical
 prowess to gain access to restricted areas without being detected.
-This skill is particularly valuable in missions that require the
-retrieval of sensitive information or the placement of surveillance
-devices.
+This Expertise Area is particularly valuable in missions that require
+the retrieval of sensitive information or the placement of
+surveillance devices.
 
 ###### Shadow Movement
 
@@ -4512,8 +4530,8 @@ in a variety of environments. Specialists in Shadow Movement are
 trained to minimize noise and visibility, understand the use of light
 and shadow, and move with the utmost discretion. They are adept at
 blending into their surroundings, be it urban landscapes or natural
-terrain. This specialization is essential for carrying out tasks 
-close to unsuspecting adversaries.
+terrain. This specialization is essential for carrying out tasks close
+to unsuspecting adversaries.
 
 ###### Camouflage and Disguise
 
@@ -4531,11 +4549,12 @@ being recognized.
 
 Masterygate For/Mnd
 
-The Survival skill set is essential for characters navigating harsh
-environments and unexpected situations. It encompasses adaptability,
-resourcefulness, and resilience, allowing players to withstand natural
-challenges and sustain their team. Skilled Survivalists find food,
-create shelter, and navigate treacherous terrain.
+The Survival Expertise Area set is essential for characters navigating
+harsh environments and unexpected situations. It encompasses
+adaptability, resourcefulness, and resilience, allowing players to
+withstand natural challenges and sustain their team. Skilled
+Survivalists find food, create shelter, and navigate treacherous
+terrain.
 
 In gameplay, strong Survival skills mitigate the risks of hostile
 environments, allowing characters to manage scarce resources, track
@@ -4584,12 +4603,12 @@ the players. These can be used to buy new Expertise Area Levels (EAL)
 or Specializations.
 
 To further Expertise Areas refer to the EAL Table to look up the cost
-PP for the new EAL. Remember to consider the Mastery Gate. 
+PP for the new EAL. Remember to consider the Mastery Gate.
 
-To get a new specialization costs 3 PP. This makes the player an 
-Apprentice at the specialization. Advancing the specialization to 
-Journeyman or Master costs 3 PP each. The player most have an 
-equal level in the governing Expertise Area to be able to advance the
+To get a new specialization costs 3 PP. This makes the player an
+Apprentice at the specialization. Advancing the specialization to
+Journeyman or Master costs 3 PP each. The player most have an equal
+level in the governing Expertise Area to be able to advance the
 specialization.
 
 PP will be awarded after each session, usually around 2. This may be
@@ -4627,7 +4646,7 @@ At the beginning of a potential battle, the Suit will call out the
 potential "stakes" of the engagement. This is to establish the
 importance of the fight to the story and the potential fallout. It is
 also at this stage that the granularity of the combat is generally
-defined. Since general combat skill is only one broad area of
+defined. Since general combat Expertise Area is only one broad area of
 expertise, the checks made can be tailored to a variety of outcomes.
 For a less important encounter, it is perfectly feasible for the suit
 to ask for a simple combat check and narrate what happens depending on
@@ -4644,15 +4663,15 @@ These stakes are called "Engagement Stakes".
 
 ## Spotlights
 
-The combat system is based on the concept of "spotlights". The 
+The combat system is based on the concept of "spotlights". The
 spotlight is the time a character has to act. The Suit will call out
 the spotlight of a character, and the player will describe what his
 character is doing. The Suit will then set the stakes for the
-spotlight, and the player will roll the dice. The outcome of the
-roll will determine the success or failure of the action, and the
-suit will narrate the consequences of the action. A spotlight has 
-no fixed duration. A spotlight can simply be the continuation of an
-action already started.
+spotlight, and the player will roll the dice. The outcome of the roll
+will determine the success or failure of the action, and the suit will
+narrate the consequences of the action. A spotlight has no fixed
+duration. A spotlight can simply be the continuation of an action
+already started.
 
 ## Time in Combat
 
@@ -4871,18 +4890,18 @@ If the Suit wants to add more depth to the combat, he can assign a
 location to the serious wound. This can be done by rolling a d20 and
 looking up the result in the table below.
 
-| Roll   | Location   |
-|:-------|:-----------|
-| 1-3    | Head       |
-| 4-8    | Torso      |
-| 9-11   | Left Arm   |
-| 12-14  | Right Arm  |
-| 15-17  | Right Leg  |
-| 18-20  | Left Leg   |
+| Roll  | Location  |
+|:------|:----------|
+| 1-3   | Head      |
+| 4-8   | Torso     |
+| 9-11  | Left Arm  |
+| 12-14 | Right Arm |
+| 15-17 | Right Leg |
+| 18-20 | Left Leg  |
 
 After determining the location roll a D4 to determine severity. The
 attacker can spend marks to increase the severity roll (1 mark = +1 to
-the roll). Each previous serious injury in the same location also 
+the roll). Each previous serious injury in the same location also
 increases the severity roll by 1.
 
 ##### Head
@@ -4892,26 +4911,26 @@ increases the severity roll by 1.
 |    1     | **Disoriented**: Character suffers -2 to all Mind-based checks for the duration of the encounter.                                                                                          |
 |    2     | **Concussion**: Visual disturbances and headache. +2 TN to all perception checks. Character loses a mark from each check result.                                                           |
 |    3     | **Severe Trauma**: Intermittent consciousness. At the start of the character's spotlight, they must succeed on a Dedication check (TN 7) or lose their action for that segment.            |
-|    4     | **Cranial Damage**: Memory and coordination impairment. All skill checks have their TN increased by 3. Cannot use Temptation Dice.                                                         |
-|    5     | **Skull Fracture**: Severe neurological effects. All 3D20 use the lowest dice, allways.                                                                                                    |
+|    4     | **Cranial Damage**: Memory and coordination impairment. All Expertise Area checks have their TN increased by 3. Cannot use Temptation Dice.                                                |
+|    5     | **Skull Fracture**: Severe neurological effects. All {3d20} use the lowest dice, allways.                                                                                                  |
 |    6+    | **Critical Brain Injury**: Character falls unconscious and remains so until receiving advanced medical care. Failure to receive treatment within hours may result in permanent impairment. |
 
 ##### Torso
 
-| D4+Marks | Effect                                                                                                                                               |
-|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Bruised Ribs**: Pain when moving quickly. Character's Speed is reduced by 1m/s.                                                                    |
-|    2     | **Internal Bruising**: Labored breathing. Physical Endurance maximum is temporarily reduced by 2.                                                    |
-|    3     | **Cracked Ribs**: Sharp pain with each movement. Character must spend 1 mark to perform any physically strenuous action.                             |
-|    4     | **Internal Bleeding**: Severe breathing difficulty. All physical skill checks have TN increased by 3. Cannot run or perform strenuous activity.      |
-|    5     | **Punctured Lung**: Weakening condition. Without medical aid the character dies after 5 minutes.                                                     |
-|    6+    | **Major Organ Damage**: Character is incapacitated and requires immediate medical attention. Will die within 10 minutes without emergency treatment. |
+| D4+Marks | Effect                                                                                                                                                   |
+|:--------:|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1     | **Bruised Ribs**: Pain when moving quickly. Character's Speed is reduced by 1m/s.                                                                        |
+|    2     | **Internal Bruising**: Labored breathing. Physical Endurance maximum is temporarily reduced by 2.                                                        |
+|    3     | **Cracked Ribs**: Sharp pain with each movement. Character must spend 1 mark to perform any physically strenuous action.                                 |
+|    4     | **Internal Bleeding**: Severe breathing difficulty. All physical Expertise Area checks have TN increased by 3. Cannot run or perform strenuous activity. |
+|    5     | **Punctured Lung**: Weakening condition. Without medical aid the character dies after 5 minutes.                                                         |
+|    6+    | **Major Organ Damage**: Character is incapacitated and requires immediate medical attention. Will die within 10 minutes without emergency treatment.     |
 
 ##### Arm (Left or Right)
 
 | D4+Marks | Effect                                                                                                                                                                         |
 |:--------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1     | **Minor Injury**: Painful but functional. +2 TN to skill checks requiring fine manipulation with this arm. If dominant arm, +1 TN to all relevant combat checks.               |
+|    1     | **Minor Injury**: Painful but functional. +2 TN to Expertise Area checks requiring fine manipulation with this arm. If dominant arm, +1 TN to all relevant combat checks.      |
 |    2     | **Deep Wound**: Limited movement. Cannot use two-handed equipment effectively. If dominant arm, cannot use precision weapons.                                                  |
 |    3     | **Disabled Hand**: Cannot use equipment or perform actions with this hand/arm. Two-handed actions impossible.                                                                  |
 |    4     | **Broken Arm**: Intense pain radiating through shoulder. Cannot use this arm at all and suffers -1 to all check results due to pain.                                           |
@@ -5065,8 +5084,8 @@ value, the more damage can be absorbed.
 
 ### Drive
 
-The Drive Attribute represents the ships' acceleration. With the
-K-Pad Drives, fuel is no limiting factor for continuous acceleration
+The Drive Attribute represents the ships' acceleration. With the K-Pad
+Drives, fuel is no limiting factor for continuous acceleration
 anymore, giving ships enormous speeds. The limiting factor is the hull
 and strengthening of the drives to cope with possible G forces putting
 strain on the structure. The people inside the ship are the most
@@ -5081,8 +5100,8 @@ reference these three values.
 
 How much space does the vessel posses to transport cargo and to
 possibly fit with modular and special equipment. It actually
-represents space to be used as deemed fit. Cargo is measured in 
-Gross Space Tonnage or just GST.
+represents space to be used as deemed fit. Cargo is measured in Gross
+Space Tonnage or just GST.
 
 ### Sensors
 
@@ -5099,13 +5118,13 @@ otherwise not available, that is marked with an X.
 
 ## Optional Component Attributes
 
-### Electronic Warfare (EWF)
+### Electronic Warfare (EWAR)
 
-EWF gives the vessel abilities to conduct electronic attacks against
+EWAR gives the vessel abilities to conduct electronic attacks against
 enemy weapons and ships. These are systems to be operated by personnel
 or a character with the Expertise Area <Software>, the
-Specialisation <Cyber Operations> may be a perquisite for more
-advanced systems and is definitely relevant to EWF.
+specialization <Cyber Operations> may be a perquisite for more
+advanced systems and is definitely relevant to EWAR.
 
 The Value is represented as a modifier to the checks. The value can be
 positive or negative, depending on the quality. A zero is a quality.
@@ -5174,7 +5193,7 @@ equipped with advanced guidance systems, allowing them to track and
 intercept enemy vessels with precision.
 
 > HADES 5 MISSILE
-> 
+>
 > Description: The Hades 5 is a standard missile in the Paladium
 > Tactics
 > Corp. arsenal. It is equipped with a small Sensor array
@@ -5342,10 +5361,10 @@ started in earnest.
 
 ## Combat Segments and Spotlights
 
-Space combat unfolds in segments - abstract units of time
-representing focused periods of action. The main system to order and
-track time is the spotlight, emphasizing individual crew members and
-their contributions to the battle.
+Space combat unfolds in segments - abstract units of time representing
+focused periods of action. The main system to order and track time is
+the spotlight, emphasizing individual crew members and their
+contributions to the battle.
 
 ### Spotlights in Space Combat
 
@@ -5359,8 +5378,9 @@ player:
 - **Details their actions:**Describes the specific maneuvers,
   operations, or commands their character undertakes.
 
-- **Resolves checks:**Rolls appropriate skill checks to determine the
-  success or failure of their actions, as guided by the Suit.
+- **Resolves checks:**Rolls appropriate Expertise Area checks to
+  determine the success or failure of their actions, as guided by the
+  Suit.
 
 The Spotlight is player-centric, prioritizing decision-making and
 strategic input, with the vessel serving as the instrument of action.
@@ -5459,12 +5479,12 @@ hand, it relies much on scanners and predictive targeting, the enemy
 being able to dodge more easily on long-range engagements. As with
 ground combat, we keep the distances a bit more abstract defining the
 following. Distances are given in descriptive terms in the following
-order: "close quarter" → "near" → "middle range" → "long-range" → 
-"extreme range". 
+order: "close quarter" → "near" → "middle range" → "long-range" →
+"extreme range".
 
-As we do not have an intuitive feeling for range in
-space there is the following definition of ranges. As there are also
-ranges in ground combat we will use the abbreviation SR (Space Range).
+As we do not have an intuitive feeling for range in space there is the
+following definition of ranges. As there are also ranges in ground
+combat we will use the abbreviation SR (Space Range).
 
 #### Close Quarter -- SR
 
@@ -5552,10 +5572,10 @@ marks add to the difficulty of sensor lock on.
 
 The pilot attempts to evade incoming fire and disrupt targeting
 solutions, pushing the ship to its limits. The pilot makes a <Pilot>
-check, TN modified by threat, enemy skill, vessel agility, and
-environment. Success raises the ship's EWDR by the number of marks.
-The ship may undergo tremendous structural stress and take damage to
-the StE.
+check, TN modified by threat, enemy Expertise Area, vessel agility,
+and environment. Success raises the ship's EWDR by the number of
+marks. The ship may undergo tremendous structural stress and take
+damage to the StE.
 
 #### Stealth Maneuvering
 
@@ -5675,9 +5695,9 @@ emissions and creating false signatures. This makes the ship harder to
 detect, target, or track accurately.
 
 The operator makes a <Software/Electronic Warfare> check against TN 8.
-Each mark reduces the ship's Signal Rating (SiR).
-The ship must maintain reduced power operations during this time,
-limiting acceleration and weapon use.
+Each mark reduces the ship's Signal Rating (SiR). The ship must
+maintain reduced power operations during this time, limiting
+acceleration and weapon use.
 
 **Spotlight Example:** *"As your ship approaches the asteroid field,
 Vex initiates emission control protocols. 'Going dark,' she announces,
@@ -6389,9 +6409,9 @@ this happens, the Mental Endurance is fully recovered.
 
 ## Mental Degradation
 
-Mental degradation (MD) happens in small increments from 1 to 10. 
-Each time MeE hits zero, Mental Degradation increases by the marks 
-of the roll that caused MeE to hit zero.
+Mental degradation (MD) happens in small increments from 1 to 10. Each
+time MeE hits zero, Mental Degradation increases by the marks of the
+roll that caused MeE to hit zero.
 
 Mental Degradation can have short-term and long-term consequences.
 Each time the MeE hits 0, two random effects are determined, a
@@ -6457,10 +6477,10 @@ prolonged exposure.
 
 ## Recovering Mental Degradation
 
-Therapy can recover Mental Degradation. Usually all operative
-in Abyssal have access to therapists and mental facilities during
-mission downtime. With access to these 1 point of Mental Degradation
-can be cured over a month.
+Therapy can recover Mental Degradation. Usually all operative in
+Abyssal have access to therapists and mental facilities during mission
+downtime. With access to these 1 point of Mental Degradation can be
+cured over a month.
 
 ## A Note on Mental Health
 
