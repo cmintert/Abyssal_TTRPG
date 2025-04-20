@@ -1054,7 +1054,7 @@ and stability among the stars.
 
 Black Hawk's journey from a band of mercenaries to a cornerstone of
 galactic security epitomizes its unwavering commitment to excellence,
-strategic prowess and the relentless pursuit of securing the future of
+strategic prowess, and the relentless pursuit of securing the future of
 civilization. Standing ready to meet the challenges of tomorrow, Black
 Hawk remains a beacon of stability in the chaotic vastness of space.
 
@@ -4262,7 +4262,7 @@ teams and planning arrival times.
 This stellar travel specialization comes into play when a stellar
 projector needs to be programmed for a specific destination. It
 provides a quick and accurate way to plot a course through the stars,
-avoiding hazards and ensuring a safe arrival. Jump plotters also
+avoiding hazards, and ensuring a safe arrival. Jump plotters also
 factor in gravitational forces and other celestial bodies that may
 affect the projector and its arrival precision.
 
@@ -6044,107 +6044,307 @@ Roll d20 to determine which electronic system is affected:
 |    7     | **Critical Containment Algorithm Failure**: IRHEC containment field begins to destabilize for 12 hours. Without constant monitoring (Hardware check TN 14 every hour), 30% chance of severity 8 result. IRHEC cannot be safely charged above 50% capacity.                                                             |
 |    8     | **Catastrophic Containment Collapse**: IRHEC containment systems fail completely. Without immediate intervention (Hardware TN 16, 3 successes within 10 minutes), the IRHEC will discharge catastrophically. 75% chance of progressing to StE critical hit on the IRHEC System as stored energy is violently released. |
 
-## Emergency Procedures
+# Emergency Procedures
 
-### StE Emergency Procedures
+In the desperate moments following a critical hit, a crew's training
+and quick thinking can mean the difference between survival and
+catastrophe. The void of space is unforgiving, and damage to vital
+ship systems creates a cascade of life-threatening challenges that
+must be addressed immediately. Emergency procedures represent
+specialized actions that crew members can take to mitigate or contain
+damage during these crisis situations.
 
-#### IRHEC Emergency Options
+These actions follow the standard spotlight system, with specialized
+stakes and outcomes tailored to the unique challenges of starship
+emergencies. Like all actions in Abyssal, they require both technical
+skill and the nerve to make difficult decisions under extreme
+pressure. Each procedure requires a specific expertise and carries
+both potential rewards and significant risks.
 
-##### Emergency Venting
+## StE Emergency Procedures
 
-- **Action**: Engineer can initiate emergency venting procedure
-- **Check**: Hardware TN 12
-- **Effect**: Vents energy harmlessly over 10-30 minutes
-- **Cost**: All stored energy is lost
-- **Benefit**: Prevents catastrophic failure
+Structural damage to a ship represents physical compromise to its
+components and integrity. When the sirens blare and bulkheads begin to
+buckle, these emergency procedures become the thin line between
+survival and disaster.
 
-##### Emergency Jettison
+### IRHEC Emergency Options
 
-- **Action**: Engineer can prepare IRHEC for emergency ejection
-- **Check**: Hardware TN 14
-- **Effect**: Physically ejects IRHEC from ship
-- **Cost**: Ship cannot jump until IRHEC is replaced
-- **Benefit**: Removes explosion risk from ship
-- **Risk**: If not ejected far enough, explosion may still damage ship
+When the IRHEC system suffers a critical failure, the ship faces one
+of its most dangerous possible emergencies. The concentrated energy
+within an Instant Release High-Energy Capacitor can tear a vessel
+apart in seconds if containment fails. The engineer has several
+high-risk options to prevent a catastrophic release of energy. Each
+represents a different approach to the crisis, with its own risks and
+potential rewards.
 
-##### Emergency Containment
+#### Emergency Venting
 
-- **Action**: Engineer attempts to reinforce failing containment
-- **Check**: Hardware TN 16, requires 2-3 successes based on severity
-- **Effect**: Temporarily stabilizes IRHEC
-- **Risk**: Each failed check increases severity by 1
-- **Benefit**: Preserves jump capability if successful
+**Intent:** The engineer attempts to safely discharge the IRHEC's
+dangerous energy buildup through controlled release channels, bleeding
+off the destructive potential in a measured way that the ship can
+withstand.
 
-##### Emergency Jump
+**Spotlight Stakes:** This requires a Hardware check against TN 12.
+Success means the energy is safely vented over a period of 10-30
+minutes, creating a spectacular but controlled energy discharge
+visible for thousands of kilometers. The process produces significant
+heat and radiation that the ship's systems must manage. Failure means
+the venting process becomes unstable, potentially increasing the
+severity of the critical hit by 1 as containment further deteriorates.
 
-- **Action**: Navigator attempts an emergency jump to use energy
-  before containment fails
-- **Check**: Navigation/Jump Plotter TN 18
-- **Effect**: Ship immediately jumps to plotted coordinates
-- **Risk**: On failure, ship jumps to random coordinates and IRHEC
-  still explodes
-- **Limitation**: Only possible with sufficient charge (>50%)
+**Outcome:** All stored energy is lost, but the ship and crew are
+safe. The IRHEC will need to be recharged before another jump is
+possible, a process that takes significant time and resources. The
+crew must decide whether the immediate safety is worth the loss of
+jump capability in potentially hostile space.
 
-#### General Damage Control
+#### Emergency Jettison
 
-##### Emergency Repairs
+**Intent:** When containment seems impossible, the engineer prepares
+to physically separate the IRHEC from the ship, sacrificing the jump
+drive to save the vessel. This involves disengaging complex safety
+interlocks, preparing the ejection system, and calculating a safe
+trajectory away from the ship.
 
-- **Action**: Engineer performs emergency repairs to damaged system
-- **Check**: Hardware TN based on severity (8 + severity)
-- **Effect**: Temporarily restores partial functionality
-- **Limitation**: Repairs under combat conditions are unstable and may
-  fail again
+**Spotlight Stakes:** This requires a Hardware check against TN 14.
+Success means the IRHEC is safely ejected to a distance where any
+detonation won't damage the ship. The system disconnects with a series
+of explosive bolts and is propelled away from the vessel on a stable
+vector. Failure could mean the ejection system malfunctions, leaving
+the explosive component partially attached to the vessel or sending it
+on an erratic trajectory that might still threaten the ship.
 
-##### System Isolation
+**Outcome:** The ship loses its jump capability until the IRHEC is
+replaced at a proper facility, but immediate destruction is avoided.
+If the jettison distance is insufficient (determined narratively or
+with 1 mark or fewer), the explosion may still cause damage to the
+ship, potentially creating secondary critical hits. Without a jump
+drive, the crew must rely on conventional propulsion or seek
+assistance from other vessels.
 
-- **Action**: Engineer isolates damaged system to prevent cascade
-  failures
-- **Check**: Hardware TN 10
-- **Effect**: Prevents damage from spreading to other systems
-- **Cost**: Isolated system remains non-functional
+#### Emergency Containment
 
-##### Power Rerouting
+**Intent:** The engineer attempts to reinforce failing containment
+systems through emergency measures and manual overrides, essentially
+attempting to hold together a system designed to channel enormous
+energy that's now threatening to break free.
 
-- **Action**: Engineer redirects power around damaged systems
-- **Check**: Hardware TN 12
-- **Effect**: Maintains functionality of critical systems
-- **Risk**: Overloads may cause additional ElE damage
+**Spotlight Stakes:** This requires an ongoing Hardware check with TN
+12, requiring 2-3 successes based on the severity of the critical hit.
+The engineer works frantically, bypassing safety systems, rerouting
+power, and manually stabilizing containment fields. Each failed check
+increases the severity by 1 as the containment situation deteriorates
+further, with visible energy discharges and warning systems reaching
+critical levels.
 
-### ElE Emergency Procedures
+**Outcome:** Success temporarily stabilizes the IRHEC, preserving jump
+capability for potential emergency use. The system remains fragile,
+however, and will need comprehensive repairs at the next opportunity.
+This approach is high-risk but maintains the ship's full capabilities
+if successful, making it a tempting option for crews in dangerous
+situations who may need to jump again.
+
+#### Emergency Jump
+
+**Intent:** The navigator attempts to use the destabilizing energy for
+an emergency jump, essentially channeling the dangerous buildup into
+its intended purpose before catastrophic failure occurs. This requires
+precise calculations under extreme time pressure, as the navigator
+plots coordinates while the IRHEC teeters on the edge of failure.
+
+**Spotlight Stakes:** This requires a Navigation check with the Jump
+Plotter specialization against TN 14. The navigator works at
+remarkable speed, inputting calculations that would normally take
+hours in just minutes. This option is only possible if the IRHEC has a
+charge level above 50%, as the jump process requires sufficient energy
+despite the system's damaged state.
+
+**Outcome:** Success means the ship immediately jumps to the plotted
+coordinates, using the energy before containment fails completely. The
+jump itself may be rougher than normal, potentially causing minor
+systems damage, but the major catastrophe is avoided. Failure means
+the ship jumps to random coordinates (at the Suit's discretion) and
+the IRHEC still explodes after emergence, potentially causing
+catastrophic damage in an unknown location. This option represents a
+desperate gamble that could either save the ship or strand it,
+damaged, in completely unknown space.
+
+### General Damage Control
+
+When critical hits occur to other ship systems, engineers and other
+crew members can implement these emergency measures to limit damage
+and restore functionality. These procedures often make the difference
+between a recoverable situation and a cascade of failures that doom
+the vessel.
+
+#### Emergency Repairs
+
+**Intent:** An engineer performs rapid, temporary repairs to restore
+partial functionality to a damaged system. This involves jury-rigging
+connections, bypassing damaged components, and implementing makeshift
+solutions that wouldn't pass any safety inspection but might keep the
+system running long enough to matter.
+
+**Spotlight Stakes:** This requires a Hardware check against TN 8 +
+severity of the critical hit. The engineer works in potentially
+dangerous conditions, surrounded by damaged systems, exposed wiring,
+or escaping coolant. Each mark generated provides temporary
+functionality to the system for approximately 10 minutes, giving the
+crew a brief window to leverage the restored capability.
+
+**Outcome:** Success provides a brief window of system functionality,
+but the repairs are unstable, especially under combat conditions or
+high stress. The system will likely fail again without proper repairs,
+potentially at the worst possible moment. These temporary fixes are
+not meant to be permanent solutions, but rather to create
+opportunities for the crew to address the larger crisis or reach
+safety.
+
+#### System Isolation
+
+**Intent:** The engineer seals off damaged systems to prevent cascade
+failures to other ship components, essentially amputating the
+compromised section to protect the whole. This might involve
+physically sealing bulkheads, disengaging power connections, or
+implementing software firewalls.
+
+**Spotlight Stakes:** This requires a Hardware check against TN 10.
+Success means the damage is contained to the current system, with
+visible confirmation as emergency containment measures engage. Failure
+could mean damage spreads to connected systems, potentially creating
+new critical hits in previously functioning areas of the ship.
+
+**Outcome:** The isolated system remains non-functional, but the rest
+of the ship is protected from further damage. This creates time for
+the crew to implement more comprehensive repairs or plan alternative
+approaches to their mission without the damaged system. While this
+approach sacrifices the damaged component, it prioritizes the overall
+integrity of the vessel, often the wisest choice in crisis situations.
+
+#### Power Rerouting
+
+**Intent:** The engineer creates alternative power pathways to
+maintain functionality of critical systems despite damage to normal
+distribution channels. This involves identifying undamaged conduits,
+calculating safe load capacities for systems not designed for the
+current demands, and implementing bypass connections.
+
+**Spotlight Stakes:** This requires a Hardware check against TN 12.
+Success means power is successfully redirected, often with visible
+evidence as systems come back online with flickering displays or
+reduced capacity. Failure could cause feedback through the system,
+potentially causing additional ElE damage as power surges overload
+sensitive electronics.
+
+**Outcome:** Critical systems remain operational despite damage to
+power distribution. However, the jury-rigged connections may cause
+additional strain on the ship's electrical systems, potentially
+leading to overheating, reduced efficiency, or further failures if
+maintained too long. Power rerouting is especially critical for life
+support, weapons systems, or other functions that the crew cannot
+afford to lose in their current situation.
+
+## ElE Electronic Emergency Procedures
+
+Electronic critical hits represent failures in the ship's software and
+systems control rather than physical damage. These digital emergencies
+can be just as catastrophic as structural failures, as modern
+spacecraft depend entirely on electronic systems for navigation, life
+support, and virtually all operations. These procedures allow the crew
+to restore electronic functionality through various approaches to
+digital crisis management.
 
 #### System Reboot
 
-- **Action**: Engineer performs complete shutdown and restart of
-  affected electronic system
-- **Check**: Software TN 10 + severity
-- **Effect**: Temporarily restores functionality for 10 minutes per
-  success
-- **Limitation**: System will fail again after temporary restoration
-  unless properly repaired
+**Intent:** The engineer performs a complete shutdown and restart of
+affected electronic systems, clearing corrupted processes and
+returning to baseline operational parameters. This is the electronic
+equivalent of "turning it off and back on again," but at a scale and
+complexity far beyond consumer electronics.
+
+**Spotlight Stakes:** This requires a Software check against TN 10 +
+severity of the critical hit. The engineer must carefully preserve
+critical data while shutting down compromised systems, then monitor
+the restart sequence for signs of persistent corruption. Each mark
+generated extends the temporary restoration time by approximately 10
+minutes, giving the crew a window of normal operation.
+
+**Outcome:** The affected systems are temporarily restored to
+functionality, but will fail again after the temporary restoration
+period unless properly repaired. During this window, the crew can
+execute critical functions, backup data, or transition to backup
+systems. The underlying issue remains, but the immediate crisis is
+temporarily resolved.
 
 #### Electronic Isolation
 
-- **Action**: Engineer isolates corrupted electronic systems to
-  prevent spread
-- **Check**: Software TN 12
-- **Effect**: Prevents cascade to other electronic systems
-- **Cost**: Isolated system remains non-functional until repaired
+**Intent:** The engineer creates electronic firewalls to prevent
+corrupted systems from affecting other ship functions, quarantining
+the digital failure before it can spread. This involves identifying
+compromised subsystems, establishing secure boundaries, and
+redirecting essential data flows around the corrupted sections.
+
+**Spotlight Stakes:** This requires a Software check against TN 12.
+Success means the electronic failure is contained within its current
+systems, preventing the corruption from spreading. Failure could mean
+the corruption spreads to connected systems, potentially creating new
+electronic critical hits as vital systems become compromised.
+
+**Outcome:** The isolated system remains non-functional until
+repaired, but other ship systems are protected from cascading
+failures. The ship operates at reduced capacity, but maintains core
+functionality in unaffected systems. This approach prioritizes
+stability over full capability, a trade-off that often makes sense
+when facing electronic system failures.
 
 #### Data Reconstruction
 
-- **Action**: Engineer attempts to rebuild corrupted data or firmware
-- **Check**: Software TN 14, requires 2 successes for full recovery
-- **Effect**: Restores electronic systems to functional state
-- **Limitation**: Takes 1 hour per severity level
+**Intent:** The engineer attempts to rebuild corrupted data or
+firmware from backups or partial fragments, essentially performing
+digital archaeology to recover lost functionality. This painstaking
+process involves comparing corrupted files to backups, identifying
+viable code segments, and reconstructing critical system parameters.
+
+**Spotlight Stakes:** This requires an ongoing Software check against
+TN 14, requiring 2 successes for full recovery. The process takes
+approximately 1 hour per severity level, representing the meticulous
+work of rebuilding complex systems bit by bit. Each check represents a
+phase of the reconstruction process, with incremental progress toward
+full restoration.
+
+**Outcome:** Success restores electronic systems to a functional state
+by reconstructing the corrupted elements from available data. Failure
+at any point might require the engineer to start the process again as
+new corruptions are discovered or reconstructed elements prove
+unstable. This approach takes longer than other options but provides a
+more complete resolution to the problem.
 
 #### Emergency Override
 
-- **Action**: Engineer attempts to bypass electronic safety systems
-- **Check**: Hardware TN 12
-- **Effect**: Forces system to function despite electronic failure
-- **Risk**: 30% chance of causing 1 StE damage as physical systems
-  operate outside safe parameters
-- **Limitation**: Only works for 10 minutes per success
+**Intent:** The engineer attempts to bypass electronic safety systems
+to force functionality despite system failures, essentially "
+hot-wiring" sophisticated spacecraft systems to operate without their
+normal safeguards and monitoring functions.
+
+**Spotlight Stakes:** This requires a Hardware check against TN 12.
+The engineer physically modifies electronic interfaces, creates direct
+connections to actuators, or implements manual control systems that
+bypass the corrupted electronics. Success forces the system to
+function despite electronic failure, though often with reduced
+precision or capability. Failure carries a 30% chance of causing 1 StE
+damage as physical systems operate outside safe parameters,
+potentially damaging components not designed to function without
+electronic regulation.
+
+**Outcome:** The system functions for approximately 10 minutes per
+mark generated, providing crude but effective operation of critical
+systems. After this time, the system fails again, potentially with
+additional damage as unregulated operation takes its toll on physical
+components. This approach represents a high-risk method that
+prioritizes immediate functionality over long-term system health,
+appropriate when immediate action is essential regardless of the
+consequences.
 
 # Terror, Fear, and Morale
 
