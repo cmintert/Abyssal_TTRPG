@@ -6356,6 +6356,9 @@ entirely from this world. And fear is a slippery slope downward.
 
 Each time a horrific or traumatizing event takes place, the Mind
 Attribute is attacked with a Terror Value. This is an opposing check.
+The Suit only rolls once for the entire encounter, and the result is
+used for all the characters involved.
+
 If the operative wins the check, he can shrug off the effects of
 terror. If he loses the check, he takes the Marks as damage from his
 Mental Endurance (MeE). Once the MeE hits zero, mental degradation
@@ -6386,9 +6389,9 @@ this happens, the Mental Endurance is fully recovered.
 
 ## Mental Degradation
 
-Mental degradation happens in small increments from 1 to 10. Each time
-MeE hits zero, Mental Degradation increases by the marks that caused
-MeE to hit zero.
+Mental degradation (MD) happens in small increments from 1 to 10. 
+Each time MeE hits zero, Mental Degradation increases by the marks 
+of the roll that caused MeE to hit zero.
 
 Mental Degradation can have short-term and long-term consequences.
 Each time the MeE hits 0, two random effects are determined, a
@@ -6406,23 +6409,23 @@ the TN of his Mental Degradation value. If he succeeds, he can avoid
 long-term effects, if not, the effect sets in, making his life
 miserable and probably putting him on medication.
 
-| D20 Roll | Short-Term Effect                              | Long-Term Effect                                |
-|----------|------------------------------------------------|-------------------------------------------------|
-| 1-3      | Minor anxiety, slight jumpiness                | Occasional nightmares, brief intrusive thoughts |
-| 4-6      | Increased heart rate, heightened vigilance     | Mild phobic reactions to similar situations     |
-| 7-9      | Sleep disturbances, irritability               | Periodic anxiety, avoidant behaviours           |
-| 10-12    | Confusion, scattered thoughts                  | Chronic tension, minor memory problems          |
-| 13-14    | Fear, avoidance of certain places/people       | Persistent sadness, emotional numbing           |
-| 15-16    | Anger outbursts, restlessness                  | Difficulty forming close relationships          |
-| 17       | Flashbacks, intense fear                       | Heightened startle response, distrust           |
-| 18       | Severe anxiety, panic attacks                  | Chronic fear, possible development of phobias   |
-| 19       | Debilitating fear, refusal to eat/sleep alone  | Complex PTSD, severe depression                 |
-| 20       | Complete dissociation, psychological breakdown | Long-term disability, potential for self-harm   |
+| D10 + MD Roll | Short-Term Effect                              | Long-Term Effect                                |
+|---------------|------------------------------------------------|-------------------------------------------------|
+| 1-3           | Minor anxiety, slight jumpiness                | Occasional nightmares, brief intrusive thoughts |
+| 4-6           | Increased heart rate, heightened vigilance     | Mild phobic reactions to similar situations     |
+| 7-9           | Sleep disturbances, irritability               | Periodic anxiety, avoidant behaviours           |
+| 10-12         | Confusion, scattered thoughts                  | Chronic tension, minor memory problems          |
+| 13-14         | Fear, avoidance of certain places/people       | Persistent sadness, emotional numbing           |
+| 15-16         | Anger outbursts, restlessness                  | Difficulty forming close relationships          |
+| 17            | Flashbacks, intense fear                       | Heightened startle response, distrust           |
+| 18            | Severe anxiety, panic attacks                  | Chronic fear, possible development of phobias   |
+| 19            | Debilitating fear, refusal to eat/sleep alone  | Complex PTSD, severe depression                 |
+| 20            | Complete dissociation, psychological breakdown | Long-term disability, potential for self-harm   |
 
 ## Treatment of Short-Term Effects
 
 Operatives in Abyssal are trained in applying coping strategies and
-compartmentalization. A skilled field medic can apply emergency
+compartmentalisation. A skilled field medic can apply emergency
 counselling once a situation has cooled down a bit. Each Mark that can
 be achieved on a simple check in the Medical Expertise Area against a
 TN equal to the Mental Degradation reduces the initial effect by that
@@ -6454,7 +6457,7 @@ prolonged exposure.
 
 ## Recovering Mental Degradation
 
-Mental Degradation can be recovered by therapy. Usualy all operative
+Therapy can recover Mental Degradation. Usually all operative
 in Abyssal have access to therapists and mental facilities during
 mission downtime. With access to these 1 point of Mental Degradation
 can be cured over a month.
@@ -6468,11 +6471,11 @@ mental health conditions, depicted in a simplified manner for gameplay
 purposes.
 
 However, it is crucial to acknowledge the stark difference between our
-game\'s portrayal and the profound complexity and severity of these
+game's portrayal and the profound complexity and severity of these
 conditions in real life. Mental health ailments---ranging from
 depression and anxiety to PTSD and severe psychosis---are deeply
 serious and multifaceted, impacting millions of people worldwide. They
-are not merely obstacles to be \'cured\' with a single remedy, but
+are not merely obstacles to be 'cured' with a single remedy, but
 rather ongoing conditions that individuals bravely face every day,
 often requiring a combination of therapy, support, and sometimes
 medication over time.
@@ -6892,6 +6895,42 @@ Luckylie the creator of the vial is save from the haunts, as is
 everybody whose blood was added to the vial on creation. But they have
 paid their price enduring terrible the terrible nightmares and giving
 birth to the haunting terrors.
+
+## Terror Values
+
+This will give you some guidelines for assigning Terror Values (TV) to
+different horrific events and entities in Abyssal. The Terror Value
+represents the psychological impact and the inherent challenge to a
+character's Mind attribute.
+
+| Terror Value | Description                                                     | Example Events                                                                                                                                                                                                                    |
+|:------------:|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      4       | **Unsettling** - Disturbing but within normal human experience  | • Finding a mutilated animal corpse<br>• Witnessing a violent altercation<br>• Discovering evidence of someone watching/stalking the crew<br>• Minor hallucinations or sensory distortions                                        |
+|      6       | **Frightening** - Events that trigger fight-or-flight responses | • Finding a fresh human corpse<br>• Being trapped in a failing life support system<br>• Experiencing sudden violent decompression nearby<br>• Witnessing a serious injury to a crew member                                        |
+|      8       | **Alarming** - Situations that challenge one's worldview        | • Witnessing a brutal murder<br>• Encountering clear evidence of non-human intelligence<br>• Experiencing unexplainable phenomena<br>• Finding signs of deliberate human experimentation                                          |
+|      10      | **Terrifying** - Events beyond normal human comprehension       | • Witnessing a loved one's violent death<br>• Encountering severely mutated human remains<br>• Experiencing time/space distortions<br>• Objects moving or behaving in physically impossible ways                                  |
+|      12      | **Horrific** - Fundamentally reality-challenging experiences    | • Encountering hostile non-human entities<br>• Witnessing multiple deaths in rapid succession<br>• Experiencing a successful occult ritual<br>• Seeing physical laws temporarily suspended                                        |
+|      14      | **Traumatic** - Experiences that shatter psychological defenses | • Being trapped with hostile entities<br>• Witnessing mass casualties<br>• Having brief contact with extradimensional space<br>• Physical tissue transformation (self or others)                                                  |
+|      16      | **Mind-Breaking** - Direct contact with the incomprehensible    | • Prolonged exposure to extradimensional entities<br>• Being subjected to alien experimentation<br>• Witnessing reality fracture and reform<br>• Experiencing consciousness transfer or fragmentation                             |
+|     18+      | **Sanity-Shattering** - Direct confrontation with cosmic horror | • Direct mental contact with ancient cosmic entities<br>• Experiencing complete dissolution of perceived reality<br>• Witnessing the true nature of the universe<br>• Being partially incorporated into an extradimensional being |
+
+## Application Guidelines
+
+- **Context Matters**: The same event might have different Terror
+  Values depending on context, suddenness, and personal connection
+- **Cumulative Effect**: Multiple lower-level terrors in rapid
+  succession should be treated as a higher-level terror
+- **Personal Connection**: Add +2 TV when the horror directly involves
+  a character's personal background or loved ones
+- **Preparation**: Reduce TV by 2 if characters have been specifically
+  warned or prepared for the horror
+- **Temptation Dice**: Consider allowing players to use Temptation
+  Dice for critical terror checks, representing pushing through fear
+  at potential future cost
+
+Remember that Terror checks should be meaningful narrative moments,
+not just mechanical challenges. Describe the horror vividly and allow
+players to roleplay their characters' psychological responses.
 
 # Appendix of Tables
 
